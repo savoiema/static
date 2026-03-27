@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Collection Viewer</title>
+    <link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+    <!-- Theme Toggle -->
+    <button id="theme-toggle" class="theme-toggle" title="Toggle dark/light mode">
+        <span class="theme-icon">🌙</span>
+    </button>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat">
+                    <span class="stat-value" id="total-cards">0</span>
+                    <span class="stat-label">Total Cards</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="signed-cards">0</span>
+                    <span class="stat-label">Signed</span>
+                </div>
+                <div class="stat stat-clickable" onclick="showSignersModal()" title="Click to see all signers">
+                    <span class="stat-value" id="unique-signers">0</span>
+                    <span class="stat-label">Signers</span>
+                    <span class="stat-hint">Click to view</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="unique-disciplines">0</span>
+                    <span class="stat-label">Disciplines</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filters -->
+    <div class="filters">
+        <div class="container">
+            <input type="text" id="search" placeholder="🔍 Search by name, discipline, signer..." class="search-box">
+            <div class="filter-row">
+                <select id="filter-discipline" class="filter-select">
+                    <option value="">All Disciplines</option>
+                </select>
+                <select id="filter-item-type" class="filter-select">
+                    <option value="">All Types</option>
+                </select>
+                <select id="filter-signed" class="filter-select">
+                    <option value="">All Cards</option>
+                    <option value="signed">Signed Only</option>
+                    <option value="unsigned">Unsigned Only</option>
+                </select>
+                <button id="clear-filters" class="btn-clear">✕ Clear</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cards Grid -->
+    <div class="container">
+        <div id="results-count" class="results-count"></div>
+        <div id="cards-grid" class="cards-grid"></div>
+        <div id="no-results" class="no-results" style="display: none;">
+            <p>No cards found matching your filters.</p>
+        </div>
+    </div>
+
+    <!-- Card Detail Modal -->
+    <div id="card-modal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <!-- Signers Modal -->
+    <div id="signers-modal" class="modal">
+        <div class="modal-content modal-signers">
+            <span class="modal-close" onclick="closeSignersModal()">&times;</span>
+            <h2>All Signers</h2>
+            <div class="signers-search">
+                <input type="text" id="signers-search-input" placeholder="🔍 Search signers..." class="search-box">
+            </div>
+            <div id="signers-list" class="signers-list"></div>
+        </div>
+    </div>
+
+    <!-- Image Zoom Modal -->
+    <div id="image-zoom" class="image-zoom" onclick="closeImageZoom()">
+        <span class="zoom-close">&times;</span>
+        <img id="zoom-image" class="zoom-image" alt="Zoomed image">
+    </div>
+
+    <!-- Scroll to Top Button -->
+    <button id="scroll-to-top" class="scroll-to-top" title="Scroll to top">
+        ⬆️
+    </button>
+
+    <script src="viewer.js"></script>
+</body>
+</html>
