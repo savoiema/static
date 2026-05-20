@@ -3903,7 +3903,7 @@ const collectionData = {
     },
     {
       "id": 5118,
-      "driver_name": "Mika Häkkinen",
+      "driver_name": "Mika H\u00e4kkinen",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -3915,7 +3915,7 @@ const collectionData = {
       "date_modified": "2026-04-21 14:42:22.377729",
       "signatures_list": [
         {
-          "signer": "Mika Häkkinen",
+          "signer": "Mika H\u00e4kkinen",
           "date": null
         }
       ],
@@ -12552,7 +12552,7 @@ const collectionData = {
     },
     {
       "id": 4713,
-      "driver_name": "René Arnoux",
+      "driver_name": "Ren\u00e9 Arnoux",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -12564,7 +12564,7 @@ const collectionData = {
       "date_modified": "2026-03-26 22:43:56.339382",
       "signatures_list": [
         {
-          "signer": "René Arnoux",
+          "signer": "Ren\u00e9 Arnoux",
           "date": null
         }
       ],
@@ -12720,7 +12720,7 @@ const collectionData = {
     },
     {
       "id": 4705,
-      "driver_name": "Mika Häkkinen",
+      "driver_name": "Mika H\u00e4kkinen",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -12732,7 +12732,7 @@ const collectionData = {
       "date_modified": "2026-03-26 18:08:05.534118",
       "signatures_list": [
         {
-          "signer": "Mika Häkkinen",
+          "signer": "Mika H\u00e4kkinen",
           "date": null
         }
       ],
@@ -13043,7 +13043,7 @@ const collectionData = {
     },
     {
       "id": 4690,
-      "driver_name": "Stéphane Richer",
+      "driver_name": "St\u00e9phane Richer",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -13055,7 +13055,7 @@ const collectionData = {
       "date_modified": "2026-03-26 18:00:57.205315",
       "signatures_list": [
         {
-          "signer": "Stéphane Richer",
+          "signer": "St\u00e9phane Richer",
           "date": null
         }
       ],
@@ -14053,7 +14053,7 @@ const collectionData = {
     },
     {
       "id": 4644,
-      "driver_name": "Kimi Räikkönen",
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
       "year": null,
       "manufacturer": "Topps",
       "series": "",
@@ -14065,7 +14065,7 @@ const collectionData = {
       "date_modified": "2026-03-25 19:55:55.234750",
       "signatures_list": [
         {
-          "signer": "Kimi Räikkönen",
+          "signer": "Kimi R\u00e4ikk\u00f6nen",
           "date": null
         }
       ],
@@ -17937,7 +17937,7 @@ const collectionData = {
     },
     {
       "id": 4464,
-      "driver_name": "François Cevert",
+      "driver_name": "Fran\u00e7ois Cevert",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -17949,7 +17949,7 @@ const collectionData = {
       "date_modified": "2026-03-22 21:52:45.190632",
       "signatures_list": [
         {
-          "signer": "François Cevert",
+          "signer": "Fran\u00e7ois Cevert",
           "date": null
         }
       ],
@@ -40970,7 +40970,7 @@ const collectionData = {
     },
     {
       "id": 3370,
-      "driver_name": "Alex Müller",
+      "driver_name": "Alex M\u00fcller",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -40982,7 +40982,7 @@ const collectionData = {
       "date_modified": "2026-01-11 20:20:55.118686",
       "signatures_list": [
         {
-          "signer": "Alex Müller",
+          "signer": "Alex M\u00fcller",
           "date": null
         }
       ],
@@ -81689,7 +81689,7 @@ const collectionData = {
     },
     {
       "id": 1430,
-      "driver_name": "Walter Röhrl",
+      "driver_name": "Walter R\u00f6hrl",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -81701,7 +81701,7 @@ const collectionData = {
       "date_modified": "2025-11-01 00:16:28.115699",
       "signatures_list": [
         {
-          "signer": "Walter Röhrl",
+          "signer": "Walter R\u00f6hrl",
           "date": null
         }
       ],
@@ -83049,7 +83049,7 @@ const collectionData = {
     },
     {
       "id": 1366,
-      "driver_name": "Kimi Räikkönen",
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -83061,7 +83061,7 @@ const collectionData = {
       "date_modified": "2025-10-31 22:28:07.288744",
       "signatures_list": [
         {
-          "signer": "Kimi Räikkönen",
+          "signer": "Kimi R\u00e4ikk\u00f6nen",
           "date": null
         }
       ],
@@ -83091,7 +83091,7 @@ const collectionData = {
     },
     {
       "id": 1364,
-      "driver_name": "Kimi Räikkönen",
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -83103,7 +83103,7 @@ const collectionData = {
       "date_modified": "2025-10-31 22:29:31.913532",
       "signatures_list": [
         {
-          "signer": "Kimi Räikkönen",
+          "signer": "Kimi R\u00e4ikk\u00f6nen",
           "date": null
         }
       ],
@@ -83406,7 +83406,7 @@ const collectionData = {
     },
     {
       "id": 1349,
-      "driver_name": "Walter Röhrl",
+      "driver_name": "Walter R\u00f6hrl",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -83418,7 +83418,7 @@ const collectionData = {
       "date_modified": "2025-11-01 00:16:41.160474",
       "signatures_list": [
         {
-          "signer": "Walter Röhrl",
+          "signer": "Walter R\u00f6hrl",
           "date": null
         }
       ],
@@ -104542,8 +104542,13 @@ const collectionData = {
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-10-24 21:38:00.690557",
-      "date_modified": "2025-10-24 21:38:00.690557",
-      "signatures_list": [],
+      "date_modified": "2026-05-07 14:51:07.912362",
+      "signatures_list": [
+        {
+          "signer": "Harry Melling",
+          "date": null
+        }
+      ],
       "image_front_file": "images/card_341_front.jpg",
       "image_back_file": null
     },
@@ -106402,8 +106407,13 @@ const collectionData = {
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-10-24 21:37:59.666829",
-      "date_modified": "2025-10-24 21:37:59.666829",
-      "signatures_list": [],
+      "date_modified": "2026-05-07 14:50:29.659354",
+      "signatures_list": [
+        {
+          "signer": "Tommy Ellis",
+          "date": null
+        }
+      ],
       "image_front_file": "images/card_250_front.jpg",
       "image_back_file": null
     },
@@ -111621,16 +111631,200 @@ const collectionData = {
       "image_back_file": null
     }
   ],
+  "disciplines": [
+    {
+      "id": 1,
+      "name": "Formula 1",
+      "sort_order": 0,
+      "date_added": "2025-10-31 16:12:05.883346"
+    },
+    {
+      "id": 2,
+      "name": "NASCAR",
+      "sort_order": 1,
+      "date_added": "2025-10-31 16:12:05.886795"
+    },
+    {
+      "id": 3,
+      "name": "IndyCar",
+      "sort_order": 2,
+      "date_added": "2025-10-31 16:12:05.887653"
+    },
+    {
+      "id": 4,
+      "name": "Rally",
+      "sort_order": 3,
+      "date_added": "2025-10-31 16:12:05.888308"
+    },
+    {
+      "id": 5,
+      "name": "MotoGP",
+      "sort_order": 4,
+      "date_added": "2025-10-31 16:12:05.888976"
+    },
+    {
+      "id": 6,
+      "name": "Football",
+      "sort_order": 5,
+      "date_added": "2025-10-31 16:12:05.889486"
+    },
+    {
+      "id": 7,
+      "name": "Basketball",
+      "sort_order": 6,
+      "date_added": "2025-10-31 16:12:05.890022"
+    },
+    {
+      "id": 8,
+      "name": "Baseball",
+      "sort_order": 7,
+      "date_added": "2025-10-31 16:12:05.890525"
+    },
+    {
+      "id": 9,
+      "name": "Hockey",
+      "sort_order": 8,
+      "date_added": "2025-10-31 16:12:05.890950"
+    },
+    {
+      "id": 10,
+      "name": "Other",
+      "sort_order": 9,
+      "date_added": "2025-10-31 16:12:05.891378"
+    },
+    {
+      "id": 11,
+      "name": "Wrestler",
+      "sort_order": 10,
+      "date_added": "2025-10-31 16:19:57.006726"
+    },
+    {
+      "id": 12,
+      "name": "Politics",
+      "sort_order": 11,
+      "date_added": "2025-10-31 16:20:13.314971"
+    },
+    {
+      "id": 13,
+      "name": "Boxer",
+      "sort_order": 12,
+      "date_added": "2025-10-31 16:23:43.983997"
+    },
+    {
+      "id": 14,
+      "name": "NHRA",
+      "sort_order": 13,
+      "date_added": "2025-10-31 16:24:43.558608"
+    },
+    {
+      "id": 15,
+      "name": "Music",
+      "sort_order": 14,
+      "date_added": "2025-10-31 16:25:08.042990"
+    },
+    {
+      "id": 16,
+      "name": "Actor",
+      "sort_order": 15,
+      "date_added": "2025-10-31 16:25:13.358100"
+    }
+  ],
+  "item_types": [
+    {
+      "id": 1,
+      "name": "Card",
+      "sort_order": 0,
+      "date_added": "2025-10-31 16:12:05.892011"
+    },
+    {
+      "id": 2,
+      "name": "Hero Card",
+      "sort_order": 1,
+      "date_added": "2025-10-31 16:12:05.892400"
+    },
+    {
+      "id": 3,
+      "name": "Postcard",
+      "sort_order": 2,
+      "date_added": "2025-10-31 16:12:05.892793"
+    },
+    {
+      "id": 4,
+      "name": "Photo",
+      "sort_order": 3,
+      "date_added": "2025-10-31 16:12:05.893193"
+    },
+    {
+      "id": 5,
+      "name": "Poster",
+      "sort_order": 4,
+      "date_added": "2025-10-31 16:12:05.893550"
+    },
+    {
+      "id": 6,
+      "name": "Magazine",
+      "sort_order": 5,
+      "date_added": "2025-10-31 16:12:05.893952"
+    },
+    {
+      "id": 7,
+      "name": "Press Kit",
+      "sort_order": 6,
+      "date_added": "2025-10-31 16:12:05.894348"
+    },
+    {
+      "id": 8,
+      "name": "Ticket",
+      "sort_order": 7,
+      "date_added": "2025-10-31 16:12:05.894732"
+    },
+    {
+      "id": 9,
+      "name": "Program",
+      "sort_order": 8,
+      "date_added": "2025-10-31 16:12:05.895187"
+    },
+    {
+      "id": 10,
+      "name": "Other",
+      "sort_order": 9,
+      "date_added": "2025-10-31 16:12:05.895566"
+    },
+    {
+      "id": 11,
+      "name": "CD Cover",
+      "sort_order": 10,
+      "date_added": "2025-10-31 16:26:03.909115"
+    },
+    {
+      "id": 12,
+      "name": "Sticker",
+      "sort_order": 11,
+      "date_added": "2025-10-31 16:28:33.136701"
+    },
+    {
+      "id": 13,
+      "name": "Body Panel",
+      "sort_order": 12,
+      "date_added": "2025-10-31 16:30:28.589591"
+    },
+    {
+      "id": 14,
+      "name": "Magazine cutout",
+      "sort_order": 13,
+      "date_added": "2025-10-31 16:32:39.730035"
+    }
+  ],
   "stats": {
     "total_cards": 5286,
-    "signed_cards": 5211,
-    "unsigned_cards": 75,
+    "signed_cards": 5213,
+    "unsigned_cards": 73,
     "unique_signers": 2045,
     "unique_disciplines": 15,
     "unique_manufacturers": 79,
     "unique_series": 41
   },
-  "export_date": "2026-04-29T21:44:58.975544",
+  "export_date": "2026-05-19T20:06:07.808827",
   "version": "3.0"
 };
 
