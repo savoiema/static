@@ -117808,7 +117808,7 @@ const collectionData = {
     "unique_manufacturers": 80,
     "unique_series": 42
   },
-  "export_date": "2026-06-01T23:44:08.899795",
+  "export_date": "2026-06-02T11:18:18.643325",
   "version": "3.0"
 };
 
@@ -117819,7 +117819,9 @@ let currentFilters = {
     search: '',
     discipline: '',
     itemType: '',
-    signed: ''
+    signed: '',
+    year: '',
+    manufacturer: ''
 };
 
 // Lazy Loading for Images
@@ -117861,7 +117863,12 @@ document.addEventListener('DOMContentLoaded', () => {
     setupEventListeners();
     setupSignersSearch();
     setupScrollToTop();
-    displayCards(allCards);
+    const cardId = readUrlParams();
+    applyFilters();
+    if (cardId) {
+        const card = allCards.find(c => String(c.id) === String(cardId));
+        if (card) showCardDetail(card);
+    }
 });
 
 // Theme Management
@@ -117922,12 +117929,34 @@ function populateFilters() {
         option.textContent = t;
         itemTypeSelect.appendChild(option);
     });
+
+    // Years
+    const yearSelect = document.getElementById('filter-year');
+    const years = [...new Set(allCards.map(c => c.year).filter(Boolean))].sort((a, b) => b - a);
+    years.forEach(y => {
+        const option = document.createElement('option');
+        option.value = y;
+        option.textContent = y;
+        yearSelect.appendChild(option);
+    });
+
+    // Manufacturers
+    const manufacturerSelect = document.getElementById('filter-manufacturer');
+    const manufacturers = [...new Set(allCards.map(c => c.manufacturer).filter(Boolean))].sort();
+    manufacturers.forEach(m => {
+        const option = document.createElement('option');
+        option.value = m;
+        option.textContent = m;
+        manufacturerSelect.appendChild(option);
+    });
 }
 
 function setupEventListeners() {
     document.getElementById('search').addEventListener('input', handleSearch);
     document.getElementById('filter-discipline').addEventListener('change', handleFilter);
     document.getElementById('filter-item-type').addEventListener('change', handleFilter);
+    document.getElementById('filter-year').addEventListener('change', handleFilter);
+    document.getElementById('filter-manufacturer').addEventListener('change', handleFilter);
     document.getElementById('filter-signed').addEventListener('change', handleFilter);
     document.getElementById('clear-filters').addEventListener('click', clearFilters);
     document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
@@ -117956,13 +117985,18 @@ function clearFilters() {
     document.getElementById('search').value = '';
     document.getElementById('filter-discipline').value = '';
     document.getElementById('filter-item-type').value = '';
+    document.getElementById('filter-year').value = '';
+    document.getElementById('filter-manufacturer').value = '';
     document.getElementById('filter-signed').value = '';
     currentFilters = {
         search: '',
         discipline: '',
         itemType: '',
-        signed: ''
+        signed: '',
+        year: '',
+        manufacturer: ''
     };
+    updateUrl();
     applyFilters();
 }
 
@@ -117998,10 +118032,21 @@ function applyFilters() {
             if (currentFilters.signed === 'signed' && !isSigned) return false;
             if (currentFilters.signed === 'unsigned' && isSigned) return false;
         }
-        
+
+        // Year filter
+        if (currentFilters.year && String(card.year) !== String(currentFilters.year)) {
+            return false;
+        }
+
+        // Manufacturer filter
+        if (currentFilters.manufacturer && card.manufacturer !== currentFilters.manufacturer) {
+            return false;
+        }
+
         return true;
     });
-    
+
+    updateUrl();
     displayCards(filteredCards);
 }
 
@@ -118208,12 +118253,14 @@ function showCardDetail(card) {
         </div>
     `;
     
+    openCardUrl(card.id);
     modal.style.display = 'block';
 }
 
 function closeModal() {
     document.getElementById('card-modal').style.display = 'none';
-    closeImageZoom(); // Close zoom if open
+    closeImageZoom();
+    closeCardUrl();
 }
 
 // Image Zoom Functions
@@ -118371,6 +118418,48 @@ function setupScrollToTop() {
             behavior: 'smooth'
         });
     });
+}
+
+// URL Management
+function readUrlParams() {
+    const params = new URLSearchParams(window.location.search);
+
+    const year = params.get('year');
+    if (year) {
+        const yearSelect = document.getElementById('filter-year');
+        if (yearSelect) yearSelect.value = year;
+        currentFilters.year = year;
+    }
+
+    const manufacturer = params.get('manufacturer');
+    if (manufacturer) {
+        const mfgSelect = document.getElementById('filter-manufacturer');
+        if (mfgSelect) mfgSelect.value = manufacturer;
+        currentFilters.manufacturer = manufacturer;
+    }
+
+    return params.get('card');
+}
+
+function updateUrl() {
+    const params = new URLSearchParams();
+    if (currentFilters.year) params.set('year', currentFilters.year);
+    if (currentFilters.manufacturer) params.set('manufacturer', currentFilters.manufacturer);
+    const newUrl = params.toString() ? ('?' + params.toString()) : window.location.pathname;
+    history.replaceState(null, '', newUrl);
+}
+
+function openCardUrl(cardId) {
+    const params = new URLSearchParams(window.location.search);
+    params.set('card', cardId);
+    history.replaceState(null, '', '?' + params.toString());
+}
+
+function closeCardUrl() {
+    const params = new URLSearchParams(window.location.search);
+    params.delete('card');
+    const newUrl = params.toString() ? ('?' + params.toString()) : window.location.pathname;
+    history.replaceState(null, '', newUrl);
 }
 
 console.log('🌐 Card Collection Viewer v3.0');
