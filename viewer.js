@@ -38861,14 +38861,14 @@ const collectionData = {
       "id": 3753,
       "driver_name": "Mike Weeden",
       "year": 1992,
-      "manufacturer": "Winners Choice",
+      "manufacturer": "Winner's Choice",
       "series": "",
       "card_number": "59",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-01-22 23:14:34.287241",
-      "date_modified": "2026-01-22 23:23:54.042006",
+      "date_modified": "2026-06-03 20:27:23.334072",
       "signatures_list": [
         {
           "signer": "Mike Weeden",
@@ -60859,14 +60859,14 @@ const collectionData = {
       "id": 2704,
       "driver_name": "Bobby Labonte",
       "year": 2000,
-      "manufacturer": "2000",
-      "series": "",
+      "manufacturer": "Press Pass",
+      "series": "Premium",
       "card_number": "70",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-26 12:48:53.761225",
-      "date_modified": "2025-11-26 12:48:53.761225",
+      "date_modified": "2026-06-03 20:29:25.570002",
       "signatures_list": [
         {
           "signer": "Bobby Labonte",
@@ -62336,14 +62336,14 @@ const collectionData = {
       "id": 2634,
       "driver_name": "Bill Elliott",
       "year": 1997,
-      "manufacturer": "wheels",
+      "manufacturer": "Wheels",
       "series": "",
       "card_number": "20",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-25 23:14:31.185836",
-      "date_modified": "2025-11-25 23:14:31.185836",
+      "date_modified": "2026-06-03 20:26:38.124271",
       "signatures_list": [
         {
           "signer": "Bill Elliott",
@@ -117805,10 +117805,10 @@ const collectionData = {
     "unsigned_cards": 73,
     "unique_signers": 2127,
     "unique_disciplines": 15,
-    "unique_manufacturers": 80,
+    "unique_manufacturers": 77,
     "unique_series": 42
   },
-  "export_date": "2026-06-02T11:18:18.643325",
+  "export_date": "2026-06-03T20:42:59.206283",
   "version": "3.0"
 };
 
