@@ -2,6 +2,73 @@
 const collectionData = {
   "cards": [
     {
+      "id": 5747,
+      "driver_name": "Bas Rutten",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Other",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 15:50:59.819746",
+      "date_modified": "2026-07-21 15:50:59.819746",
+      "signatures_list": [
+        {
+          "signer": "Bas Rutten",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5747_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5746,
+      "driver_name": "Bas Rutten",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Other",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 15:50:36.637877",
+      "date_modified": "2026-07-21 15:50:36.637877",
+      "signatures_list": [
+        {
+          "signer": "Bas Rutten",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5746_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5745,
+      "driver_name": "Dale Earnhardt",
+      "year": 1996,
+      "manufacturer": "Pinnacle",
+      "series": "Racer's Choice",
+      "card_number": "27",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 15:49:07.992383",
+      "date_modified": "2026-07-21 15:49:07.992383",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        },
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5745_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5744,
       "driver_name": "Rodney Dangerfield",
       "year": null,
@@ -50,11 +117,11 @@ const collectionData = {
       "manufacturer": "",
       "series": "",
       "card_number": "1",
-      "discipline": "Other",
+      "discipline": "Astronaut",
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-06-22 19:47:46.764946",
-      "date_modified": "2026-06-22 19:47:46.764946",
+      "date_modified": "2026-06-25 21:02:54.507237",
       "signatures_list": [
         {
           "signer": "Deke Slayton",
@@ -13438,11 +13505,11 @@ const collectionData = {
       "manufacturer": "",
       "series": "",
       "card_number": "1",
-      "discipline": "Other",
+      "discipline": "Astronaut",
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-04-21 14:23:13.787787",
-      "date_modified": "2026-04-21 14:23:13.787787",
+      "date_modified": "2026-06-25 21:03:13.726374",
       "signatures_list": [
         {
           "signer": "Sally Ride",
@@ -13459,11 +13526,11 @@ const collectionData = {
       "manufacturer": "",
       "series": "",
       "card_number": "1",
-      "discipline": "Other",
+      "discipline": "Astronaut",
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-04-21 14:22:33.728276",
-      "date_modified": "2026-04-21 14:22:33.728276",
+      "date_modified": "2026-06-25 21:03:22.047152",
       "signatures_list": [
         {
           "signer": "Guion Bluford",
@@ -21118,11 +21185,11 @@ const collectionData = {
       "manufacturer": "",
       "series": "",
       "card_number": "1",
-      "discipline": "Politics",
+      "discipline": "Astronaut",
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-04-01 23:10:03.341184",
-      "date_modified": "2026-04-01 23:10:03.341184",
+      "date_modified": "2026-06-25 21:03:51.869503",
       "signatures_list": [
         {
           "signer": "John Glen",
@@ -61247,11 +61314,11 @@ const collectionData = {
       "manufacturer": "",
       "series": "",
       "card_number": "1",
-      "discipline": "Politics",
+      "discipline": "Astronaut",
       "item_type": "Photo",
       "notes": "",
       "date_added": "2025-12-05 23:30:55.280431",
-      "date_modified": "2025-12-05 23:30:55.280431",
+      "date_modified": "2026-06-25 21:04:16.493042",
       "signatures_list": [
         {
           "signer": "Buzz Aldrin",
@@ -121033,6 +121100,12 @@ const collectionData = {
       "name": "Actor",
       "sort_order": 15,
       "date_added": "2025-10-31 16:25:13.358100"
+    },
+    {
+      "id": 17,
+      "name": "Astronaut",
+      "sort_order": 16,
+      "date_added": "2026-06-25 21:02:39.003365"
     }
   ],
   "item_types": [
@@ -121122,15 +121195,15 @@ const collectionData = {
     }
   ],
   "stats": {
-    "total_cards": 5725,
-    "signed_cards": 5651,
+    "total_cards": 5728,
+    "signed_cards": 5654,
     "unsigned_cards": 74,
-    "unique_signers": 2199,
-    "unique_disciplines": 15,
+    "unique_signers": 2200,
+    "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-06-22T19:51:20.187539",
+  "export_date": "2026-07-21T15:52:33.158765",
   "version": "3.0"
 };
 
