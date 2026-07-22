@@ -1,6 +1,1056 @@
 {
   "cards": [
     {
+      "id": 5869,
+      "driver_name": "Cole Custer",
+      "year": 2016,
+      "manufacturer": "Panini",
+      "series": "",
+      "card_number": "87",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:49:59.639361",
+      "date_modified": "2026-07-22 11:49:59.639361",
+      "signatures_list": [
+        {
+          "signer": "Cole Custer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5869_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5868,
+      "driver_name": "Jordan Anderson",
+      "year": 2015,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:49:16.887841",
+      "date_modified": "2026-07-22 11:49:16.887841",
+      "signatures_list": [
+        {
+          "signer": "Jordan Anderson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5868_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5867,
+      "driver_name": "Tyler Malsam",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "67",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:48:38.308837",
+      "date_modified": "2026-07-22 11:48:38.308837",
+      "signatures_list": [
+        {
+          "signer": "Tyler Malsam",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5867_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5866,
+      "driver_name": "Mark Martin",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "77",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:47:06.853657",
+      "date_modified": "2026-07-22 11:47:06.853657",
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5866_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5865,
+      "driver_name": "Dale Earnhardt Jr",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "79",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:46:13.457261",
+      "date_modified": "2026-07-22 11:46:13.457261",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5865_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5864,
+      "driver_name": "Denny Hamlin",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "40",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:45:33.580454",
+      "date_modified": "2026-07-22 11:45:33.580454",
+      "signatures_list": [
+        {
+          "signer": "Denny Hamlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5864_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5863,
+      "driver_name": "Sterling Marlin",
+      "year": 2003,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "17",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:44:51.133516",
+      "date_modified": "2026-07-22 11:44:51.133516",
+      "signatures_list": [
+        {
+          "signer": "Sterling Marlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5863_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5862,
+      "driver_name": "Rusty Wallace",
+      "year": 2004,
+      "manufacturer": "Wheels",
+      "series": "",
+      "card_number": "35",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:44:18.478123",
+      "date_modified": "2026-07-22 11:44:18.478123",
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5862_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5861,
+      "driver_name": "Ricky Rudd",
+      "year": 2002,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "29",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:43:46.942586",
+      "date_modified": "2026-07-22 11:43:46.942586",
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5861_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5860,
+      "driver_name": "Michael Waltrip",
+      "year": 2002,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "64",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:42:52.416207",
+      "date_modified": "2026-07-22 11:42:52.416207",
+      "signatures_list": [
+        {
+          "signer": "Michael Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5860_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5859,
+      "driver_name": "Scott Wimmer",
+      "year": 2002,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "54",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:41:47.316216",
+      "date_modified": "2026-07-22 11:41:47.316216",
+      "signatures_list": [
+        {
+          "signer": "Scott Wimmer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5859_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5858,
+      "driver_name": "Jeff Green",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "35",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:41:19.389134",
+      "date_modified": "2026-07-22 11:41:19.389134",
+      "signatures_list": [
+        {
+          "signer": "Jeff Green",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5858_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5857,
+      "driver_name": "Bobby Labonte",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "Trackside",
+      "card_number": "13",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:40:50.328940",
+      "date_modified": "2026-07-22 11:40:50.328940",
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5857_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5856,
+      "driver_name": "Mark Martin",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "46",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:40:04.822771",
+      "date_modified": "2026-07-22 11:40:04.822771",
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5856_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5855,
+      "driver_name": "Kevin Grubb",
+      "year": 2001,
+      "manufacturer": "Upper Deck",
+      "series": "High Gear",
+      "card_number": "33",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:36:08.830549",
+      "date_modified": "2026-07-22 11:36:08.830549",
+      "signatures_list": [
+        {
+          "signer": "Kevin Grubb",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5855_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5854,
+      "driver_name": "Steve Park",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "90",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:35:40.615435",
+      "date_modified": "2026-07-22 11:35:40.615435",
+      "signatures_list": [
+        {
+          "signer": "Steve Park",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5854_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5853,
+      "driver_name": "Kevin Harvick",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "Trackside",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:34:17.027811",
+      "date_modified": "2026-07-22 11:34:17.027811",
+      "signatures_list": [
+        {
+          "signer": "Kevin Harvick",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5853_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5852,
+      "driver_name": "Steve Park",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "69",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:32:58.175689",
+      "date_modified": "2026-07-22 11:32:58.175689",
+      "signatures_list": [
+        {
+          "signer": "Steve Park",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5852_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5851,
+      "driver_name": "Elliott Sadler",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "94",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:31:36.435425",
+      "date_modified": "2026-07-22 11:31:36.435425",
+      "signatures_list": [
+        {
+          "signer": "Elliott Sadler",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5851_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5850,
+      "driver_name": "Andy Houston",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "Trackside",
+      "card_number": "78",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:30:47.554092",
+      "date_modified": "2026-07-22 11:33:34.922748",
+      "signatures_list": [
+        {
+          "signer": "Andy Houston",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5850_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5849,
+      "driver_name": "Derrike Cope",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:29:34.321228",
+      "date_modified": "2026-07-22 11:29:34.321228",
+      "signatures_list": [
+        {
+          "signer": "Derrike Cope",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5849_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5848,
+      "driver_name": "Darrell Waltrip",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "24",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:28:37.110072",
+      "date_modified": "2026-07-22 11:28:37.110072",
+      "signatures_list": [
+        {
+          "signer": "Darrell Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5848_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5847,
+      "driver_name": "Terry Labonte",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "30",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:28:02.054250",
+      "date_modified": "2026-07-22 11:28:02.054250",
+      "signatures_list": [
+        {
+          "signer": "Terry Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5847_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5846,
+      "driver_name": "Stacy Compton",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "45",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:27:10.695036",
+      "date_modified": "2026-07-22 11:27:10.695036",
+      "signatures_list": [
+        {
+          "signer": "Stacy Compton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5846_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5845,
+      "driver_name": "Rusty Wallace",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "54",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:26:18.943387",
+      "date_modified": "2026-07-22 11:26:18.943387",
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5845_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5844,
+      "driver_name": "Bobby Labonte",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "34",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:25:08.159951",
+      "date_modified": "2026-07-22 11:25:08.159951",
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5844_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5843,
+      "driver_name": "Ricky Rudd",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "16",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:23:52.856755",
+      "date_modified": "2026-07-22 11:23:52.856755",
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5843_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5842,
+      "driver_name": "Michael Waltrip",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "25",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:23:11.696546",
+      "date_modified": "2026-07-22 11:23:11.696546",
+      "signatures_list": [
+        {
+          "signer": "Michael Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5842_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5841,
+      "driver_name": "Darrell Waltrip",
+      "year": 2000,
+      "manufacturer": "Wheels",
+      "series": "High Gear",
+      "card_number": "26",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:22:28.723455",
+      "date_modified": "2026-07-22 11:22:28.723455",
+      "signatures_list": [
+        {
+          "signer": "Darrell Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5841_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5840,
+      "driver_name": "Kevin Lepage",
+      "year": 2000,
+      "manufacturer": "Wheels",
+      "series": "High Gear",
+      "card_number": "23",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:18:51.344299",
+      "date_modified": "2026-07-22 11:18:51.344299",
+      "signatures_list": [
+        {
+          "signer": "Kevin Lepage",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5840_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5839,
+      "driver_name": "Joe Nemechek",
+      "year": 2000,
+      "manufacturer": "Wheels",
+      "series": "High Gear",
+      "card_number": "70",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:17:38.409840",
+      "date_modified": "2026-07-22 11:17:38.409840",
+      "signatures_list": [
+        {
+          "signer": "Joe Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5839_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5838,
+      "driver_name": "John Andretti",
+      "year": 2000,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "26",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:16:54.077619",
+      "date_modified": "2026-07-22 11:16:54.077619",
+      "signatures_list": [
+        {
+          "signer": "John Andretti",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5838_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5837,
+      "driver_name": "Matt Kenseth",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "64",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:15:51.504919",
+      "date_modified": "2026-07-22 11:15:51.504919",
+      "signatures_list": [
+        {
+          "signer": "Matt Kenseth",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5837_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5836,
+      "driver_name": "Ricky Rudd",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "38",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:14:48.258182",
+      "date_modified": "2026-07-22 11:14:48.258182",
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5836_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5835,
+      "driver_name": "Dale Earnhardt Jr",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "PS 4",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:13:45.937534",
+      "date_modified": "2026-07-22 11:13:45.937534",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5835_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5834,
+      "driver_name": "Terry Labonte",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:11:17.783924",
+      "date_modified": "2026-07-22 11:13:09.619345",
+      "signatures_list": [
+        {
+          "signer": "Terry Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5834_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5833,
+      "driver_name": "Matt Kenseth",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "62",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:10:41.752592",
+      "date_modified": "2026-07-22 11:10:41.752592",
+      "signatures_list": [
+        {
+          "signer": "Matt Kenseth",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5833_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5832,
+      "driver_name": "Sterling Marlin",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "14",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:10:10.645256",
+      "date_modified": "2026-07-22 11:10:10.645256",
+      "signatures_list": [
+        {
+          "signer": "Sterling Marlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5832_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5831,
+      "driver_name": "Steven Portenga",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "78",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:09:25.183482",
+      "date_modified": "2026-07-22 11:09:25.183482",
+      "signatures_list": [
+        {
+          "signer": "Steven Portenga",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5831_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5830,
+      "driver_name": "Kenny Irwin",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "85",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:09:00.233678",
+      "date_modified": "2026-07-22 11:09:00.233678",
+      "signatures_list": [
+        {
+          "signer": "Kenny Irwin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5830_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5829,
+      "driver_name": "Elliott Sadler",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "59",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:07:51.898304",
+      "date_modified": "2026-07-22 11:07:51.898304",
+      "signatures_list": [
+        {
+          "signer": "Elliott Sadler",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5829_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5828,
+      "driver_name": "Dale Jarrett",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:07:11.493128",
+      "date_modified": "2026-07-22 11:07:11.493128",
+      "signatures_list": [
+        {
+          "signer": "Dale Jarrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5828_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5827,
+      "driver_name": "Bill Elliott",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "15",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:06:02.041109",
+      "date_modified": "2026-07-22 11:06:02.041109",
+      "signatures_list": [
+        {
+          "signer": "Bill Elliott",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5827_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5826,
+      "driver_name": "Mike Skinner",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "58",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:04:45.811244",
+      "date_modified": "2026-07-22 11:04:45.811244",
+      "signatures_list": [
+        {
+          "signer": "Mike Skinner",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5826_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5825,
+      "driver_name": "Chad Little",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "31",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:03:54.318824",
+      "date_modified": "2026-07-22 11:03:54.318824",
+      "signatures_list": [
+        {
+          "signer": "Chad Little",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5825_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5824,
+      "driver_name": "Jeremy Mayfield",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "retro",
+      "card_number": "106",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:03:24.965393",
+      "date_modified": "2026-07-22 11:03:24.965393",
+      "signatures_list": [
+        {
+          "signer": "Jeremy Mayfield",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5824_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5823,
+      "driver_name": "Mark Martin",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "OB 6",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:02:54.498057",
+      "date_modified": "2026-07-22 11:02:54.498057",
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5823_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5822,
+      "driver_name": "Jimmy Spencer",
+      "year": 1999,
+      "manufacturer": "Wheels",
+      "series": "",
+      "card_number": "32",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:02:05.383144",
+      "date_modified": "2026-07-22 11:02:05.383144",
+      "signatures_list": [
+        {
+          "signer": "Jimmy Spencer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5822_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5821,
+      "driver_name": "Jeff Hammond",
+      "year": 1999,
+      "manufacturer": "Wheels",
+      "series": "",
+      "card_number": "86",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:01:18.231930",
+      "date_modified": "2026-07-22 11:01:18.231930",
+      "signatures_list": [
+        {
+          "signer": "Jeff Hammond",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5821_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5820,
+      "driver_name": "Elliott Sadler",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "83",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-22 11:00:43.448683",
+      "date_modified": "2026-07-22 11:00:43.448683",
+      "signatures_list": [
+        {
+          "signer": "Elliott Sadler",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5820_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5819,
       "driver_name": "Ernie Irvan",
       "year": 1999,
@@ -68566,13 +69616,13 @@
       "driver_name": "Darrell Waltrip",
       "year": 2000,
       "manufacturer": "Press Pass",
-      "series": "",
+      "series": "Premium",
       "card_number": "24",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-25 12:57:25.698349",
-      "date_modified": "2025-11-25 12:57:25.698349",
+      "date_modified": "2026-07-22 11:28:48.765244",
       "signatures_list": [
         {
           "signer": "Darrell Waltrip",
@@ -82498,13 +83548,13 @@
       "driver_name": "Mark Martin",
       "year": 2010,
       "manufacturer": "Wheels",
-      "series": "",
+      "series": "Element",
       "card_number": "77",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-06 21:23:06.076486",
-      "date_modified": "2025-11-06 21:23:06.076486",
+      "date_modified": "2026-07-22 11:47:32.590985",
       "signatures_list": [
         {
           "signer": "Mark Martin",
@@ -91120,13 +92170,13 @@
       "driver_name": "Derrike Cope",
       "year": 1999,
       "manufacturer": "Press Pass",
-      "series": "",
+      "series": "VIP",
       "card_number": "6",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-03 21:02:48.810700",
-      "date_modified": "2025-11-03 21:02:48.810700",
+      "date_modified": "2026-07-22 11:29:22.292243",
       "signatures_list": [
         {
           "signer": "Derrike Cope",
@@ -110702,13 +111752,13 @@
       "driver_name": "Kevin Grubb",
       "year": 2001,
       "manufacturer": "Upper Deck",
-      "series": "",
+      "series": "High Gear",
       "card_number": "33",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-10-25 12:37:46.175292",
-      "date_modified": "2025-10-25 12:37:46.175292",
+      "date_modified": "2026-07-22 11:36:39.652525",
       "signatures_list": [
         {
           "signer": "Kevin Grubb",
@@ -111080,13 +112130,13 @@
       "driver_name": "Ricky Rudd",
       "year": 2000,
       "manufacturer": "Press Pass",
-      "series": "",
+      "series": "Premium",
       "card_number": "16",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-10-25 11:12:34.458627",
-      "date_modified": "2025-10-25 11:12:34.458627",
+      "date_modified": "2026-07-22 11:24:27.829994",
       "signatures_list": [
         {
           "signer": "Ricky Rudd",
@@ -122722,14 +123772,14 @@
     }
   ],
   "stats": {
-    "total_cards": 5800,
-    "signed_cards": 5726,
+    "total_cards": 5850,
+    "signed_cards": 5776,
     "unsigned_cards": 74,
-    "unique_signers": 2211,
+    "unique_signers": 2212,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-07-21T22:53:00.449594",
+  "export_date": "2026-07-22T11:51:11.404306",
   "version": "3.0"
 }
