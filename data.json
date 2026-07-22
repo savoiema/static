@@ -1,6 +1,1534 @@
 {
   "cards": [
     {
+      "id": 5819,
+      "driver_name": "Ernie Irvan",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "73",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:52:05.301085",
+      "date_modified": "2026-07-21 22:52:05.301085",
+      "signatures_list": [
+        {
+          "signer": "Ernie Irvan",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5819_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5818,
+      "driver_name": "Sterling Marlin",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "22",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:51:44.000349",
+      "date_modified": "2026-07-21 22:51:44.000349",
+      "signatures_list": [
+        {
+          "signer": "Sterling Marlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5818_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5817,
+      "driver_name": "Jason Keller",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "32",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:50:31.851076",
+      "date_modified": "2026-07-21 22:50:31.851076",
+      "signatures_list": [
+        {
+          "signer": "Jason Keller",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5817_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5816,
+      "driver_name": "Matt Kenseth",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "33",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:49:35.250483",
+      "date_modified": "2026-07-21 22:49:35.250483",
+      "signatures_list": [
+        {
+          "signer": "Matt Kenseth",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5816_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5815,
+      "driver_name": "Jeff Green",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "Stealth",
+      "card_number": "41",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:48:56.919150",
+      "date_modified": "2026-07-21 22:48:56.919150",
+      "signatures_list": [
+        {
+          "signer": "Jeff Green",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5815_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5814,
+      "driver_name": "Rusty Wallace",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "31",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:48:09.985982",
+      "date_modified": "2026-07-21 22:48:09.985982",
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5814_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5813,
+      "driver_name": "Jeff Buice",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "72",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:47:27.522112",
+      "date_modified": "2026-07-21 22:47:27.522112",
+      "signatures_list": [
+        {
+          "signer": "Jeff Buice",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5813_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5812,
+      "driver_name": "Rich Bickle",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "57",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:47:13.496806",
+      "date_modified": "2026-07-21 22:47:13.496806",
+      "signatures_list": [
+        {
+          "signer": "Rich Bickle",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5812_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5811,
+      "driver_name": "Ward Burton",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "81",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:46:20.339518",
+      "date_modified": "2026-07-21 22:46:20.339518",
+      "signatures_list": [
+        {
+          "signer": "Ward Burton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5811_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5810,
+      "driver_name": "Bobby Hamilton",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "86",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:46:01.131916",
+      "date_modified": "2026-07-21 22:46:01.131916",
+      "signatures_list": [
+        {
+          "signer": "Bobby Hamilton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5810_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5809,
+      "driver_name": "Casey Atwood",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "X 28",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:45:00.730890",
+      "date_modified": "2026-07-21 22:45:00.730890",
+      "signatures_list": [
+        {
+          "signer": "Casey Atwood",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5809_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5808,
+      "driver_name": "Mark Martin",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "29",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:44:04.570505",
+      "date_modified": "2026-07-21 22:44:04.570505",
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5808_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5807,
+      "driver_name": "Jason Jarrett",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "98",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:42:51.478865",
+      "date_modified": "2026-07-21 22:42:51.478865",
+      "signatures_list": [
+        {
+          "signer": "Jason Jarrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5807_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5806,
+      "driver_name": "Dale Jarrett",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "30",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:42:33.416592",
+      "date_modified": "2026-07-21 22:42:33.416592",
+      "signatures_list": [
+        {
+          "signer": "Dale Jarrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5806_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5805,
+      "driver_name": "Mike Dillon",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "45",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:41:24.454112",
+      "date_modified": "2026-07-21 22:41:24.454112",
+      "signatures_list": [
+        {
+          "signer": "Mike Dillon",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5805_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5804,
+      "driver_name": "Tony Stewart",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "48",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:40:44.569860",
+      "date_modified": "2026-07-21 22:40:44.569860",
+      "signatures_list": [
+        {
+          "signer": "Tony Stewart",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5804_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5803,
+      "driver_name": "Bobby Labonte",
+      "year": 1998,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "RT27",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:39:35.174122",
+      "date_modified": "2026-07-21 22:39:35.174122",
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5803_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5802,
+      "driver_name": "Bobby Labonte",
+      "year": 1998,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "P18",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:38:52.307769",
+      "date_modified": "2026-07-21 22:38:52.307769",
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5802_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5801,
+      "driver_name": "Jerry Nadeau",
+      "year": 1998,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "13",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:37:48.952130",
+      "date_modified": "2026-07-21 22:37:48.952130",
+      "signatures_list": [
+        {
+          "signer": "Jerry Nadeau",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5801_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5800,
+      "driver_name": "John Andretti",
+      "year": 1998,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "97",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:36:32.662037",
+      "date_modified": "2026-07-21 22:36:32.662037",
+      "signatures_list": [
+        {
+          "signer": "John Andretti",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5800_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5799,
+      "driver_name": "Jeremy Mayfield",
+      "year": 1998,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "12",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:35:03.242744",
+      "date_modified": "2026-07-21 22:35:03.242744",
+      "signatures_list": [
+        {
+          "signer": "Jeremy Mayfield",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5799_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5798,
+      "driver_name": "Jeff Burton",
+      "year": 1996,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "144",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:34:05.019852",
+      "date_modified": "2026-07-21 22:34:05.019852",
+      "signatures_list": [
+        {
+          "signer": "Jeff Burton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5798_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5797,
+      "driver_name": "Jeff Burton",
+      "year": 1996,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "34",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:33:29.227518",
+      "date_modified": "2026-07-21 22:33:29.227518",
+      "signatures_list": [
+        {
+          "signer": "Jeff Burton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5797_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5796,
+      "driver_name": "Darlington",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "188",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:32:38.247915",
+      "date_modified": "2026-07-21 22:32:38.247915",
+      "signatures_list": [
+        {
+          "signer": "Darlington",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5796_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5795,
+      "driver_name": "WC Champion",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "165",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:32:02.437561",
+      "date_modified": "2026-07-21 22:32:02.437561",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5795_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5794,
+      "driver_name": "Daytona",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "181",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:31:06.878246",
+      "date_modified": "2026-07-21 22:31:06.878246",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5794_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5793,
+      "driver_name": "Charlotte",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "193",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:30:06.600744",
+      "date_modified": "2026-07-21 22:30:06.600744",
+      "signatures_list": [
+        {
+          "signer": "Ernie Irvan",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5793_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5792,
+      "driver_name": "Rockingham",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "194",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:29:13.669126",
+      "date_modified": "2026-07-21 22:30:26.630892",
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        },
+        {
+          "signer": "Buddy Parrott",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5792_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5791,
+      "driver_name": "Bill Wilburn",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "250",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:26:54.966429",
+      "date_modified": "2026-07-21 22:26:54.966429",
+      "signatures_list": [
+        {
+          "signer": "Bill Wilburn",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5791_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5790,
+      "driver_name": "Scott Robinette",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "253",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:26:00.806538",
+      "date_modified": "2026-07-21 22:26:00.806538",
+      "signatures_list": [
+        {
+          "signer": "Scott Robinette",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5790_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5789,
+      "driver_name": "Danny Glad",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "260",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:12:04.313639",
+      "date_modified": "2026-07-21 22:12:04.313639",
+      "signatures_list": [
+        {
+          "signer": "Danny Glad",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5789_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5788,
+      "driver_name": "Jerry Schweitz",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "256",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:11:30.730413",
+      "date_modified": "2026-07-21 22:11:30.730413",
+      "signatures_list": [
+        {
+          "signer": "Jerry Schweitz",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5788_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5787,
+      "driver_name": "Gary Brooke",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "249",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:10:48.441360",
+      "date_modified": "2026-07-21 22:10:48.441360",
+      "signatures_list": [
+        {
+          "signer": "Gary Brooke",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5787_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5786,
+      "driver_name": "James Lewter - All Pro",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "255",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:10:05.481970",
+      "date_modified": "2026-07-21 22:10:05.481970",
+      "signatures_list": [
+        {
+          "signer": "James Lewter",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5786_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5785,
+      "driver_name": "Scott Robinette",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "253",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:08:09.091934",
+      "date_modified": "2026-07-21 22:09:00.778130",
+      "signatures_list": [
+        {
+          "signer": "Scott Robinette",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5785_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5784,
+      "driver_name": "Jeff Clark",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "251",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:07:25.722310",
+      "date_modified": "2026-07-21 22:08:51.975313",
+      "signatures_list": [
+        {
+          "signer": "Jeff Clark",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5784_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5783,
+      "driver_name": "Danny Glad",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "260",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:06:48.441442",
+      "date_modified": "2026-07-21 22:06:48.441442",
+      "signatures_list": [
+        {
+          "signer": "Danny Glad",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5783_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5782,
+      "driver_name": "David Little",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "248",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:05:52.490858",
+      "date_modified": "2026-07-21 22:06:11.585015",
+      "signatures_list": [
+        {
+          "signer": "David Little",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5782_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5781,
+      "driver_name": "Harry Gant",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "246",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:05:01.288289",
+      "date_modified": "2026-07-21 22:05:01.288289",
+      "signatures_list": [
+        {
+          "signer": "Harry Gant",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5781_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5780,
+      "driver_name": "2nd & 3rd Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "249",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 22:01:21.288244",
+      "date_modified": "2026-07-21 22:01:48.445244",
+      "signatures_list": [
+        {
+          "signer": "Paul Andrews",
+          "date": null
+        },
+        {
+          "signer": "Mike Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5780_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5779,
+      "driver_name": "2nd Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "232",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:59:20.964184",
+      "date_modified": "2026-07-21 21:59:41.656768",
+      "signatures_list": [
+        {
+          "signer": "Harry Gant",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5779_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5778,
+      "driver_name": "1st Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "260",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:58:43.237421",
+      "date_modified": "2026-07-21 21:58:43.237421",
+      "signatures_list": [
+        {
+          "signer": "David Little",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5778_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5777,
+      "driver_name": "1st Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "242",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:58:08.577035",
+      "date_modified": "2026-07-21 21:58:08.577035",
+      "signatures_list": [
+        {
+          "signer": "Scott Robinette",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5777_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5776,
+      "driver_name": "Glen Bobo",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "262",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:57:06.252012",
+      "date_modified": "2026-07-21 21:57:06.252012",
+      "signatures_list": [
+        {
+          "signer": "Glen Bobo",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5776_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5775,
+      "driver_name": "2nd & 3rd Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "245",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:56:55.981169",
+      "date_modified": "2026-07-21 21:56:55.981169",
+      "signatures_list": [
+        {
+          "signer": "Charlie Pressley",
+          "date": null
+        },
+        {
+          "signer": "Gary Brooks",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5775_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5774,
+      "driver_name": "2nd & 3rd Team All Pro",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "255",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:55:52.090345",
+      "date_modified": "2026-07-21 21:55:52.090345",
+      "signatures_list": [
+        {
+          "signer": "Dan Ford",
+          "date": null
+        },
+        {
+          "signer": "Darrell Dunn",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5774_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5773,
+      "driver_name": "Jack Whittemore",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "216",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:54:22.734031",
+      "date_modified": "2026-07-21 21:54:22.734031",
+      "signatures_list": [
+        {
+          "signer": "Jack Whittemore",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5773_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5772,
+      "driver_name": "George Bradshaw",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "124",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:53:55.782555",
+      "date_modified": "2026-07-21 21:53:55.782555",
+      "signatures_list": [
+        {
+          "signer": "George Bradshaw",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5772_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5771,
+      "driver_name": "Steve Grissom",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "58",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:53:04.979282",
+      "date_modified": "2026-07-21 21:53:04.979282",
+      "signatures_list": [
+        {
+          "signer": "Steve Grissom",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5771_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5770,
+      "driver_name": "Carl Hill",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "217",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:52:07.390602",
+      "date_modified": "2026-07-21 21:52:07.390602",
+      "signatures_list": [
+        {
+          "signer": "Carl Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5770_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5769,
+      "driver_name": "Junie Donlavey",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "138",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:51:30.990835",
+      "date_modified": "2026-07-21 21:51:30.990835",
+      "signatures_list": [
+        {
+          "signer": "Junie Donlavey",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5769_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5768,
+      "driver_name": "Don Bierschwale",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "139",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:50:52.744520",
+      "date_modified": "2026-07-21 21:50:52.744520",
+      "signatures_list": [
+        {
+          "signer": "Don Bierschwale",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5768_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5767,
+      "driver_name": "Richmond",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "286",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:49:38.424083",
+      "date_modified": "2026-07-21 21:49:38.424083",
+      "signatures_list": [
+        {
+          "signer": "Harry Gant",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5767_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5766,
+      "driver_name": "Glen Bobo",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "262",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:48:51.843648",
+      "date_modified": "2026-07-21 21:48:51.843648",
+      "signatures_list": [
+        {
+          "signer": "Glen Bobo",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5766_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5765,
+      "driver_name": "Elmo Langley",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "215",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:48:07.949628",
+      "date_modified": "2026-07-21 21:48:07.949628",
+      "signatures_list": [
+        {
+          "signer": "Elmo Langley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5765_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5764,
+      "driver_name": "Tim Earp",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "209",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:45:24.291231",
+      "date_modified": "2026-07-21 21:46:47.928714",
+      "signatures_list": [
+        {
+          "signer": "Tim Earp",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5764_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5763,
+      "driver_name": "Bruce Roney",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "209",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:44:29.812387",
+      "date_modified": "2026-07-21 21:44:29.812387",
+      "signatures_list": [
+        {
+          "signer": "Bruce Roney",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5763_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5762,
+      "driver_name": "Glen Wood",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "118",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:43:42.817392",
+      "date_modified": "2026-07-21 21:43:42.817392",
+      "signatures_list": [
+        {
+          "signer": "Glen Wood",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5762_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5761,
+      "driver_name": "Chuck Rider",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "113",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:43:12.569749",
+      "date_modified": "2026-07-21 21:43:12.569749",
+      "signatures_list": [
+        {
+          "signer": "Chuck Rider",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5761_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5760,
+      "driver_name": "H.B. Bailey",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "36",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:42:29.039825",
+      "date_modified": "2026-07-21 21:42:29.039825",
+      "signatures_list": [
+        {
+          "signer": "H.B. Bailey",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5760_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5759,
+      "driver_name": "Cecil Eunice",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "32",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 21:41:41.949381",
+      "date_modified": "2026-07-21 21:41:41.949381",
+      "signatures_list": [
+        {
+          "signer": "Cecil Eunice",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5759_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5758,
+      "driver_name": "Jim Phillips",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "232",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:03:23.360138",
+      "date_modified": "2026-07-21 16:03:23.360138",
+      "signatures_list": [
+        {
+          "signer": "Jim Phillips",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5758_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5757,
+      "driver_name": "Chris Economaki",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "224",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:03:00.610957",
+      "date_modified": "2026-07-21 16:03:00.610957",
+      "signatures_list": [
+        {
+          "signer": "Chris Economaki",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5757_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5756,
+      "driver_name": "Donnie Wingo",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "128",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:02:34.828242",
+      "date_modified": "2026-07-21 16:02:34.828242",
+      "signatures_list": [
+        {
+          "signer": "Donnie Wingo",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5756_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5755,
+      "driver_name": "Travis Carter",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "120",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:02:12.625204",
+      "date_modified": "2026-07-21 16:02:12.625204",
+      "signatures_list": [
+        {
+          "signer": "Travis Carter",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5755_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5754,
+      "driver_name": "Larry McClure",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "81",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:01:41.397934",
+      "date_modified": "2026-07-21 16:01:41.397934",
+      "signatures_list": [
+        {
+          "signer": "Larry McClure",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5754_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5753,
+      "driver_name": "Phil Barkdoll",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "73",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:01:21.311358",
+      "date_modified": "2026-07-21 16:01:21.311358",
+      "signatures_list": [
+        {
+          "signer": "Phil Barkdoll",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5753_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5752,
+      "driver_name": "Jack Pennington",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "47",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:00:53.892556",
+      "date_modified": "2026-07-21 16:00:53.892556",
+      "signatures_list": [
+        {
+          "signer": "Jack Pennington",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5752_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5751,
+      "driver_name": "Brett Bodine",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "26",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 16:00:33.379076",
+      "date_modified": "2026-07-21 16:00:33.379076",
+      "signatures_list": [
+        {
+          "signer": "Brett Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5751_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5750,
+      "driver_name": "J.D. McDuffie",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "70",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "Died in Aug 1991 at the glen. \n\nhttps://en.wikipedia.org/wiki/J._D._McDuffie\nhttps://www.youtube.com/watch?v=S-NZZKqiVSM",
+      "date_added": "2026-07-21 16:00:01.890243",
+      "date_modified": "2026-07-21 16:00:01.890243",
+      "signatures_list": [
+        {
+          "signer": "J.D. McDuffie",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5750_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5749,
+      "driver_name": "Dick Trickle",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "66",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 15:59:18.912700",
+      "date_modified": "2026-07-21 15:59:18.912700",
+      "signatures_list": [
+        {
+          "signer": "Dick Trickle",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5749_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5748,
+      "driver_name": "Dale Earnhardt - All Pro",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "220",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-21 15:58:36.193848",
+      "date_modified": "2026-07-21 15:58:36.193848",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5748_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5747,
       "driver_name": "Bas Rutten",
       "year": null,
@@ -121194,14 +122722,14 @@
     }
   ],
   "stats": {
-    "total_cards": 5728,
-    "signed_cards": 5654,
+    "total_cards": 5800,
+    "signed_cards": 5726,
     "unsigned_cards": 74,
-    "unique_signers": 2200,
+    "unique_signers": 2211,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-07-21T15:52:33.158765",
+  "export_date": "2026-07-21T22:53:00.449594",
   "version": "3.0"
 }
