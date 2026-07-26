@@ -1,6 +1,678 @@
 {
   "cards": [
     {
+      "id": 5901,
+      "driver_name": "Neil Bonnett",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "222",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:27:34.741681",
+      "date_modified": "2026-07-25 23:27:34.741681",
+      "signatures_list": [
+        {
+          "signer": "Neil Bonnett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5901_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5900,
+      "driver_name": "Bobby Allison",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "114",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:27:04.742470",
+      "date_modified": "2026-07-25 23:27:04.742470",
+      "signatures_list": [
+        {
+          "signer": "Bobby Allison",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5900_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5899,
+      "driver_name": "Dale Earnhardt",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "265",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:26:33.810638",
+      "date_modified": "2026-07-25 23:26:33.810638",
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5899_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5898,
+      "driver_name": "Matt DiBenedetto",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "108",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:25:18.003749",
+      "date_modified": "2026-07-25 23:25:18.003749",
+      "signatures_list": [
+        {
+          "signer": "Matt DiBenedetto",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5898_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5897,
+      "driver_name": "Alex Bowman",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "UL7",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:24:00.724603",
+      "date_modified": "2026-07-25 23:24:00.724603",
+      "signatures_list": [
+        {
+          "signer": "Alex Bowman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5897_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5896,
+      "driver_name": "Martin Truex Jr.",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "VL2",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:23:06.236505",
+      "date_modified": "2026-07-25 23:23:06.236505",
+      "signatures_list": [
+        {
+          "signer": "Martin Truex Jr.",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5896_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5895,
+      "driver_name": "Jimmy Johnson",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "149",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:22:28.126678",
+      "date_modified": "2026-07-25 23:22:28.126678",
+      "signatures_list": [
+        {
+          "signer": "Jimmy Johnson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5895_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5894,
+      "driver_name": "Christopher Bell",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "R13",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:21:33.072342",
+      "date_modified": "2026-07-25 23:21:33.072342",
+      "signatures_list": [
+        {
+          "signer": "Christopher Bell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5894_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5893,
+      "driver_name": "Cole Custer",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "121",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:20:57.626209",
+      "date_modified": "2026-07-25 23:20:57.626209",
+      "signatures_list": [
+        {
+          "signer": "Cole Custer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5893_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5892,
+      "driver_name": "Jeff Gordon",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "CD1",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:19:47.744495",
+      "date_modified": "2026-07-25 23:19:47.744495",
+      "signatures_list": [
+        {
+          "signer": "Jeff Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5892_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5891,
+      "driver_name": "Daniel Suarez",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "Optic",
+      "card_number": "84",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:19:28.166702",
+      "date_modified": "2026-07-25 23:19:28.166702",
+      "signatures_list": [
+        {
+          "signer": "Daniel Suarez",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5891_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5890,
+      "driver_name": "Rusty Wallace",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "159",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:18:54.002917",
+      "date_modified": "2026-07-25 23:18:54.002917",
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5890_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5889,
+      "driver_name": "Mark Martin",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "163",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:18:23.563411",
+      "date_modified": "2026-07-25 23:18:23.563411",
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5889_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5888,
+      "driver_name": "Jeff Gordon",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "CD1",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:17:36.524805",
+      "date_modified": "2026-07-25 23:17:36.524805",
+      "signatures_list": [
+        {
+          "signer": "Jeff Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5888_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5887,
+      "driver_name": "Bubba Wallace",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "54",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:16:52.490795",
+      "date_modified": "2026-07-25 23:16:52.490795",
+      "signatures_list": [
+        {
+          "signer": "Bubba Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5887_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5886,
+      "driver_name": "B.J. McLeod",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "26",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:16:08.568273",
+      "date_modified": "2026-07-25 23:16:08.568273",
+      "signatures_list": [
+        {
+          "signer": "B.J. McLeod",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5886_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5885,
+      "driver_name": "Brad Keselowski",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "R10",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:15:25.436271",
+      "date_modified": "2026-07-25 23:15:25.436271",
+      "signatures_list": [
+        {
+          "signer": "Brad Keselowski",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5885_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5884,
+      "driver_name": "Michael Self",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "130",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:14:24.515761",
+      "date_modified": "2026-07-25 23:14:24.515761",
+      "signatures_list": [
+        {
+          "signer": "Michael Self",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5884_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5883,
+      "driver_name": "Martin Truex Jr.",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "C8",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:13:20.966353",
+      "date_modified": "2026-07-25 23:13:20.966353",
+      "signatures_list": [
+        {
+          "signer": "Martin Truex Jr.",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5883_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5882,
+      "driver_name": "Bobby Labonte",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "Optic",
+      "card_number": "75",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:10:54.223501",
+      "date_modified": "2026-07-25 23:10:54.223501",
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5882_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5881,
+      "driver_name": "John Hunter Nemechek",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "64",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:10:02.520958",
+      "date_modified": "2026-07-25 23:10:02.520958",
+      "signatures_list": [
+        {
+          "signer": "John Hunter Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5881_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5880,
+      "driver_name": "Brennan Poole",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "49",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:09:26.603541",
+      "date_modified": "2026-07-25 23:09:26.603541",
+      "signatures_list": [
+        {
+          "signer": "Brennan Poole",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5880_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5879,
+      "driver_name": "Erik Jones",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "59",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:08:51.205331",
+      "date_modified": "2026-07-25 23:08:51.205331",
+      "signatures_list": [
+        {
+          "signer": "Erik Jones",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5879_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5878,
+      "driver_name": "Josh Williams",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "29",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:08:08.292010",
+      "date_modified": "2026-07-25 23:08:08.292010",
+      "signatures_list": [
+        {
+          "signer": "Josh Williams",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5878_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5877,
+      "driver_name": "Clint Bowyer",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "54",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:07:17.115545",
+      "date_modified": "2026-07-25 23:07:17.115545",
+      "signatures_list": [
+        {
+          "signer": "Clint Bowyer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5877_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5876,
+      "driver_name": "Joey Logano",
+      "year": 2020,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "106",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:05:13.648562",
+      "date_modified": "2026-07-25 23:05:13.648562",
+      "signatures_list": [
+        {
+          "signer": "Joey Logano",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5876_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5875,
+      "driver_name": "Matt DiBenedetto",
+      "year": 2020,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "45",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:04:09.581017",
+      "date_modified": "2026-07-25 23:04:09.581017",
+      "signatures_list": [
+        {
+          "signer": "Matt DiBenedetto",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5875_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5874,
+      "driver_name": "Ross Chastain",
+      "year": 2020,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "121",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:03:25.263249",
+      "date_modified": "2026-07-25 23:03:25.263249",
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5874_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5873,
+      "driver_name": "Brad Keselowski",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "32",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:01:39.341573",
+      "date_modified": "2026-07-25 23:01:39.341573",
+      "signatures_list": [
+        {
+          "signer": "Brad Keselowski",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5873_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5872,
+      "driver_name": "Dakoda Armstrong",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "75",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 23:00:29.702966",
+      "date_modified": "2026-07-25 23:00:29.702966",
+      "signatures_list": [
+        {
+          "signer": "Dakoda Armstrong",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5872_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5871,
+      "driver_name": "Reed Sorenson",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "68",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 22:59:43.278988",
+      "date_modified": "2026-07-25 22:59:43.278988",
+      "signatures_list": [
+        {
+          "signer": "Reed Sorenson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5871_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5870,
+      "driver_name": "Aj Allmendinger",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "48",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-25 22:58:57.468753",
+      "date_modified": "2026-07-25 22:58:57.468753",
+      "signatures_list": [
+        {
+          "signer": "Aj Allmendinger",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5870_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5869,
       "driver_name": "Cole Custer",
       "year": 2016,
@@ -123772,14 +124444,14 @@
     }
   ],
   "stats": {
-    "total_cards": 5850,
-    "signed_cards": 5776,
+    "total_cards": 5882,
+    "signed_cards": 5808,
     "unsigned_cards": 74,
-    "unique_signers": 2212,
+    "unique_signers": 2213,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-07-22T11:51:11.404306",
+  "export_date": "2026-07-25T23:28:43.522102",
   "version": "3.0"
 }
