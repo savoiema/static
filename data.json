@@ -1,6 +1,258 @@
 {
   "cards": [
     {
+      "id": 5913,
+      "driver_name": "Johnny Carson",
+      "year": null,
+      "manufacturer": "Power lunch",
+      "series": "",
+      "card_number": "7",
+      "discipline": "Actor",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:29:17.274813",
+      "date_modified": "2026-07-26 00:29:17.274813",
+      "signatures_list": [
+        {
+          "signer": "Johnny Carson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5913_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5912,
+      "driver_name": "Johnny Carson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:28:26.262312",
+      "date_modified": "2026-07-26 00:28:26.262312",
+      "signatures_list": [
+        {
+          "signer": "Johnny Carson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5912_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5911,
+      "driver_name": "George Russell",
+      "year": 2023,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "105",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:27:38.901751",
+      "date_modified": "2026-07-26 00:27:38.901751",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5911_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5910,
+      "driver_name": "George Russell",
+      "year": 2023,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "16",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:27:16.272385",
+      "date_modified": "2026-07-26 00:27:16.272385",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5910_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5909,
+      "driver_name": "George Russell",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "205",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:26:11.051295",
+      "date_modified": "2026-07-26 00:26:11.051295",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5909_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5908,
+      "driver_name": "George Russell",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "206",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:25:44.263970",
+      "date_modified": "2026-07-26 00:25:44.263970",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5908_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5907,
+      "driver_name": "George Russell",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "208",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:25:04.513946",
+      "date_modified": "2026-07-26 00:25:04.513946",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5907_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5906,
+      "driver_name": "George Russell",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "209",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:24:21.892327",
+      "date_modified": "2026-07-26 00:24:21.892327",
+      "signatures_list": [
+        {
+          "signer": "George Russell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5906_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5905,
+      "driver_name": "Fernando Alonso",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "110",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:23:17.050876",
+      "date_modified": "2026-07-26 00:24:35.272686",
+      "signatures_list": [
+        {
+          "signer": "Fernando Alonso",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5905_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5904,
+      "driver_name": "Fernando Alonso",
+      "year": 2024,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "11",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:22:29.677440",
+      "date_modified": "2026-07-26 00:22:29.677440",
+      "signatures_list": [
+        {
+          "signer": "Fernando Alonso",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5904_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5903,
+      "driver_name": "Fernando Alonso",
+      "year": null,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "112",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:21:41.734680",
+      "date_modified": "2026-07-26 00:21:41.734680",
+      "signatures_list": [
+        {
+          "signer": "Fernando Alonso",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5903_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5902,
+      "driver_name": "Fernando Alonso",
+      "year": 2023,
+      "manufacturer": "Topps",
+      "series": "",
+      "card_number": "32",
+      "discipline": "Formula 1",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-07-26 00:21:00.901934",
+      "date_modified": "2026-07-26 00:21:00.901934",
+      "signatures_list": [
+        {
+          "signer": "Fernando Alonso",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5902_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5901,
       "driver_name": "Neil Bonnett",
       "year": 1992,
@@ -124444,14 +124696,14 @@
     }
   ],
   "stats": {
-    "total_cards": 5882,
-    "signed_cards": 5808,
+    "total_cards": 5894,
+    "signed_cards": 5820,
     "unsigned_cards": 74,
     "unique_signers": 2213,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-07-25T23:28:43.522102",
+  "export_date": "2026-07-26T00:30:39.303787",
   "version": "3.0"
 }
