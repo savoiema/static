@@ -124696,6 +124696,50 @@ const collectionData = {
       "date_added": "2025-10-31 16:32:39.730035"
     }
   ],
+  "people": {
+    "Bill Elliott": {
+      "name": "Bill Elliott",
+      "biography": "William Clyde Elliott Sr., also known as \"Awesome Bill from Dawsonville\", \"Million Dollar Bill\", or \"Wild Bill\" is an American former professional stock car racing driver. He last competed in the Superstar Racing Experience part-time in 2022. His accolades include the 1988 Winston Cup Championship and garnering 44 wins in that series, including crown jewel victories in two Daytona 500s, three Southern 500s, one Winston 500 (1985), and one Brickyard 400 (2002). In 1985, Elliott became the first driver to win the Winston Million bonus, earning him the nickname \"Million Dollar Bill\". Elliott achieved a NASCAR record four consecutive wins at Michigan International Speedway between 1985 and 1986, and seven wins overall, the most at any one racetrack in his career. Elliott also won an additional six exhibition (non-points) races in his career, including one Winston All-Star Race win in 1986, one Busch Clash win in 1987, and four Daytona Duel wins in 1985, 1986, 1992, and 2000.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Elliott",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_Elliott_2025.jpg/330px-Bill_Elliott_2025.jpg"
+    },
+    "Dale Earnhardt": {
+      "name": "Dale Earnhardt",
+      "biography": "Ralph Dale Earnhardt was an American professional stock car driver and racing team owner, who raced from 1975 to 2001 in the former NASCAR Winston Cup Series, most notably driving the No.\u00a03 Chevrolet for Richard Childress Racing. His aggressive driving style earned him the nicknames \"the Intimidator\", \"the Man in Black\" and \"Ironhead\"; after his son Dale Earnhardt Jr. joined the Cup Series circuit in 1999, Earnhardt was generally known by the retronyms Dale Earnhardt Sr. and Dale Sr. He is widely regarded as one of the greatest drivers in NASCAR history and was named as one of the NASCAR's 50 Greatest Drivers class in 1998.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Earnhardt",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dale_Earnhardt_visits_Langley_AFB.jpg/330px-Dale_Earnhardt_visits_Langley_AFB.jpg"
+    },
+    "Dale Earnhardt Jr": {
+      "name": "Dale Earnhardt Jr",
+      "biography": "Ralph Dale Earnhardt Jr., also known as \"Dale Jr\" or simply \"Junior\", is an American professional stock car racing driver, team owner, broadcaster for Amazon Prime Video and TNT Sports, and podcaster. A third-generation driver, he is the son of the late 7-time NASCAR Cup Series champion Dale Earnhardt and relative to many former and current drivers in the NASCAR ranks. Since retiring from full-time competition after the 2017 NASCAR Cup Series season, he has competed in select NASCAR Xfinity Series and CARS Late Model Stock Tour races, driving for JR Motorsports, a team of which he is a founder and co-owner of and which bears his namesake.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Earnhardt_Jr.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg/330px-Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg"
+    },
+    "Davey Allison": {
+      "name": "Davey Allison",
+      "biography": "David Carl Allison was an American NASCAR driver. He was best known for driving the No. 28 Texaco-Havoline Ford for Robert Yates Racing in the NASCAR Cup Series. Born in Hollywood, Florida, he was the oldest of four children born to Bobby and Judy Allison. The family moved to Hueytown, Alabama, and along with Bobby Allison's brother, Donnie, Red Farmer and Neil Bonnett, became known as the Alabama Gang.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Davey_Allison",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/DaveyAllisonPocono.jpg"
+    },
+    "George Russell": {
+      "name": "George Russell",
+      "biography": "George William Russell is a British racing driver who competes in Formula One for Mercedes. Russell has won seven Formula One Grands Prix across eight seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/330px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg"
+    },
+    "Johnny Carson": {
+      "name": "Johnny Carson",
+      "biography": "John William Carson was an American television host, comedian, and writer. He was best known as the host of The Tonight Show Starring Johnny Carson, the third installment of The Tonight Show, which aired on NBC from 1962 to 1992.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Carson",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnny_Carson_Tonight_Show_1965.JPG/330px-Johnny_Carson_Tonight_Show_1965.JPG"
+    }
+  },
   "stats": {
     "total_cards": 5894,
     "signed_cards": 5820,
@@ -124705,7 +124749,7 @@ const collectionData = {
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-07-26T00:30:39.303787",
+  "export_date": "2026-08-01T10:27:37.961776",
   "version": "3.0"
 };
 
@@ -125060,7 +125104,7 @@ function showCardDetail(card) {
                 <div class="modal-signatures">
                     ${card.signatures_list.map(sig => `
                         <div class="modal-signature-item">
-                            <span class="modal-signature-name clickable-signer" onclick="filterBySignerAndClose('${sig.signer}')">✍️ ${sig.signer}</span>
+                            <span class="modal-signature-name clickable-signer" onclick="filterBySignerAndClose('${sig.signer}')">✍️ ${sig.signer}</span>${personPageIconHTML(sig.signer)}
                             ${sig.date ? `<span class="modal-signature-date">${sig.date}</span>` : ''}
                         </div>
                     `).join('')}
@@ -125097,7 +125141,7 @@ function showCardDetail(card) {
                         ${Object.entries(cardsBySigner).filter(([_, cards]) => cards.length > 0).map(([signer, cards]) => `
                             <div class="signer-group">
                                 <div class="signer-group-header">
-                                    <span class="signer-group-name clickable-signer" onclick="event.stopPropagation(); filterBySignerAndClose('${signer}')">✍️ ${signer}</span>
+                                    <span class="signer-group-name clickable-signer" onclick="event.stopPropagation(); filterBySignerAndClose('${signer}')">✍️ ${signer}</span>${personPageIconHTML(signer)}
                                     <span class="signer-group-count">${cards.length} card${cards.length === 1 ? '' : 's'}</span>
                                 </div>
                                 <div class="related-cards">
@@ -125123,7 +125167,7 @@ function showCardDetail(card) {
     modalBody.innerHTML = `
         <div class="modal-body-content">
             ${imagesHTML}
-            <div class="modal-title">${card.driver_name || 'Unknown'}</div>
+            <div class="modal-title">${card.driver_name || 'Unknown'}${personPageIconHTML(card.driver_name)}</div>
             <div class="modal-discipline">${card.discipline || 'No discipline'}</div>
             
             <div class="modal-section">
@@ -125187,6 +125231,84 @@ function toggleRelatedCards() {
         toggle.textContent = '▼';
     }
 }
+
+// ============================================
+// PERSON PAGES (biography pages)
+// ============================================
+
+function escapeHtmlPP(str) {
+    if (str === null || str === undefined) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function personPageIconHTML(name) {
+    if (!name) return '';
+    const safe = escapeHtmlPP(name);
+    return `<span class="person-page-icon" onclick="event.stopPropagation(); openPersonPage('${name.replace(/'/g, "\'")}')" title="View ${safe}'s page">👤</span>`;
+}
+
+function findCardsForSigner(name) {
+    return allCards.filter(c => c.signatures_list && c.signatures_list.some(sig => sig.signer === name));
+}
+
+function openPersonPage(name) {
+    const modal = document.getElementById('person-page-modal');
+    const body = document.getElementById('person-page-body');
+    const person = collectionData.people ? collectionData.people[name] : null;
+    const cards = findCardsForSigner(name);
+    const hasBio = !!(person && person.biography);
+
+    const bioSection = hasBio ? `
+        <div class="person-page-bio">
+            ${person.photoUrl ? `<img class="person-page-photo" src="${escapeHtmlPP(person.photoUrl)}" alt="${escapeHtmlPP(name)}">` : ''}
+            <div class="person-page-bio-text">${escapeHtmlPP(person.biography).replace(/\n/g, '<br>')}</div>
+            <div class="person-page-source">Source: ${person.sourceUrl ? `<a href="${escapeHtmlPP(person.sourceUrl)}" target="_blank" rel="noopener">${person.bioSource === 'wikipedia' ? 'Wikipedia' : 'Link'}</a>` : (person.bioSource === 'wikipedia' ? 'Wikipedia' : 'Manual entry')}</div>
+        </div>
+    ` : `
+        <div class="person-page-bio person-page-empty">
+            <em>No biography available for ${escapeHtmlPP(name)} yet. Add one from the collection editor.</em>
+        </div>
+    `;
+
+    const cardsHTML = cards.length === 0
+        ? '<div class="person-page-no-cards">No signed cards found for this name.</div>'
+        : cards.map(c => `
+            <div class="person-card-item" onclick="closePersonPage(); showCardDetail(allCards.find(card => card.id === ${c.id}))">
+                ${c.image_front_file ? `<img class="person-card-thumb" src="${c.image_front_file}" alt="">` : '<div class="person-card-thumb person-card-thumb-empty">🎴</div>'}
+                <div class="person-card-info">
+                    <div class="person-card-driver">${escapeHtmlPP(c.driver_name || '')}</div>
+                    <div class="person-card-meta">${[c.year, c.manufacturer, c.series].filter(Boolean).join(' · ') || '—'}</div>
+                </div>
+            </div>
+        `).join('');
+
+    body.innerHTML = `
+        <div class="person-page-header">
+            <h2>${escapeHtmlPP(name)}</h2>
+        </div>
+        ${bioSection}
+        <h3 class="person-page-cards-heading">Signed Cards (${cards.length})</h3>
+        <div class="person-page-cards-list">${cardsHTML}</div>
+    `;
+
+    modal.style.display = 'block';
+}
+
+function closePersonPage() {
+    document.getElementById('person-page-modal').style.display = 'none';
+}
+
+window.addEventListener('click', (e) => {
+    const modal = document.getElementById('person-page-modal');
+    if (e.target === modal) {
+        closePersonPage();
+    }
+});
 
 // Filter by signer and close modal
 function filterBySignerAndClose(signerName) {
@@ -125255,7 +125377,7 @@ function displaySigners(signers) {
     
     list.innerHTML = signers.map(signer => `
         <div class="signer-item" onclick="filterBySigner('${signer.name.replace(/'/g, "\'")}')" title="Click to filter by ${signer.name}">
-            <span class="signer-name">✍️ ${signer.name}</span>
+            <span class="signer-name">✍️ ${signer.name}</span>${personPageIconHTML(signer.name)}
             <span class="signer-count">${signer.count} signature${signer.count === 1 ? '' : 's'}</span>
         </div>
     `).join('');

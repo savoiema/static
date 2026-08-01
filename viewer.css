@@ -748,3 +748,123 @@ body {
         font-size: 20px;
     }
 }
+
+/* Person Pages (biography pages) */
+.person-page-icon {
+    cursor: pointer;
+    font-size: 0.85em;
+    margin-left: 4px;
+    transition: opacity 0.2s;
+}
+
+.person-page-icon:hover {
+    opacity: 0.7;
+}
+
+.modal-person-page {
+    max-width: 700px;
+}
+
+.person-page-header {
+    padding: 20px 20px 0;
+}
+
+.person-page-header h2 {
+    margin: 0;
+    color: var(--text-primary);
+}
+
+.person-page-bio {
+    margin: 20px;
+    background: var(--bg-tertiary);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.person-page-photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    align-self: flex-start;
+}
+
+.person-page-bio-text {
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+.person-page-source {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.person-page-empty {
+    color: var(--text-secondary);
+    text-align: center;
+    padding: 20px;
+}
+
+.person-page-cards-heading {
+    margin: 0 20px 12px;
+    color: var(--text-primary);
+}
+
+.person-page-cards-list {
+    margin: 0 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.person-page-no-cards {
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
+.person-card-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--bg-tertiary);
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.person-card-item:hover {
+    transform: translateX(5px);
+}
+
+.person-card-thumb {
+    width: 40px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.person-card-thumb-empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-secondary);
+    font-size: 20px;
+}
+
+.person-card-driver {
+    font-weight: 600;
+    color: var(--text-primary);
+    font-size: 14px;
+}
+
+.person-card-meta {
+    color: var(--text-secondary);
+    font-size: 13px;
+}
