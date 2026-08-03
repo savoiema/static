@@ -124731,12 +124731,26 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/330px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg"
     },
+    "Giuseppe Farina": {
+      "name": "Giuseppe Farina",
+      "biography": "Emilio Giuseppe \"Nino\" Farina was an Italian racing driver, who competed in Formula One from 1950 to 1956. Farina won the Formula One World Drivers' Championship in its inaugural 1950 season with Alfa Romeo, and won five Grands Prix across seven seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giuseppe_Farina",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg"
+    },
     "Johnny Carson": {
       "name": "Johnny Carson",
       "biography": "John William Carson was an American television host, comedian, and writer. He was best known as the host of The Tonight Show Starring Johnny Carson, the third installment of The Tonight Show, which aired on NBC from 1962 to 1992.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Carson",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnny_Carson_Tonight_Show_1965.JPG/330px-Johnny_Carson_Tonight_Show_1965.JPG"
+    },
+    "Juan Manuel Fangio": {
+      "name": "Juan Manuel Fangio",
+      "biography": "Juan Manuel Fangio was an Argentine racing driver, who competed in Formula One from 1950 to 1958. Nicknamed \"el Chueco\" and \"el Maestro\", Fangio won five Formula One World Drivers' Championship titles and\u2014at the time of his retirement\u2014held the record for most wins (24), pole positions (29), fastest laps (23), and podium finishes (35), among others.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fangio_in_1955_%28cropped%29.jpg/330px-Fangio_in_1955_%28cropped%29.jpg"
     }
   },
   "stats": {
@@ -124748,6 +124762,6 @@
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-08-01T10:27:37.961776",
+  "export_date": "2026-08-02T22:46:37.439121",
   "version": "3.0"
 }
