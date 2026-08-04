@@ -119524,8 +119524,13 @@ const collectionData = {
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-10-24 21:37:59.612811",
-      "date_modified": "2025-10-24 21:37:59.612811",
-      "signatures_list": [],
+      "date_modified": "2026-08-04 00:13:24.712847",
+      "signatures_list": [
+        {
+          "signer": "Dick Moroso",
+          "date": null
+        }
+      ],
       "image_front_file": "images/card_239_front.jpg",
       "image_back_file": null
     },
@@ -124702,68 +124707,147 @@ const collectionData = {
       "biography": "William Clyde Elliott Sr., also known as \"Awesome Bill from Dawsonville\", \"Million Dollar Bill\", or \"Wild Bill\" is an American former professional stock car racing driver. He last competed in the Superstar Racing Experience part-time in 2022. His accolades include the 1988 Winston Cup Championship and garnering 44 wins in that series, including crown jewel victories in two Daytona 500s, three Southern 500s, one Winston 500 (1985), and one Brickyard 400 (2002). In 1985, Elliott became the first driver to win the Winston Million bonus, earning him the nickname \"Million Dollar Bill\". Elliott achieved a NASCAR record four consecutive wins at Michigan International Speedway between 1985 and 1986, and seven wins overall, the most at any one racetrack in his career. Elliott also won an additional six exhibition (non-points) races in his career, including one Winston All-Star Race win in 1986, one Busch Clash win in 1987, and four Daytona Duel wins in 1985, 1986, 1992, and 2000.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Elliott",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_Elliott_2025.jpg/330px-Bill_Elliott_2025.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_Elliott_2025.jpg/330px-Bill_Elliott_2025.jpg",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Brad Keselowski": {
+      "name": "Brad Keselowski",
+      "biography": "Bradley Aaron Keselowski is an American professional stock car racing driver, team owner, and entrepreneur. He competes full-time in the NASCAR Cup Series, driving the No. 6 Ford Mustang Dark Horse for RFK Racing, a team he also co-owns. He was the owner of Brad Keselowski Racing, which fielded two full-time trucks in the NASCAR Camping World Truck Series for 10 years.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brad_Keselowski",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/USS_Greeneville_%28SSN_772%29_Sailors_meet_NASCAR_driver_Brad_Keselowski_9764313_%28cropped%29.jpg/330px-USS_Greeneville_%28SSN_772%29_Sailors_meet_NASCAR_driver_Brad_Keselowski_9764313_%28cropped%29.jpg",
+      "birthDate": "1984-02-12",
+      "deathDate": null
+    },
+    "Charlie Glotzbach": {
+      "name": "Charlie Glotzbach",
+      "biography": "Charles Lee Glotzbach was an American ARCA and NASCAR Winston Cup Series driver. He holds one of the oldest race records in NASCAR. He has the record for fastest pace at Bristol Motor Speedway for a NASCAR race. He was also known as the \"Chargin' Comet\" and \"Chargin' Charlie\".",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Glotzbach",
+      "photoUrl": null,
+      "birthDate": null,
+      "deathDate": null
     },
     "Dale Earnhardt": {
       "name": "Dale Earnhardt",
       "biography": "Ralph Dale Earnhardt was an American professional stock car driver and racing team owner, who raced from 1975 to 2001 in the former NASCAR Winston Cup Series, most notably driving the No.\u00a03 Chevrolet for Richard Childress Racing. His aggressive driving style earned him the nicknames \"the Intimidator\", \"the Man in Black\" and \"Ironhead\"; after his son Dale Earnhardt Jr. joined the Cup Series circuit in 1999, Earnhardt was generally known by the retronyms Dale Earnhardt Sr. and Dale Sr. He is widely regarded as one of the greatest drivers in NASCAR history and was named as one of the NASCAR's 50 Greatest Drivers class in 1998.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Earnhardt",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dale_Earnhardt_visits_Langley_AFB.jpg/330px-Dale_Earnhardt_visits_Langley_AFB.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dale_Earnhardt_visits_Langley_AFB.jpg/330px-Dale_Earnhardt_visits_Langley_AFB.jpg",
+      "birthDate": "1951-04-29",
+      "deathDate": "2001-02-18"
     },
     "Dale Earnhardt Jr": {
       "name": "Dale Earnhardt Jr",
       "biography": "Ralph Dale Earnhardt Jr., also known as \"Dale Jr\" or simply \"Junior\", is an American professional stock car racing driver, team owner, broadcaster for Amazon Prime Video and TNT Sports, and podcaster. A third-generation driver, he is the son of the late 7-time NASCAR Cup Series champion Dale Earnhardt and relative to many former and current drivers in the NASCAR ranks. Since retiring from full-time competition after the 2017 NASCAR Cup Series season, he has competed in select NASCAR Xfinity Series and CARS Late Model Stock Tour races, driving for JR Motorsports, a team of which he is a founder and co-owner of and which bears his namesake.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Earnhardt_Jr.",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg/330px-Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg/330px-Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg",
+      "birthDate": "1974-10-10",
+      "deathDate": null
     },
     "Davey Allison": {
       "name": "Davey Allison",
       "biography": "David Carl Allison was an American NASCAR driver. He was best known for driving the No. 28 Texaco-Havoline Ford for Robert Yates Racing in the NASCAR Cup Series. Born in Hollywood, Florida, he was the oldest of four children born to Bobby and Judy Allison. The family moved to Hueytown, Alabama, and along with Bobby Allison's brother, Donnie, Red Farmer and Neil Bonnett, became known as the Alabama Gang.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Davey_Allison",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/DaveyAllisonPocono.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/DaveyAllisonPocono.jpg",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Erik Jones": {
+      "name": "Erik Jones",
+      "biography": "Erik Benjamin Jones is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 43 Toyota Camry XSE for Legacy Motor Club.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Erik_Jones",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Erik_Jones_Sonoma_2026.jpg/330px-Erik_Jones_Sonoma_2026.jpg",
+      "birthDate": "1996-05-30",
+      "deathDate": null
+    },
+    "Fernando Alonso": {
+      "name": "Fernando Alonso",
+      "biography": "Fernando Alonso D\u00edaz is a Spanish racing driver who competes in Formula One for Aston Martin. Alonso has won two Formula One World Drivers' Championship titles, which he won in 2005 and 2006 with Renault, and has won 32 Grands Prix across 23 seasons. In endurance racing, Alonso won the 2018\u201319 FIA World Endurance Championship and is a two-time winner of the 24 Hours of Le Mans with Toyota as well as a winner of the 24 Hours of Daytona in 2019 with WTR. He is the only driver to have won both the Formula One World Drivers' Championship and the World Sportscar/World Endurance Drivers' Championship.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fernando_Alonso",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/330px-Alonso-68_%2824710447098%29.jpg",
+      "birthDate": "1981-07-29",
+      "deathDate": null
     },
     "George Russell": {
       "name": "George Russell",
       "biography": "George William Russell is a British racing driver who competes in Formula One for Mercedes. Russell has won seven Formula One Grands Prix across eight seasons.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/330px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/330px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg",
+      "birthDate": "1998-02-15",
+      "deathDate": null
     },
     "Giuseppe Farina": {
       "name": "Giuseppe Farina",
       "biography": "Emilio Giuseppe \"Nino\" Farina was an Italian racing driver, who competed in Formula One from 1950 to 1956. Farina won the Formula One World Drivers' Championship in its inaugural 1950 season with Alfa Romeo, and won five Grands Prix across seven seasons.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Giuseppe_Farina",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg",
+      "birthDate": null,
+      "deathDate": null
     },
     "Johnny Carson": {
       "name": "Johnny Carson",
       "biography": "John William Carson was an American television host, comedian, and writer. He was best known as the host of The Tonight Show Starring Johnny Carson, the third installment of The Tonight Show, which aired on NBC from 1962 to 1992.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Carson",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnny_Carson_Tonight_Show_1965.JPG/330px-Johnny_Carson_Tonight_Show_1965.JPG"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnny_Carson_Tonight_Show_1965.JPG/330px-Johnny_Carson_Tonight_Show_1965.JPG",
+      "birthDate": "1925-10-23",
+      "deathDate": "2005-01-23"
     },
     "Juan Manuel Fangio": {
       "name": "Juan Manuel Fangio",
       "biography": "Juan Manuel Fangio was an Argentine racing driver, who competed in Formula One from 1950 to 1958. Nicknamed \"el Chueco\" and \"el Maestro\", Fangio won five Formula One World Drivers' Championship titles and\u2014at the time of his retirement\u2014held the record for most wins (24), pole positions (29), fastest laps (23), and podium finishes (35), among others.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fangio_in_1955_%28cropped%29.jpg/330px-Fangio_in_1955_%28cropped%29.jpg"
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fangio_in_1955_%28cropped%29.jpg/330px-Fangio_in_1955_%28cropped%29.jpg",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Martin Truex Jr.": {
+      "name": "Martin Truex Jr.",
+      "biography": "Martin Lee Truex Jr. is an American semi-retired professional stock car racing driver. He last competed in the NASCAR Cup Series, driving the No. 56 Toyota Camry XSE for Tricon Garage. He is the 2017 NASCAR Cup Series champion and a two-time Xfinity Series champion, having won two consecutive championships in 2004 and 2005.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Truex_Jr.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg/330px-Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg",
+      "birthDate": "1980-06-29",
+      "deathDate": null
+    },
+    "Neil Bonnett": {
+      "name": "Neil Bonnett",
+      "biography": "Lawrence Neil Bonnett was an American NASCAR driver who compiled 18 victories and 20 poles over his 18-year career. Bonnett was a member of the Alabama Gang, and started his career with the help of Bobby and Donnie Allison. He rose to prominence in the late 1970s with his performances in cars owned by Jim Stacy and Wood Brothers Racing, becoming one of the top competitors in the 1980s. The Alabama native currently ranks 47th in all-time NASCAR Cup victories. He appeared in the 1983 film Stroker Ace and the 1990 film Days of Thunder. Bonnett hosted the TV show Winners for TNN from 1991 to 1994, and was a color commentator for CBS, TBS, and TNN in the years until his death. Bonnett's racing career was interrupted in 1990 when he suffered a severe brain injury in a crash that left him with amnesia and chronic dizziness. While working towards a much-anticipated comeback to the NASCAR circuit, Bonnett died as a result of injuries he sustained in a crash during a practice run for the 1994 Daytona 500. He lost control of his vehicle and collided with the outside wall in turn four, resulting in massive head injuries that proved fatal.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Bonnett",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NeilBonnett1985.jpg/330px-NeilBonnett1985.jpg",
+      "birthDate": "1946-07-30",
+      "deathDate": "1994-02-11"
+    },
+    "Robbie Loomis": {
+      "name": "Robbie Loomis",
+      "biography": "Donald Robert Loomis is a former NASCAR crew chief who worked for Petty Enterprises and Hendrick Motorsports during his time as a crew chief, working most notably with Richard Petty and Jeff Gordon. Loomis won the 2001 NASCAR Winston Cup Series championship as Gordon's crew chief, and collected a total of 26 wins and 98 top 5s.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robbie_Loomis",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Robbie_Loomis_2011.jpg/330px-Robbie_Loomis_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
     }
   },
   "stats": {
     "total_cards": 5894,
-    "signed_cards": 5820,
-    "unsigned_cards": 74,
+    "signed_cards": 5821,
+    "unsigned_cards": 73,
     "unique_signers": 2213,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-08-02T22:46:37.439121",
+  "export_date": "2026-08-04T00:40:33.317733",
   "version": "3.0"
 };
 
@@ -125270,6 +125354,57 @@ function findCardsForSigner(name) {
     return allCards.filter(c => c.signatures_list && c.signatures_list.some(sig => sig.signer === name));
 }
 
+// Parse a 'YYYY', 'YYYY-MM', or 'YYYY-MM-DD' string (Wikidata precision) into a Date
+function parsePersonDate(str) {
+    if (!str) return null;
+    const parts = str.split('-');
+    const year = parseInt(parts[0], 10);
+    if (isNaN(year)) return null;
+    const month = parts[1] ? parseInt(parts[1], 10) - 1 : 0;
+    const day = parts[2] ? parseInt(parts[2], 10) : 1;
+    return new Date(Date.UTC(year, month, day));
+}
+
+const PERSON_DATE_MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'];
+
+// Format a 'YYYY', 'YYYY-MM', or 'YYYY-MM-DD' string for display
+function formatPersonDate(str) {
+    if (!str) return '';
+    const parts = str.split('-');
+    if (parts.length === 1) return parts[0];
+    const month = PERSON_DATE_MONTH_NAMES[parseInt(parts[1], 10) - 1];
+    if (!month) return str;
+    if (parts.length === 2) return `${month} ${parts[0]}`;
+    return `${month} ${parseInt(parts[2], 10)}, ${parts[0]}`;
+}
+
+// Age at death (if deathDate given) or current age, from partial-precision dates
+function computePersonAge(birthDateStr, deathDateStr) {
+    const birth = parsePersonDate(birthDateStr);
+    if (!birth) return null;
+    const end = deathDateStr ? parsePersonDate(deathDateStr) : new Date();
+    if (!end) return null;
+
+    let age = end.getUTCFullYear() - birth.getUTCFullYear();
+    const monthDiff = end.getUTCMonth() - birth.getUTCMonth();
+    if (monthDiff < 0 || (monthDiff === 0 && end.getUTCDate() < birth.getUTCDate())) {
+        age--;
+    }
+    return age >= 0 ? age : null;
+}
+
+// Build the "Born ... · Died ... (Age N)" line for a person page
+function personDatesHTML(birthDateStr, deathDateStr) {
+    if (!birthDateStr && !deathDateStr) return '';
+    const age = computePersonAge(birthDateStr, deathDateStr);
+    const parts = [];
+    if (birthDateStr) parts.push(`Born ${formatPersonDate(birthDateStr)}`);
+    if (deathDateStr) parts.push(`Died ${formatPersonDate(deathDateStr)}`);
+    if (age !== null) parts.push(deathDateStr ? `Age ${age} at death` : `Age ${age}`);
+    return `<div class="person-page-dates">${parts.map(escapeHtmlPP).join(' · ')}</div>`;
+}
+
 function openPersonPage(name) {
     const modal = document.getElementById('person-page-modal');
     const body = document.getElementById('person-page-body');
@@ -125305,6 +125440,7 @@ function openPersonPage(name) {
         <div class="person-page-header">
             <h2>${escapeHtmlPP(name)}</h2>
         </div>
+        ${personDatesHTML(person ? person.birthDate : null, person ? person.deathDate : null)}
         ${bioSection}
         <h3 class="person-page-cards-heading">Signed Cards (${cards.length})</h3>
         <div class="person-page-cards-list">${cardsHTML}</div>

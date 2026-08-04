@@ -774,6 +774,12 @@ body {
     color: var(--text-primary);
 }
 
+.person-page-dates {
+    margin: 8px 20px 0;
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
 .person-page-bio {
     margin: 20px;
     background: var(--bg-tertiary);
