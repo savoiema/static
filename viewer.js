@@ -2,6 +2,2382 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6026,
+      "driver_name": "Dean Combs",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:09:17.721717",
+      "date_modified": "2026-08-04 16:09:17.721717",
+      "signatures_list": [
+        {
+          "signer": "Dean Combs",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6026_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6025,
+      "driver_name": "Derrike Cope",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:08:50.823807",
+      "date_modified": "2026-08-04 16:08:50.823807",
+      "signatures_list": [
+        {
+          "signer": "Derrike Cope",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6025_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6024,
+      "driver_name": "Darryl Sage",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:08:20.365810",
+      "date_modified": "2026-08-04 16:08:20.365810",
+      "signatures_list": [
+        {
+          "signer": "Darryl Sage",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6024_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6023,
+      "driver_name": "Terry Link",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:07:44.832736",
+      "date_modified": "2026-08-04 16:07:44.832736",
+      "signatures_list": [
+        {
+          "signer": "Terry Link",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6023_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6022,
+      "driver_name": "Lake Speed",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:07:20.347974",
+      "date_modified": "2026-08-04 16:07:20.347974",
+      "signatures_list": [
+        {
+          "signer": "Lake Speed",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6022_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6021,
+      "driver_name": "Elton Sawyer",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-08-04 16:06:54.839214",
+      "date_modified": "2026-08-04 16:06:54.839214",
+      "signatures_list": [
+        {
+          "signer": "Elton Sawyer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6021_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6020,
+      "driver_name": "Joe Milikan",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:06:33.235892",
+      "date_modified": "2026-08-04 16:06:33.235892",
+      "signatures_list": [
+        {
+          "signer": "Joe Milikan",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6020_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6019,
+      "driver_name": "Greg Sacks",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:05:44.912103",
+      "date_modified": "2026-08-04 16:05:44.912103",
+      "signatures_list": [
+        {
+          "signer": "Greg Sacks",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6019_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6018,
+      "driver_name": "Charlie Glotzbach",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:05:14.095288",
+      "date_modified": "2026-08-04 16:05:14.095288",
+      "signatures_list": [
+        {
+          "signer": "Charlie Glotzbach",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6018_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6017,
+      "driver_name": "Paddlefoot Wales",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:04:46.423549",
+      "date_modified": "2026-08-04 16:04:46.423549",
+      "signatures_list": [
+        {
+          "signer": "Paddlefoot Wales",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6017_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6016,
+      "driver_name": "DK Ulrich/Doug Heveron",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:04:20.751222",
+      "date_modified": "2026-08-04 16:04:20.751222",
+      "signatures_list": [
+        {
+          "signer": "DK Ulrich",
+          "date": null
+        },
+        {
+          "signer": "Doug Heveron",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6016_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6015,
+      "driver_name": "Glen Francis",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 16:03:35.429356",
+      "date_modified": "2026-08-04 16:03:35.429356",
+      "signatures_list": [
+        {
+          "signer": "Glen Francis",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6015_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6014,
+      "driver_name": "Joe Nemechek",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:58:52.833774",
+      "date_modified": "2026-08-04 15:58:52.833774",
+      "signatures_list": [
+        {
+          "signer": "Joe Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6014_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6013,
+      "driver_name": "Dwayne Leik",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:55:59.036904",
+      "date_modified": "2026-08-04 15:55:59.036904",
+      "signatures_list": [
+        {
+          "signer": "Dwayne Leik",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6013_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6012,
+      "driver_name": "Joel Kauffman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:55:17.622743",
+      "date_modified": "2026-08-04 15:55:17.622743",
+      "signatures_list": [
+        {
+          "signer": "Joel Kauffman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6012_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6011,
+      "driver_name": "Robby Faggart",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:53:59.592552",
+      "date_modified": "2026-08-04 15:53:59.592552",
+      "signatures_list": [
+        {
+          "signer": "Robby Faggart",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6011_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6010,
+      "driver_name": "Parker Kligerman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:53:21.748370",
+      "date_modified": "2026-08-04 15:53:21.748370",
+      "signatures_list": [
+        {
+          "signer": "Parker Kligerman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6010_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6009,
+      "driver_name": "Stephen Leicht",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:52:01.061062",
+      "date_modified": "2026-08-04 15:52:01.061062",
+      "signatures_list": [
+        {
+          "signer": "Stephen Leicht",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6009_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6008,
+      "driver_name": "Eddie Beahr",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:51:25.340693",
+      "date_modified": "2026-08-04 15:51:25.340693",
+      "signatures_list": [
+        {
+          "signer": "Eddie Beahr",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6008_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6007,
+      "driver_name": "Grant Enfinger",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:50:53.327003",
+      "date_modified": "2026-08-04 15:50:53.327003",
+      "signatures_list": [
+        {
+          "signer": "Grant Enfinger",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6007_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6006,
+      "driver_name": "Kevin Lepage",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:49:35.533903",
+      "date_modified": "2026-08-04 15:49:35.533903",
+      "signatures_list": [
+        {
+          "signer": "Kevin Lepage",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6006_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6005,
+      "driver_name": "Brendan Gaughan",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:49:01.123831",
+      "date_modified": "2026-08-04 15:49:01.123831",
+      "signatures_list": [
+        {
+          "signer": "Brendan Gaughan",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6005_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6004,
+      "driver_name": "Cassie Gannis",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:47:58.472883",
+      "date_modified": "2026-08-04 15:47:58.472883",
+      "signatures_list": [
+        {
+          "signer": "Cassie Gannis",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6004_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6003,
+      "driver_name": "Ricky Stenhouse Jr",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:46:41.386887",
+      "date_modified": "2026-08-04 15:46:41.386887",
+      "signatures_list": [
+        {
+          "signer": "Ricky Stenhouse Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6003_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6002,
+      "driver_name": "Travis Kvapil",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:45:45.077014",
+      "date_modified": "2026-08-04 15:47:04.103304",
+      "signatures_list": [
+        {
+          "signer": "Travis Kvapil",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6002_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6001,
+      "driver_name": "Bob Levine",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:44:26.671011",
+      "date_modified": "2026-08-04 15:44:26.671011",
+      "signatures_list": [
+        {
+          "signer": "Bob Levine",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6001_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6000,
+      "driver_name": "Scott Heckert",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:43:49.874038",
+      "date_modified": "2026-08-04 15:43:49.874038",
+      "signatures_list": [
+        {
+          "signer": "Scott Heckert",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_6000_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5999,
+      "driver_name": "Dr Dean Sicking",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:42:09.766320",
+      "date_modified": "2026-08-04 15:42:09.766320",
+      "signatures_list": [
+        {
+          "signer": "Dr Dean Sicking",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5999_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5998,
+      "driver_name": "Travis Kittleson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:41:24.429208",
+      "date_modified": "2026-08-04 15:41:24.429208",
+      "signatures_list": [
+        {
+          "signer": "Travis Kittleson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5998_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5997,
+      "driver_name": "Jonathan Cohen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:39:57.710852",
+      "date_modified": "2026-08-04 15:39:57.710852",
+      "signatures_list": [
+        {
+          "signer": "Jonathan Cohen",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5997_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5996,
+      "driver_name": "Loni Richardson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:37:49.649190",
+      "date_modified": "2026-08-04 15:37:49.649190",
+      "signatures_list": [
+        {
+          "signer": "Loni Richardson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5996_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5995,
+      "driver_name": "JJ Yeley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "10",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:36:51.970819",
+      "date_modified": "2026-08-04 15:36:51.970819",
+      "signatures_list": [
+        {
+          "signer": "JJ Yeley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5995_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5994,
+      "driver_name": "Andy Belmont",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:36:12.765019",
+      "date_modified": "2026-08-04 15:36:12.765019",
+      "signatures_list": [
+        {
+          "signer": "Andy Belmont",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5994_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5993,
+      "driver_name": "Jeremy Clements",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:35:04.521696",
+      "date_modified": "2026-08-04 15:35:04.521696",
+      "signatures_list": [
+        {
+          "signer": "Jeremy Clements",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5993_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5992,
+      "driver_name": "Brett Moffitt",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:34:31.900516",
+      "date_modified": "2026-08-04 15:34:31.900516",
+      "signatures_list": [
+        {
+          "signer": "Brett Moffitt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5992_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5991,
+      "driver_name": "Kevin Conway",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:33:43.485004",
+      "date_modified": "2026-08-04 15:33:43.485004",
+      "signatures_list": [
+        {
+          "signer": "Kevin Conway",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5991_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5990,
+      "driver_name": "Carlos Contreras",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:32:36.143014",
+      "date_modified": "2026-08-04 15:32:36.143014",
+      "signatures_list": [
+        {
+          "signer": "Carlos Contreras",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5990_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5989,
+      "driver_name": "Clint Bowyer",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:28:03.242034",
+      "date_modified": "2026-08-04 15:28:03.242034",
+      "signatures_list": [
+        {
+          "signer": "Clint Bowyer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5989_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5988,
+      "driver_name": "Kyle Larson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:27:09.728616",
+      "date_modified": "2026-08-04 15:27:09.728616",
+      "signatures_list": [
+        {
+          "signer": "Kyle Larson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5988_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5987,
+      "driver_name": "Tim McCreadie",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:26:25.063134",
+      "date_modified": "2026-08-04 15:26:25.063134",
+      "signatures_list": [
+        {
+          "signer": "Tim McCreadie",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5987_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5986,
+      "driver_name": "David Murray",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:25:17.219211",
+      "date_modified": "2026-08-04 15:25:17.219211",
+      "signatures_list": [
+        {
+          "signer": "David Murray",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5986_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5985,
+      "driver_name": "Joe Fox",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:24:49.457583",
+      "date_modified": "2026-08-04 15:24:49.457583",
+      "signatures_list": [
+        {
+          "signer": "Joe Fox",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5985_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5984,
+      "driver_name": "John Hunter Nemechek",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:24:25.288602",
+      "date_modified": "2026-08-04 15:24:25.288602",
+      "signatures_list": [
+        {
+          "signer": "John Hunter Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5984_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5983,
+      "driver_name": "Ray Courtemanche",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:14:57.002204",
+      "date_modified": "2026-08-04 15:14:57.002204",
+      "signatures_list": [
+        {
+          "signer": "Ray Courtemanche",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5983_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5982,
+      "driver_name": "Boris Said",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:13:54.249865",
+      "date_modified": "2026-08-04 15:13:54.249865",
+      "signatures_list": [
+        {
+          "signer": "Boris Said",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5982_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5981,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "8",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:13:00.305898",
+      "date_modified": "2026-08-04 15:13:00.305898",
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5981_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5980,
+      "driver_name": "Tina Gordon",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:12:38.945219",
+      "date_modified": "2026-08-04 15:12:38.945219",
+      "signatures_list": [
+        {
+          "signer": "Tina Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5980_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5979,
+      "driver_name": "Chris Buescher",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:11:02.671725",
+      "date_modified": "2026-08-04 15:11:02.671725",
+      "signatures_list": [
+        {
+          "signer": "Chris Buescher",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5979_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5978,
+      "driver_name": "Austin Cameron",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:08:50.853287",
+      "date_modified": "2026-08-04 15:08:50.853287",
+      "signatures_list": [
+        {
+          "signer": "Austin Cameron",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5978_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5977,
+      "driver_name": "Ed Berrier",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:05:22.283311",
+      "date_modified": "2026-08-04 15:05:22.283311",
+      "signatures_list": [
+        {
+          "signer": "Ed Berrier",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5977_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5976,
+      "driver_name": "Dean Dalton",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 15:01:06.483309",
+      "date_modified": "2026-08-04 15:01:06.483309",
+      "signatures_list": [
+        {
+          "signer": "Dean Dalton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5976_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5975,
+      "driver_name": "David Purley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Formula 1",
+      "item_type": "Other",
+      "notes": "",
+      "date_added": "2026-08-04 14:54:43.103504",
+      "date_modified": "2026-08-04 14:54:43.103504",
+      "signatures_list": [
+        {
+          "signer": "David Purley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5975_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5974,
+      "driver_name": "Tim Viens",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:51:51.964475",
+      "date_modified": "2026-08-04 14:51:51.964475",
+      "signatures_list": [
+        {
+          "signer": "Tim Viens",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5974_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5973,
+      "driver_name": "Tim Viens",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:51:12.006746",
+      "date_modified": "2026-08-04 14:51:12.006746",
+      "signatures_list": [
+        {
+          "signer": "Tim Viens",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5973_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5972,
+      "driver_name": "PJ Jones",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:50:39.739250",
+      "date_modified": "2026-08-04 14:50:39.739250",
+      "signatures_list": [
+        {
+          "signer": "PJ Jones",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5972_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5971,
+      "driver_name": "Ryan Ellis",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:50:01.416766",
+      "date_modified": "2026-08-04 14:50:01.416766",
+      "signatures_list": [
+        {
+          "signer": "Ryan Ellis",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5971_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5970,
+      "driver_name": "Boris Said",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:49:33.983754",
+      "date_modified": "2026-08-04 14:49:33.983754",
+      "signatures_list": [
+        {
+          "signer": "Boris Said",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5970_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5969,
+      "driver_name": "Boris Said",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:48:50.741992",
+      "date_modified": "2026-08-04 14:48:50.741992",
+      "signatures_list": [
+        {
+          "signer": "Boris Said",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5969_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5968,
+      "driver_name": "Billy Johnson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:47:23.679199",
+      "date_modified": "2026-08-04 14:47:23.679199",
+      "signatures_list": [
+        {
+          "signer": "Billy Johnson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5968_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5967,
+      "driver_name": "David Stremme",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:46:55.922481",
+      "date_modified": "2026-08-04 14:46:55.922481",
+      "signatures_list": [
+        {
+          "signer": "David Stremme",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5967_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5966,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:46:01.592910",
+      "date_modified": "2026-08-04 14:46:01.592910",
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5966_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5965,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:44:47.436194",
+      "date_modified": "2026-08-04 14:46:10.439997",
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5965_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5964,
+      "driver_name": "Mike Garvey",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:44:23.929577",
+      "date_modified": "2026-08-04 14:44:23.929577",
+      "signatures_list": [
+        {
+          "signer": "Mike Garvey",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5964_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5963,
+      "driver_name": "Myatt Snider",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:42:54.524291",
+      "date_modified": "2026-08-04 14:42:54.524291",
+      "signatures_list": [
+        {
+          "signer": "Myatt Snider",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5963_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5962,
+      "driver_name": "Tim Schendel",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:41:39.950341",
+      "date_modified": "2026-08-04 14:41:39.950341",
+      "signatures_list": [
+        {
+          "signer": "Tim Schendel",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5962_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5961,
+      "driver_name": "Andy Houston",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:40:54.011313",
+      "date_modified": "2026-08-04 14:40:54.011313",
+      "signatures_list": [
+        {
+          "signer": "Andy Houston",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5961_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5960,
+      "driver_name": "Jerry Robertson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:33:48.324922",
+      "date_modified": "2026-08-04 14:33:48.324922",
+      "signatures_list": [
+        {
+          "signer": "Jerry Robertson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5960_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5959,
+      "driver_name": "Eric Curran",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:28:44.863055",
+      "date_modified": "2026-08-04 14:28:44.863055",
+      "signatures_list": [
+        {
+          "signer": "Eric Curran",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5959_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5958,
+      "driver_name": "Tim Sauter",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:24:46.841940",
+      "date_modified": "2026-08-04 14:24:46.841940",
+      "signatures_list": [
+        {
+          "signer": "Tim Sauter",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5958_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5957,
+      "driver_name": "Tim Sauter",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:24:12.210934",
+      "date_modified": "2026-08-04 14:24:12.210934",
+      "signatures_list": [
+        {
+          "signer": "Tim Sauter",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5957_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5956,
+      "driver_name": "Chuck Hossfeld",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:23:33.011203",
+      "date_modified": "2026-08-04 14:23:33.011203",
+      "signatures_list": [
+        {
+          "signer": "Chuck Hossfeld",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5956_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5955,
+      "driver_name": "Carl Long",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:22:23.937900",
+      "date_modified": "2026-08-04 14:22:23.937900",
+      "signatures_list": [
+        {
+          "signer": "Carl Long",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5955_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5954,
+      "driver_name": "Brett Moffitt",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:21:40.292933",
+      "date_modified": "2026-08-04 14:21:40.292933",
+      "signatures_list": [
+        {
+          "signer": "Brett Moffitt",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5954_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5953,
+      "driver_name": "Phil Bonifield",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:21:02.510660",
+      "date_modified": "2026-08-04 14:21:02.510660",
+      "signatures_list": [
+        {
+          "signer": "Phil Bonifield",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5953_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5952,
+      "driver_name": "Curtis Markham",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 14:00:18.940770",
+      "date_modified": "2026-08-04 14:00:18.940770",
+      "signatures_list": [
+        {
+          "signer": "Curtis Markham",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5952_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5951,
+      "driver_name": "Buddy Baker",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:56:17.972617",
+      "date_modified": "2026-08-04 13:56:17.972617",
+      "signatures_list": [
+        {
+          "signer": "Buddy Baker",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5951_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5950,
+      "driver_name": "Ray Trantham",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:55:43.383830",
+      "date_modified": "2026-08-04 13:55:43.383830",
+      "signatures_list": [],
+      "image_front_file": "images/card_5950_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5949,
+      "driver_name": "Howard Mark",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:55:07.662918",
+      "date_modified": "2026-08-04 13:55:07.662918",
+      "signatures_list": [
+        {
+          "signer": "Howard Mark",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5949_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5948,
+      "driver_name": "Bill Hollar",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:54:44.960534",
+      "date_modified": "2026-08-04 13:54:44.960534",
+      "signatures_list": [
+        {
+          "signer": "Bill Hollar",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5948_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5947,
+      "driver_name": "Bob Shreeves",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:54:14.296257",
+      "date_modified": "2026-08-04 13:54:14.296257",
+      "signatures_list": [
+        {
+          "signer": "Bob Shreeves",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5947_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5946,
+      "driver_name": "Roger Hamby",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:53:37.176903",
+      "date_modified": "2026-08-04 13:53:37.176903",
+      "signatures_list": [
+        {
+          "signer": "Roger Hamby",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5946_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5945,
+      "driver_name": "Terry Fisher",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:53:06.357386",
+      "date_modified": "2026-08-04 13:53:06.357386",
+      "signatures_list": [
+        {
+          "signer": "Terry Fisher",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5945_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5944,
+      "driver_name": "Jim Thirkettle",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:52:41.598369",
+      "date_modified": "2026-08-04 13:52:41.598369",
+      "signatures_list": [
+        {
+          "signer": "Jim Thirkettle",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5944_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5943,
+      "driver_name": "Raymond Williams",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:48:53.119905",
+      "date_modified": "2026-08-04 13:48:53.119905",
+      "signatures_list": [
+        {
+          "signer": "Raymond Williams",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5943_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5942,
+      "driver_name": "Bob Ballantine",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:47:57.282427",
+      "date_modified": "2026-08-04 13:47:57.282427",
+      "signatures_list": [
+        {
+          "signer": "Bob Ballantine",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5942_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5941,
+      "driver_name": "DK Ulrich",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:47:10.173763",
+      "date_modified": "2026-08-04 13:47:10.173763",
+      "signatures_list": [
+        {
+          "signer": "DK Ulrich",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5941_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5940,
+      "driver_name": "Dub Simpson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:44:58.875894",
+      "date_modified": "2026-08-04 13:44:58.875894",
+      "signatures_list": [
+        {
+          "signer": "Dub Simpson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5940_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5939,
+      "driver_name": "Freddy Smith",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:44:26.498283",
+      "date_modified": "2026-08-04 13:44:26.498283",
+      "signatures_list": [
+        {
+          "signer": "Freddy Smith",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5939_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5938,
+      "driver_name": "Chip Lain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:43:52.005042",
+      "date_modified": "2026-08-04 13:43:52.005042",
+      "signatures_list": [
+        {
+          "signer": "Chip Lain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5938_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5937,
+      "driver_name": "Rick McCray",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-08-04 13:42:50.400112",
+      "date_modified": "2026-08-04 13:43:22.659298",
+      "signatures_list": [
+        {
+          "signer": "Rick McCray",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5937_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5936,
+      "driver_name": "Satch Worley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:42:16.909024",
+      "date_modified": "2026-08-04 13:42:16.909024",
+      "signatures_list": [
+        {
+          "signer": "Satch Worley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5936_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5935,
+      "driver_name": "Wayne Watercutter",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:41:41.419727",
+      "date_modified": "2026-08-04 13:41:41.419727",
+      "signatures_list": [
+        {
+          "signer": "Wayne Watercutter",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5935_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5934,
+      "driver_name": "Gary Fedewa",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:41:10.333341",
+      "date_modified": "2026-08-04 13:41:10.333341",
+      "signatures_list": [
+        {
+          "signer": "Gary Fedewa",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5934_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5933,
+      "driver_name": "Andy Hillenburg",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:39:33.341614",
+      "date_modified": "2026-08-04 13:39:33.341614",
+      "signatures_list": [
+        {
+          "signer": "Andy Hillenburg",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5933_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5932,
+      "driver_name": "Donnie Nuenberger",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:37:08.658949",
+      "date_modified": "2026-08-04 13:37:08.658949",
+      "signatures_list": [
+        {
+          "signer": "Donnie Nuenberger",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5932_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5931,
+      "driver_name": "Mark Melling",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:36:30.697188",
+      "date_modified": "2026-08-04 13:36:30.697188",
+      "signatures_list": [
+        {
+          "signer": "Mark Melling",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5931_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5930,
+      "driver_name": "Cale Conley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:36:00.166538",
+      "date_modified": "2026-08-04 13:36:00.166538",
+      "signatures_list": [
+        {
+          "signer": "Cale Conley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5930_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5929,
+      "driver_name": "Josh Wise",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:35:29.397081",
+      "date_modified": "2026-08-04 13:35:29.397081",
+      "signatures_list": [
+        {
+          "signer": "Josh Wise",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5929_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5928,
+      "driver_name": "Dave Marcis/Andy Hillenburg",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:34:00.150508",
+      "date_modified": "2026-08-04 13:34:00.150508",
+      "signatures_list": [
+        {
+          "signer": "Dave Marcis",
+          "date": null
+        },
+        {
+          "signer": "Andy Hillenburg",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5928_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5927,
+      "driver_name": "Timmy Hill",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "9",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:32:58.741005",
+      "date_modified": "2026-08-04 13:32:58.741005",
+      "signatures_list": [
+        {
+          "signer": "Timmy Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5927_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5926,
+      "driver_name": "Timmy Hill",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "8",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:31:52.553076",
+      "date_modified": "2026-08-04 13:31:52.553076",
+      "signatures_list": [
+        {
+          "signer": "Timmy Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5926_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5925,
+      "driver_name": "Terry Cook",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:31:11.201047",
+      "date_modified": "2026-08-04 13:31:11.201047",
+      "signatures_list": [
+        {
+          "signer": "Terry Cook",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5925_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5924,
+      "driver_name": "Justin Jennings",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:28:58.527445",
+      "date_modified": "2026-08-04 13:28:58.527445",
+      "signatures_list": [
+        {
+          "signer": "Justin Jennings",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5924_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5923,
+      "driver_name": "Sheldon Creed",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:27:53.100485",
+      "date_modified": "2026-08-04 13:27:53.100485",
+      "signatures_list": [
+        {
+          "signer": "Sheldon Creed",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5923_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5922,
+      "driver_name": "Cody Ware",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:26:53.400592",
+      "date_modified": "2026-08-04 13:26:53.400592",
+      "signatures_list": [
+        {
+          "signer": "Cody Ware",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5922_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5921,
+      "driver_name": "Tracy Hines",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:26:18.611063",
+      "date_modified": "2026-08-04 13:26:18.611063",
+      "signatures_list": [
+        {
+          "signer": "Tracy Hines",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5921_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5920,
+      "driver_name": "Danny Stockman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:25:32.329377",
+      "date_modified": "2026-08-04 13:25:32.329377",
+      "signatures_list": [
+        {
+          "signer": "Danny Stockman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5920_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5919,
+      "driver_name": "Trip Bruce",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:21:37.401769",
+      "date_modified": "2026-08-04 13:21:37.401769",
+      "signatures_list": [
+        {
+          "signer": "Trip Bruce",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5919_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5918,
+      "driver_name": "Michael McDowell",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:21:01.034391",
+      "date_modified": "2026-08-04 13:21:51.455426",
+      "signatures_list": [
+        {
+          "signer": "Michael McDowell",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5918_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5917,
+      "driver_name": "Chris Eggleston",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:19:42.373786",
+      "date_modified": "2026-08-04 13:19:42.373786",
+      "signatures_list": [
+        {
+          "signer": "Chris Eggleston",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5917_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5916,
+      "driver_name": "DJ Kennington",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:19:12.193262",
+      "date_modified": "2026-08-04 13:19:12.193262",
+      "signatures_list": [
+        {
+          "signer": "DJ Kennington",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5916_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5915,
+      "driver_name": "Matt Crafton",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:18:27.215796",
+      "date_modified": "2026-08-04 13:18:27.215796",
+      "signatures_list": [
+        {
+          "signer": "Matt Crafton",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5915_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 5914,
+      "driver_name": "Ryan Hackett",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-04 13:17:43.519797",
+      "date_modified": "2026-08-04 13:17:43.519797",
+      "signatures_list": [
+        {
+          "signer": "Ryan Hackett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/card_5914_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 5913,
       "driver_name": "Johnny Carson",
       "year": null,
@@ -124702,6 +127078,15 @@ const collectionData = {
     }
   ],
   "people": {
+    "Andy Granatelli": {
+      "name": "Andy Granatelli",
+      "biography": "Anthony \"Andy\" Granatelli was an American businessman, most prominent as the CEO of STP as well as a major figure in automobile racing events.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andy_Granatelli",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Andygranatelli.JPG/330px-Andygranatelli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1923-03-18",
+      "deathDate": "2013-12-29"
+    },
     "Bill Elliott": {
       "name": "Bill Elliott",
       "biography": "William Clyde Elliott Sr., also known as \"Awesome Bill from Dawsonville\", \"Million Dollar Bill\", or \"Wild Bill\" is an American former professional stock car racing driver. He last competed in the Superstar Racing Experience part-time in 2022. His accolades include the 1988 Winston Cup Championship and garnering 44 wins in that series, including crown jewel victories in two Daytona 500s, three Southern 500s, one Winston 500 (1985), and one Brickyard 400 (2002). In 1985, Elliott became the first driver to win the Winston Million bonus, earning him the nickname \"Million Dollar Bill\". Elliott achieved a NASCAR record four consecutive wins at Michigan International Speedway between 1985 and 1986, and seven wins overall, the most at any one racetrack in his career. Elliott also won an additional six exhibition (non-points) races in his career, including one Winston All-Star Race win in 1986, one Busch Clash win in 1987, and four Daytona Duel wins in 1985, 1986, 1992, and 2000.",
@@ -124709,6 +127094,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Elliott",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_Elliott_2025.jpg/330px-Bill_Elliott_2025.jpg",
       "birthDate": null,
+      "deathDate": null
+    },
+    "Bobby Labonte": {
+      "name": "Bobby Labonte",
+      "biography": "Robert Allen Labonte is an American semi-retired professional stock car racing driver and current analyst for NASCAR on Fox. He also currently competes part-time in the SMART Modified Tour, driving the No. 18L for Hermie Sadler and Bill Stanley. Labonte is the 2000 NASCAR Winston Cup Series champion. He and his older brother, Terry Labonte, are one of only two pairs of brothers to have both won the Cup championships. He is also the uncle of former Xfinity Series race winner Justin Labonte.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bobby_Labonte",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bobby_Labonte_at_Talladega_01_%28cropped%29.JPG/330px-Bobby_Labonte_at_Talladega_01_%28cropped%29.JPG",
+      "birthDate": "1964-05-08",
       "deathDate": null
     },
     "Brad Keselowski": {
@@ -124729,6 +127123,15 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Chris Economaki": {
+      "name": "Chris Economaki",
+      "biography": "Christopher Constantine Economaki was a pioneering American motorsports journalist, publisher, reporter, and commentator known as \"The Dean of American Motorsports Journalism.\" Working for, and later owning, National Speed Sport News, Economaki helped encourage the growth of American motorsports from a niche endeavor to a mainstream pursuit.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chris_Economaki",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/ChrisEconomaki2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1920-10-15",
+      "deathDate": "2012-09-28"
+    },
     "Dale Earnhardt": {
       "name": "Dale Earnhardt",
       "biography": "Ralph Dale Earnhardt was an American professional stock car driver and racing team owner, who raced from 1975 to 2001 in the former NASCAR Winston Cup Series, most notably driving the No.\u00a03 Chevrolet for Richard Childress Racing. His aggressive driving style earned him the nicknames \"the Intimidator\", \"the Man in Black\" and \"Ironhead\"; after his son Dale Earnhardt Jr. joined the Cup Series circuit in 1999, Earnhardt was generally known by the retronyms Dale Earnhardt Sr. and Dale Sr. He is widely regarded as one of the greatest drivers in NASCAR history and was named as one of the NASCAR's 50 Greatest Drivers class in 1998.",
@@ -124747,6 +127150,15 @@ const collectionData = {
       "birthDate": "1974-10-10",
       "deathDate": null
     },
+    "Darryl Sage": {
+      "name": "Darryl Sage",
+      "biography": "Darryl Sage is an American former professional stock car racing driver who has previously competed in the NASCAR Winston Cup Series, the NASCAR Busch Series, and the ARCA Re/Max Series.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Darryl_Sage",
+      "photoUrl": null,
+      "birthDate": "1965",
+      "deathDate": null
+    },
     "Davey Allison": {
       "name": "Davey Allison",
       "biography": "David Carl Allison was an American NASCAR driver. He was best known for driving the No. 28 Texaco-Havoline Ford for Robert Yates Racing in the NASCAR Cup Series. Born in Hollywood, Florida, he was the oldest of four children born to Bobby and Judy Allison. The family moved to Hueytown, Alabama, and along with Bobby Allison's brother, Donnie, Red Farmer and Neil Bonnett, became known as the Alabama Gang.",
@@ -124754,6 +127166,33 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Davey_Allison",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/DaveyAllisonPocono.jpg",
       "birthDate": null,
+      "deathDate": null
+    },
+    "Dick Hutcherson": {
+      "name": "Dick Hutcherson",
+      "biography": "Richard Leon Hutcherson was an American businessman and a former stock car racer. A native of Keokuk, Iowa, Hutcherson drove in NASCAR competition from 1964 to 1967. He won 14 races, finishing runner-up in his first full season in 1965 and third in 1967, but after four years of top-level racing he retired at the season's end to devote his energies to Hutcherson-Pagan Enterprises, a chassis-building business in Charlotte, North Carolina. His younger brother Ron also became a stock car racer.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dick_Hutcherson",
+      "photoUrl": null,
+      "birthDate": "1931-11-30",
+      "deathDate": "2005-11-06"
+    },
+    "Donnie Wingo": {
+      "name": "Donnie Wingo",
+      "biography": "Donnie Wingo is a crew chief in NASCAR who last worked on the No. 34 team of Landon Cassill for Front Row Motorsports. Wingo has seven career Sprint Cup victories as a crew chief.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donnie_Wingo",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jimmy_Spencer_Crew_Chief_DF-SD-01-07451_%28cropped%29.jpg/330px-Jimmy_Spencer_Crew_Chief_DF-SD-01-07451_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1960-02-13",
+      "deathDate": null
+    },
+    "Eddie Cheever": {
+      "name": "Eddie Cheever",
+      "biography": "Edward McKay Cheever Jr. is an American former racing driver and motorsport executive, who competed in Formula One from 1978 to 1989, CART between 1986 and 1995, and IndyCar between 1996 and 2006. In American open-wheel racing, Cheever won the Indianapolis 500 in 1998 with Team Cheever.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eddie_Cheever",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eddie_Cheever_Jr_2009_Indy_500_Second_Qual_Day.JPG/330px-Eddie_Cheever_Jr_2009_Indy_500_Second_Qual_Day.JPG",
+      "birthDate": "1958-01-10",
       "deathDate": null
     },
     "Erik Jones": {
@@ -124792,6 +127231,51 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Greg Biffle": {
+      "name": "Greg Biffle",
+      "biography": "Gregory Jack Biffle, nicknamed \"the Biff\", was an American professional stock car racing driver. He most notably raced from 2002 to 2022 in the NASCAR Cup Series, most notably driving the No.\u00a016 Ford for Roush Fenway Racing from 2002 to 2016 and last competed part-time in the ARCA Menards Series West, driving the No. 23 and No. 24 Chevrolet SS for Sigma Performance Services in 2025.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greg_Biffle",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Greg_Biffle_2003_%282764335252%29.jpg/330px-Greg_Biffle_2003_%282764335252%29.jpg",
+      "birthDate": "1969-12-23",
+      "deathDate": "2025-12-18"
+    },
+    "Greg Sacks": {
+      "name": "Greg Sacks",
+      "biography": "Gregory Sacks is an American former stock car racing driver. He has previously competed in the NASCAR Nextel Cup Series, the NASCAR Busch Series, the NASCAR Craftsman Truck Series, and the ARCA Re/Max Series.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greg_Sacks",
+      "photoUrl": null,
+      "birthDate": "1952-11-03",
+      "deathDate": null
+    },
+    "Jeff Gordon": {
+      "name": "Jeff Gordon",
+      "biography": "Jeffery Michael Gordon is an American stock car racing executive and former professional stock car racing driver who currently serves as the vice chairman of Hendrick Motorsports. He raced full-time from 1993 to 2015, driving the No. 24 Chevrolet for Hendrick Motorsports in the former NASCAR Winston Cup Series and Sprint Cup Series, and also served as a substitute driver for Dale Earnhardt Jr. in the No. 88 Chevrolet for Hendrick Motorsports in select races during the 2016 season. He is widely regarded as one of the greatest and most influential drivers in NASCAR history, helping the sport reach mainstream popularity in the 1990s and 2000s.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jeff_Gordon",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SWW03504-2_%28cropped%29.jpg/330px-SWW03504-2_%28cropped%29.jpg",
+      "birthDate": "1971-08-04",
+      "deathDate": null
+    },
+    "Jim Paschal": {
+      "name": "Jim Paschal",
+      "biography": "James Roy Paschal Jr. was an American NASCAR Grand National Series and Winston Cup Series driver.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jim_Paschal",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/JimPaschalOldTimeNASCARDriver.jpg",
+      "birthDate": "1926-12-05",
+      "deathDate": "2004-07-05"
+    },
+    "John Andretti": {
+      "name": "John Andretti",
+      "biography": "John Andrew Andretti was an American professional race car driver. He won individual races in CART, IMSA GTP, Rolex Sports Car Series, and NASCAR during his career. A member of the Andretti racing family, he was the son of Aldo Andretti, older brother of racer Adam Andretti, nephew of Mario Andretti, and the cousin to CART drivers Michael and Jeff Andretti. He was also the first cousin once-removed of Marco Andretti.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Andretti",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/John_Andretti_at_Carb_Day_2015_-_Stierch.jpg/330px-John_Andretti_at_Carb_Day_2015_-_Stierch.jpg",
+      "birthDate": "1963-03-12",
+      "deathDate": "2020-01-30"
+    },
     "Johnny Carson": {
       "name": "Johnny Carson",
       "biography": "John William Carson was an American television host, comedian, and writer. He was best known as the host of The Tonight Show Starring Johnny Carson, the third installment of The Tonight Show, which aired on NBC from 1962 to 1992.",
@@ -124810,6 +127294,51 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Kevin Harvick": {
+      "name": "Kevin Harvick",
+      "biography": "Kevin Michael Harvick is an American semi-retired professional stock car racing driver and commentator for NASCAR on Fox.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kevin_Harvick",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kevin_Harvick_Clash_2023.jpg/330px-Kevin_Harvick_Clash_2023.jpg",
+      "birthDate": "1975-12-08",
+      "deathDate": null
+    },
+    "Kevin Lepage": {
+      "name": "Kevin Lepage",
+      "biography": "Kevin Paul Lepage is an American former professional stock car racing driver, who last drove in NASCAR in 2014.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kevin_Lepage",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kevin_Lepage.jpg",
+      "birthDate": "1962-06-26",
+      "deathDate": null
+    },
+    "Larry McClure": {
+      "name": "Larry McClure",
+      "biography": "Morgan\u2013McClure Motorsports was an American auto racing team that competed in the NASCAR Cup Series full-time until 2007. It operated for 28 years, starting in 1983 and ending in 2012. The team was most notable for running the No. 4 from 1983 to 2010. The team notably won the Daytona 500 three times during the 1990s. They won with Ernie Irvan in 1991, then won back-to-back in 1994\u20131995 with Sterling Marlin. Irvan (1992) and Marlin (1996) also each won the Pepsi 400 for a total of five points-paying wins at Daytona for the team over a six-year period.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Morgan%E2%80%93McClure_Motorsports",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Morgan_McClure_Motorsports_logo.jpg/330px-Morgan_McClure_Motorsports_logo.jpg",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Lee Petty": {
+      "name": "Lee Petty",
+      "biography": "Lee Arnold Petty was an American stock car racing driver who competed during the 1950s and 1960s. He is the patriarch of the Petty racing family. He was one of the early pioneers of NASCAR and one of its first stars. He was NASCAR's first three-time Cup champion. He is the father of Richard Petty, who went on to become one of the most successful stock car racing drivers in history. He is also the grandfather of Kyle Petty and great grandfather of Adam Petty.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Petty",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/LeePettyNASCARLegend.jpg",
+      "birthDate": "1914-03-14",
+      "deathDate": "2000-04-05"
+    },
+    "Mark Martin": {
+      "name": "Mark Martin",
+      "biography": "Mark Anthony Martin, nicknamed \"the Kid\", is an American former stock car racing driver. He most notably drove the No. 6 Ford for Roush Racing for the majority of his career.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Martin",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mark_Martin_Auto_Club_2023.jpg/330px-Mark_Martin_Auto_Club_2023.jpg",
+      "birthDate": "1959-01-09",
+      "deathDate": null
+    },
     "Martin Truex Jr.": {
       "name": "Martin Truex Jr.",
       "biography": "Martin Lee Truex Jr. is an American semi-retired professional stock car racing driver. He last competed in the NASCAR Cup Series, driving the No. 56 Toyota Camry XSE for Tricon Garage. He is the 2017 NASCAR Cup Series champion and a two-time Xfinity Series champion, having won two consecutive championships in 2004 and 2005.",
@@ -124817,6 +127346,24 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Truex_Jr.",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg/330px-Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg",
       "birthDate": "1980-06-29",
+      "deathDate": null
+    },
+    "Maurice Petty": {
+      "name": "Maurice Petty",
+      "biography": "Maurice Petty was an American NASCAR crew chief and engine builder for Petty Enterprises, of which he was part owner. He was inducted into the International Motorsports Hall of Fame in 2011. He was subsequently enshrined into the NASCAR Hall of Fame in 2014. He was the first engine builder to be inducted into that Hall.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maurice_Petty",
+      "photoUrl": null,
+      "birthDate": "1939-03-27",
+      "deathDate": "2020-07-25"
+    },
+    "Michael Waltrip": {
+      "name": "Michael Waltrip",
+      "biography": "Michael Curtis \"Mikey\" Waltrip is an American former professional stock car racing driver, racing commentator, racing team owner, amateur ballroom dancing competitor and published author. He is the younger brother of three-time NASCAR champion and racing commentator Darrell Waltrip. Waltrip is a two-time winner of the Daytona 500, having won the race in 2001 and 2003. He is also a pre-race analyst for the NASCAR Cup Series and color commentator for the Xfinity Series and the Craftsman Truck Series broadcasts for Fox Sports. He last raced in the 2017 Daytona 500, driving the No. 15 Toyota Camry for Premium Motorsports. All four of his NASCAR Cup Series wins came on superspeedways driving for Dale Earnhardt Inc..",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Waltrip",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Michael_Waltrip_Las_Vegas_2026.jpg/330px-Michael_Waltrip_Las_Vegas_2026.jpg",
+      "birthDate": "1963-04-30",
       "deathDate": null
     },
     "Neil Bonnett": {
@@ -124828,6 +127375,15 @@ const collectionData = {
       "birthDate": "1946-07-30",
       "deathDate": "1994-02-11"
     },
+    "Richard Petty": {
+      "name": "Richard Petty",
+      "biography": "Richard Lee Petty, nicknamed \"the King\", is an American former stock car racing driver who competed from 1958 to 1992 in the former NASCAR Grand National and Winston Cup Series, most notably driving the No. 43 Plymouth/Pontiac for Petty Enterprises. He is one of the members of the Petty racing family. He was the first driver to win the Cup Series championship seven times, while also winning a record 200 races during his career. This included winning the Daytona 500 a record seven times and winning a record 27 races in one season (1967). Petty is widely regarded as one of the greatest drivers in NASCAR history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Petty",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg/330px-Richard_Petty_Las_Vegas_Fall_2024.jpg",
+      "birthDate": "1937-07-02",
+      "deathDate": null
+    },
     "Robbie Loomis": {
       "name": "Robbie Loomis",
       "biography": "Donald Robert Loomis is a former NASCAR crew chief who worked for Petty Enterprises and Hendrick Motorsports during his time as a crew chief, working most notably with Richard Petty and Jeff Gordon. Loomis won the 2001 NASCAR Winston Cup Series championship as Gordon's crew chief, and collected a total of 26 wins and 98 top 5s.",
@@ -124836,18 +127392,45 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Robbie_Loomis_2011.jpg/330px-Robbie_Loomis_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": null,
       "deathDate": null
+    },
+    "Sam Jankovich": {
+      "name": "Sam Jankovich",
+      "biography": "Sam Jankovich was an American sports administrator who held several positions, including athletic director at the Washington State University and the University of Miami. He also was the CEO of the New England Patriots of the National Football League (NFL) and president and general manager of the Las Vegas Gladiators of the Arena Football League (AFL).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sam_Jankovich",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Reagan_with_Miami_Hurricanes_football_team_1988.jpg/330px-Reagan_with_Miami_Hurricanes_football_team_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1935",
+      "deathDate": "2019-10-30"
+    },
+    "Tero Palmroth": {
+      "name": "Tero Palmroth",
+      "biography": "Tero Pentti Palmroth is a Finnish former racing driver who competed in the CART series. He raced in the 1988\u20131992 seasons with twelve career starts, including the 1988\u20131991 Indianapolis 500. His best CART finish was in 12th position at the 1990 Indianapolis 500.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tero_Palmroth",
+      "photoUrl": null,
+      "birthDate": "1953-05-28",
+      "deathDate": null
+    },
+    "Tommy Rich": {
+      "name": "Tommy Rich",
+      "biography": "Thomas Richardson is an American professional wrestler, better known by his ring name Tommy \"Wildfire\" Rich. He is a one time former National Wrestling Alliance World Heavyweight Champion and Smoky Mountain Wrestling Heavyweight Champion. He primarily appeared in Georgia Championship Wrestling and Memphis throughout the 1980s, as well as World Championship Wrestling, Smoky Mountain Wrestling and Extreme Championship Wrestling throughout the 1990s. He is a 1974 graduate of Hendersonville High School.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tommy_Rich",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TommyRichAugust2013.png/330px-TommyRichAugust2013.png",
+      "birthDate": "1956-07-26",
+      "deathDate": null
     }
   },
   "stats": {
-    "total_cards": 5894,
-    "signed_cards": 5821,
-    "unsigned_cards": 73,
-    "unique_signers": 2213,
+    "total_cards": 6007,
+    "signed_cards": 5933,
+    "unsigned_cards": 74,
+    "unique_signers": 2266,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 42
   },
-  "export_date": "2026-08-04T00:40:33.317733",
+  "export_date": "2026-08-04T16:14:32.646288",
   "version": "3.0"
 };
 
