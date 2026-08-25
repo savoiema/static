@@ -287,6 +287,12 @@ body {
     color: #1976d2;
 }
 
+.card-badge.authenticated {
+    background: #fff3e0;
+    color: #e65100;
+    margin-left: 6px;
+}
+
 .card-signatures {
     margin-top: 12px;
     padding-top: 12px;
