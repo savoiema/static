@@ -137165,7 +137165,7 @@ const collectionData = {
     "unique_manufacturers": 78,
     "unique_series": 45
   },
-  "export_date": "2026-08-25T19:35:59.820879",
+  "export_date": "2026-08-25T19:51:22.338494",
   "version": "3.0"
 };
 
@@ -137473,10 +137473,14 @@ function createCardElement(card) {
         `;
     }
     
-    const badgeHTML = card.signatures_list && card.signatures_list.length > 0 
+    const badgeHTML = card.signatures_list && card.signatures_list.length > 0
         ? `<span class="card-badge signed">✍️ Signed (${card.signatures_list.length})</span>`
         : '<span class="card-badge">Unsigned</span>';
-    
+
+    const authenticatedBadgeHTML = card.authenticated
+        ? `<span class="card-badge authenticated">🛡️ Authenticated</span>`
+        : '';
+
     div.innerHTML = `
         ${imageHTML}
         <div class="card-body">
@@ -137485,6 +137489,7 @@ function createCardElement(card) {
             ${detailsText ? `<div class="card-details">${detailsText}</div>` : ''}
             ${card.series ? `<div class="card-details">Series: ${card.series}</div>` : ''}
             ${badgeHTML}
+            ${authenticatedBadgeHTML}
             ${signaturesHTML}
         </div>
     `;
@@ -137594,9 +137599,10 @@ function showCardDetail(card) {
                     ${card.manufacturer ? `Manufacturer: ${card.manufacturer}<br>` : ''}
                     ${card.series ? `Series: ${card.series}<br>` : ''}
                     ${card.card_number ? `Number: #${card.card_number}<br>` : ''}
+                    ${card.authenticated ? `Authenticated: 🛡️ Yes<br>` : ''}
                 </div>
             </div>
-            
+
             ${signaturesHTML}
             
             ${relatedCardsHTML}
