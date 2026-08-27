@@ -215,8 +215,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:21:31.405120",
-      "date_modified": "2026-08-07 23:21:31.405120",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:24.223769",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Donald Trump",
@@ -237,8 +237,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:21:02.761969",
-      "date_modified": "2026-08-07 23:21:02.761969",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:18.919295",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Barack Obama",
@@ -303,8 +303,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:18:50.363809",
-      "date_modified": "2026-08-07 23:18:50.363809",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:31.547811",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Joe Biden",
@@ -325,8 +325,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:18:24.496952",
-      "date_modified": "2026-08-07 23:18:24.496952",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:36.708941",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Jimmy Carter",
@@ -347,8 +347,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:17:56.588852",
-      "date_modified": "2026-08-07 23:17:56.588852",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:41.987038",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Bill Clinton",
@@ -369,8 +369,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-08-07 23:17:09.028841",
-      "date_modified": "2026-08-07 23:17:30.030497",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:03:51.041729",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "George H.W. Bush",
@@ -9956,8 +9956,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-06-22 19:47:46.764946",
-      "date_modified": "2026-06-25 21:02:54.507237",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:21:51.489032",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Deke Slayton",
@@ -15018,13 +15018,13 @@
       "driver_name": "Martin Truex Jr.",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "22",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-06-01 22:25:25.710790",
-      "date_modified": "2026-06-01 22:25:25.710790",
+      "date_modified": "2026-08-26 13:53:17.191804",
       "authenticated": false,
       "signatures_list": [
         {
@@ -21134,13 +21134,13 @@
       "driver_name": "Trevor Bayne",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "9",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-04-29 20:41:15.253432",
-      "date_modified": "2026-04-29 20:41:15.253432",
+      "date_modified": "2026-08-26 13:53:30.155558",
       "authenticated": false,
       "signatures_list": [
         {
@@ -23976,8 +23976,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-04-21 14:23:13.787787",
-      "date_modified": "2026-06-25 21:03:13.726374",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:22:42.831742",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Sally Ride",
@@ -28179,13 +28179,13 @@
       "driver_name": "Tony Stewart",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "1",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-04-13 15:48:03.262359",
-      "date_modified": "2026-04-13 15:48:03.262359",
+      "date_modified": "2026-08-26 13:53:43.127880",
       "authenticated": false,
       "signatures_list": [
         {
@@ -33160,8 +33160,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-03-26 18:03:07.829967",
-      "date_modified": "2026-03-26 18:03:07.829967",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:23:22.528658",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Pat Burns",
@@ -36124,13 +36124,13 @@
       "driver_name": "Denny Hamlin",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "11",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-03-25 16:28:56.291965",
-      "date_modified": "2026-03-25 16:28:56.291965",
+      "date_modified": "2026-08-26 13:53:56.403472",
       "authenticated": false,
       "signatures_list": [
         {
@@ -36146,13 +36146,13 @@
       "driver_name": "Alex Bowman",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "23",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-03-25 16:27:43.095139",
-      "date_modified": "2026-03-25 16:27:43.095139",
+      "date_modified": "2026-08-26 13:54:05.155472",
       "authenticated": false,
       "signatures_list": [
         {
@@ -36590,8 +36590,8 @@
       "item_type": "Other",
       "notes": "",
       "date_added": "2026-03-25 16:03:01.245465",
-      "date_modified": "2026-03-25 21:46:51.114299",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:26:43.511047",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Tommy Chong",
@@ -43276,8 +43276,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-02-25 22:46:42.520912",
-      "date_modified": "2026-02-25 22:46:42.520912",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:31:04.243924",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Nicko McBrain",
@@ -50175,8 +50175,8 @@
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-02-02 15:33:17.500273",
-      "date_modified": "2026-02-02 15:33:17.500273",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:26:25.334699",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Dan Castellaneta",
@@ -53369,13 +53369,13 @@
       "driver_name": "Kyle Busch",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "14",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-01-23 16:06:15.805279",
-      "date_modified": "2026-01-23 16:06:15.805279",
+      "date_modified": "2026-08-26 13:54:25.172689",
       "authenticated": false,
       "signatures_list": [
         {
@@ -53391,13 +53391,13 @@
       "driver_name": "Chase Elliott",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "10",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-01-23 16:05:32.065717",
-      "date_modified": "2026-01-23 16:05:32.065717",
+      "date_modified": "2026-08-26 13:54:50.259902",
       "authenticated": false,
       "signatures_list": [
         {
@@ -86975,13 +86975,13 @@
       "driver_name": "Chase Elliott",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "10",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-20 18:16:17.728614",
-      "date_modified": "2025-11-20 18:16:17.728614",
+      "date_modified": "2026-08-26 13:54:57.673011",
       "authenticated": false,
       "signatures_list": [
         {
@@ -87019,13 +87019,13 @@
       "driver_name": "Kyle Busch",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "14",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-20 18:14:40.897724",
-      "date_modified": "2025-11-20 18:14:40.897724",
+      "date_modified": "2026-08-26 13:54:33.011557",
       "authenticated": false,
       "signatures_list": [
         {
@@ -87265,13 +87265,13 @@
       "driver_name": "Ryan Blaney",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "12",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-19 21:37:49.604942",
-      "date_modified": "2025-11-19 21:37:49.604942",
+      "date_modified": "2026-08-26 13:55:21.832376",
       "authenticated": false,
       "signatures_list": [
         {
@@ -89445,13 +89445,13 @@
       "driver_name": "Ryan Blaney",
       "year": 2018,
       "manufacturer": "Panini - Donrus",
-      "series": "",
+      "series": "Race Kings",
       "card_number": "12",
       "discipline": "NASCAR",
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-19 13:45:14.850663",
-      "date_modified": "2025-11-19 13:45:14.850663",
+      "date_modified": "2026-08-26 13:55:29.510009",
       "authenticated": false,
       "signatures_list": [
         {
@@ -98625,8 +98625,8 @@
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-05 22:25:11.931755",
-      "date_modified": "2025-11-05 22:25:11.931755",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:28:43.795417",
+      "authenticated": true,
       "signatures_list": [],
       "image_front_file": "images/0004/card_1730_front.jpg",
       "image_back_file": null
@@ -98664,8 +98664,8 @@
       "item_type": "Card",
       "notes": "40/49",
       "date_added": "2025-11-05 22:22:49.964305",
-      "date_modified": "2025-11-05 22:22:49.964305",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:28:39.350548",
+      "authenticated": true,
       "signatures_list": [],
       "image_front_file": "images/0004/card_1728_front.jpg",
       "image_back_file": null
@@ -98681,8 +98681,8 @@
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-05 22:21:18.637500",
-      "date_modified": "2025-11-05 22:21:18.637500",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:28:29.589078",
+      "authenticated": true,
       "signatures_list": [],
       "image_front_file": "images/0004/card_1727_front.jpg",
       "image_back_file": null
@@ -98698,8 +98698,8 @@
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-05 22:19:37.365849",
-      "date_modified": "2025-11-05 22:19:37.365849",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:25:34.217563",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "Dean Haglund",
@@ -98742,8 +98742,8 @@
       "item_type": "Card",
       "notes": "",
       "date_added": "2025-11-05 22:15:43.167064",
-      "date_modified": "2025-11-05 22:15:43.167064",
-      "authenticated": false,
+      "date_modified": "2026-08-25 22:28:24.647651",
+      "authenticated": true,
       "signatures_list": [],
       "image_front_file": "images/0004/card_1724_front.jpg",
       "image_back_file": null
@@ -129291,8 +129291,8 @@
       "item_type": "Card",
       "notes": "Died in Aug 1991 at the glen. \n\nhttps://en.wikipedia.org/wiki/J._D._McDuffie\nhttps://www.youtube.com/watch?v=S-NZZKqiVSM",
       "date_added": "2025-10-24 21:38:00.519846",
-      "date_modified": "2026-06-05 22:12:32.713722",
-      "authenticated": false,
+      "date_modified": "2026-08-25 21:06:49.501051",
+      "authenticated": true,
       "signatures_list": [
         {
           "signer": "J.D. McDuffie",
@@ -136767,12 +136767,30 @@
       "birthDate": "1923-03-18",
       "deathDate": "2013-12-29"
     },
+    "B.B.King": {
+      "name": "B.B.King",
+      "biography": "Riley B. King, known professionally as B.\u00a0B. King, was an American blues guitarist, singer, songwriter, and record producer. He introduced a sophisticated style of soloing based on fluid string bending, shimmering vibrato, and staccato picking that influenced many later electric guitar blues players. AllMusic recognized King as \"the single most important electric guitarist of the last half of the 20th century\".",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/B._B._King",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bbking.jpg/330px-Bbking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1925-09-16",
+      "deathDate": "2015-05-14"
+    },
     "Bill Elliott": {
       "name": "Bill Elliott",
       "biography": "William Clyde Elliott Sr., also known as \"Awesome Bill from Dawsonville\", \"Million Dollar Bill\", or \"Wild Bill\" is an American former professional stock car racing driver. He last competed in the Superstar Racing Experience part-time in 2022. His accolades include the 1988 Winston Cup Championship and garnering 44 wins in that series, including crown jewel victories in two Daytona 500s, three Southern 500s, one Winston 500 (1985), and one Brickyard 400 (2002). In 1985, Elliott became the first driver to win the Winston Million bonus, earning him the nickname \"Million Dollar Bill\". Elliott achieved a NASCAR record four consecutive wins at Michigan International Speedway between 1985 and 1986, and seven wins overall, the most at any one racetrack in his career. Elliott also won an additional six exhibition (non-points) races in his career, including one Winston All-Star Race win in 1986, one Busch Clash win in 1987, and four Daytona Duel wins in 1985, 1986, 1992, and 2000.",
       "bioSource": "wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Elliott",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_Elliott_2025.jpg/330px-Bill_Elliott_2025.jpg",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Blake Lewis": {
+      "name": "Blake Lewis",
+      "biography": "Blake Colin Lewis is an American musician and actor who was the runner-up on the sixth season of American Idol. His major label debut album A.D.D.  was released on December 4, 2007, through 19 Recordings and Arista Records. On October 30, 2007, his first single \"Break Anotha\" was released. The album landed on number ten on the U.S. Billboard 200 as its highest peak position with 97,500 copies sold in its debut, and has sold over 350,000 copies. After the release of his second single \"How Many Words\", which peaked at number eight on the U.S. Billboard Dance/Club Play Songs, Lewis was dropped by Arista Records. Lewis eventually signed with Tommy Boy Records.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blake_Lewis",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Blake-Lewis-AM-Awards.jpg/330px-Blake-Lewis-AM-Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": null,
       "deathDate": null
     },
@@ -136794,6 +136812,15 @@
       "birthDate": "1984-02-12",
       "deathDate": null
     },
+    "Buck Owens": {
+      "name": "Buck Owens",
+      "biography": "Alvis Edgar \"Buck\" Owens Jr. was an American musician, singer, and songwriter. He was the frontman for The Buckaroos, which had 21 No. 1 hits on the Billboard country music chart. He pioneered what came to be called the Bakersfield sound, named in honor of Bakersfield, California, Owens's adopted home and the city from which he drew inspiration for what he preferred to call \"American music\".",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Buck_Owens",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Buck_Owens.jpg/330px-Buck_Owens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1929-08-12",
+      "deathDate": "2006-03-25"
+    },
     "Charlie Glotzbach": {
       "name": "Charlie Glotzbach",
       "biography": "Charles Lee Glotzbach was an American ARCA and NASCAR Winston Cup Series driver. He holds one of the oldest race records in NASCAR. He has the record for fastest pace at Bristol Motor Speedway for a NASCAR race. He was also known as the \"Chargin' Comet\" and \"Chargin' Charlie\".",
@@ -136811,6 +136838,42 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/ChrisEconomaki2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "birthDate": "1920-10-15",
       "deathDate": "2012-09-28"
+    },
+    "Chuck Berry": {
+      "name": "Chuck Berry",
+      "biography": "Charles Edward Anderson Berry was an American guitarist, singer, and songwriter who was one of the pioneers of rock and roll. Nicknamed the \"Father of Rock and Roll\", he refined and developed rhythm and blues into the major elements that made rock and roll distinctive with songs such as \"Maybellene\" (1955), \"Roll Over Beethoven\" (1956), \"Rock and Roll Music\" (1957), and \"Johnny B. Goode\" (1958). Writing lyrics that focused on teen life and consumerism, and developing a music style that included guitar solos and showmanship, Berry was a major influence on subsequent rock music.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chuck_Berry",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1926-10-18",
+      "deathDate": "2017-03-18"
+    },
+    "Colin James": {
+      "name": "Colin James",
+      "biography": "Colin James is a Canadian blues rock singer and songwriter. James has been very successful in Canada, having attained seven Gold-certified albums in Canada during his career, including four Platinum albums and two Double Platinum albums.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colin_James",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ColinJames_2009.jpg/330px-ColinJames_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Crosby Stills Nash": {
+      "name": "Crosby Stills Nash",
+      "biography": "Crosby, Stills & Nash (CSN) was a folk rock supergroup composed of the American singer-songwriters David Crosby and Stephen Stills and the English-American singer-songwriter Graham Nash. When joined by the Canadian singer-songwriter Neil Young, they were known as Crosby, Stills, Nash & Young (CSNY). They are noted for their intricate vocal harmonies and lasting influence on American music and culture, their political activism and their tumultuous relationships.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crosby%2C_Stills%2C_Nash_%26_Young",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crosby_Stills_Nash_and_Young_1970.JPG/330px-Crosby_Stills_Nash_and_Young_1970.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Crowded House": {
+      "name": "Crowded House",
+      "biography": "Crowded House are an Australian/New Zealand rock band, formed in 1985 in Melbourne, Victoria, Australia. The band's founding members were Neil Finn, Paul Hester (drums), and Nick Seymour (bass). Later band members included Mitchell Froom, Finn's brother Tim, Finn's sons Liam and Elroy, and Americans Mark Hart and Matt Sherrod. Neil Finn and Seymour are the band's sole constant members.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crowded_House",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Crowded_House.jpg/330px-Crowded_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
     },
     "Dale Earnhardt": {
       "name": "Dale Earnhardt",
@@ -136839,6 +136902,15 @@
       "birthDate": "1965",
       "deathDate": null
     },
+    "Dave Edmunds": {
+      "name": "Dave Edmunds",
+      "biography": "David William Edmunds is a Welsh retired singer, songwriter, guitarist and record producer. He is mainly associated with pub rock and new wave, having produced hits in these genres during the 1970s and early 1980s.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dave_Edmunds",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DaveEdmunds1980crop.jpg/330px-DaveEdmunds1980crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1944-04-15",
+      "deathDate": null
+    },
     "Davey Allison": {
       "name": "Davey Allison",
       "biography": "David Carl Allison was an American NASCAR driver. He was best known for driving the No. 28 Texaco-Havoline Ford for Robert Yates Racing in the NASCAR Cup Series. Born in Hollywood, Florida, he was the oldest of four children born to Bobby and Judy Allison. The family moved to Hueytown, Alabama, and along with Bobby Allison's brother, Donnie, Red Farmer and Neil Bonnett, became known as the Alabama Gang.",
@@ -136848,6 +136920,33 @@
       "birthDate": null,
       "deathDate": null
     },
+    "David Bowie": {
+      "name": "David Bowie",
+      "biography": "David Robert Jones, known as David Bowie, was an English singer, songwriter and actor. Regarded as among the most influential musicians of the 20th century, he was known for his frequent reinvention and visual presentation, and is often referred to as the \"chameleon of rock\". His music, stagecraft and fashion have had a significant impact on popular culture.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/David_Bowie",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg/330px-David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1947-01-08",
+      "deathDate": "2016-01-10"
+    },
+    "David Gilmour": {
+      "name": "David Gilmour",
+      "biography": "David Jon Gilmour is an English musician, singer, and songwriter best known for being the lead guitarist of the English rock band Pink Floyd. He joined in 1967, shortly before the departure of founding member Syd Barrett. By the early 1980s, Pink Floyd had become one of the highest-selling and most acclaimed acts in music history. Following the departure of Roger Waters in 1985, Pink Floyd continued under Gilmour's leadership and released the studio albums A Momentary Lapse of Reason (1987), The Division Bell (1994) and The Endless River (2014).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/David_Gilmour",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/DGilmourRAH111024_%2821_of_63%29_%28cropped%29.jpg/330px-DGilmourRAH111024_%2821_of_63%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1946-03-06",
+      "deathDate": null
+    },
+    "Dean Martin": {
+      "name": "Dean Martin",
+      "biography": "Dean Martin was an American singer, actor, comedian and television host. Nicknamed the \"King of Cool\", he is regarded as one of the most popular entertainers of the 20th century.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dean_Martin",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1917-06-07",
+      "deathDate": "1995-12-25"
+    },
     "Dick Hutcherson": {
       "name": "Dick Hutcherson",
       "biography": "Richard Leon Hutcherson was an American businessman and a former stock car racer. A native of Keokuk, Iowa, Hutcherson drove in NASCAR competition from 1964 to 1967. He won 14 races, finishing runner-up in his first full season in 1965 and third in 1967, but after four years of top-level racing he retired at the season's end to devote his energies to Hutcherson-Pagan Enterprises, a chassis-building business in Charlotte, North Carolina. His younger brother Ron also became a stock car racer.",
@@ -136856,6 +136955,15 @@
       "photoUrl": null,
       "birthDate": "1931-11-30",
       "deathDate": "2005-11-06"
+    },
+    "Don Williams": {
+      "name": "Don Williams",
+      "biography": "Donald Ray Williams was an American country music singer, songwriter, and 2010 inductee into the Country Music Hall of Fame. He began his solo career in 1971, singing popular ballads and amassing 17 number-one country hits. His straightforward yet smooth bass-baritone voice, soft tones, and imposing build earned him the nickname \"The Gentle Giant\". In 1975, Williams starred in a movie with Burt Reynolds and Jerry Reed called W.W. and the Dixie Dancekings.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Don_Williams",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Donwilliams.jpg/330px-Donwilliams.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1939-05-27",
+      "deathDate": "2017-09-08"
     },
     "Donnie Wingo": {
       "name": "Donnie Wingo",
@@ -136875,6 +136983,15 @@
       "birthDate": "1958-01-10",
       "deathDate": null
     },
+    "Eddie Van Halen": {
+      "name": "Eddie Van Halen",
+      "biography": "Edward Lodewijk Van Halen was an American musician and songwriter. He was the guitarist, keyboardist, backing vocalist, and one of the primary songwriters of the rock band Van Halen, which he founded with his brother Alex Van Halen in 1972. He is widely regarded as one of the greatest guitarists in rock history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eddie_Van_Halen",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg/330px-Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1955-01-26",
+      "deathDate": "2020-10-06"
+    },
     "Erik Jones": {
       "name": "Erik Jones",
       "biography": "Erik Benjamin Jones is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 43 Toyota Camry XSE for Legacy Motor Club.",
@@ -136892,6 +137009,42 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/330px-Alonso-68_%2824710447098%29.jpg",
       "birthDate": "1981-07-29",
       "deathDate": null
+    },
+    "Frank Sinatra": {
+      "name": "Frank Sinatra",
+      "biography": "Francis Albert Sinatra was an American singer, conductor, and actor. Nicknamed the \"Chairman of the Board\" and \"Ol' Blue Eyes\", he is regarded as one of the most influential entertainers of the 20th century.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/330px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1915-12-12",
+      "deathDate": "1998-05-14"
+    },
+    "Freddie Hart": {
+      "name": "Freddie Hart",
+      "biography": "Frederick Segrest, known professionally as Freddie Hart, was an American country musician and songwriter best known for his chart-topping country song and lone pop hit \"Easy Loving\", which won the Country Music Association Song of the Year award in 1971 and 1972. Hart charted singles from 1953 to 1987, and later became a gospel singer. He also performed at music festivals and other venues until his death in 2018.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Freddie_Hart",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Freddie_Hart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1926-12-21",
+      "deathDate": "2018-10-27"
+    },
+    "Gene Autry": {
+      "name": "Gene Autry",
+      "biography": "Orvon Grover \"Gene\" Autry, nicknamed the Singing Cowboy, was an American actor, musician, singer, composer, rodeo performer, and baseball team owner. He largely gained fame by singing in a crooning style on radio, in films, and on television for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero\u2014honest, brave, and true.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gene_Autry",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gene_Autry%2C_NPG_94_39.jpg/330px-Gene_Autry%2C_NPG_94_39.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1907-09-29",
+      "deathDate": "1998-10-02"
+    },
+    "George Jones": {
+      "name": "George Jones",
+      "biography": " George Glenn Jones was an American country musician, singer, and songwriter. He achieved international fame for a long list of hit records, and is well known for his distinctive voice and phrasing. For the last two decades of his life, he was frequently referred to as \"the greatest living country singer\", \"The Rolls-Royce of Country Music\".",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Jones",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/George_Jones%2C_1976.png/330px-George_Jones%2C_1976.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1931-09-12",
+      "deathDate": "2013-04-26"
     },
     "George Russell": {
       "name": "George Russell",
@@ -136927,6 +137080,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Greg_Sacks",
       "photoUrl": null,
       "birthDate": "1952-11-03",
+      "deathDate": null
+    },
+    "Gun n Roses": {
+      "name": "Gun n Roses",
+      "biography": "Guns N' Roses is an American hard rock band formed in Los Angeles, California, in 1985 from L.A. Guns and Hollywood Rose. After signing with Geffen Records in 1986, the band's \"classic\" lineup featured vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guns_N'_Roses",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GNR_Belgrade_2025_05_%28cropped%29.jpg/330px-GNR_Belgrade_2025_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
       "deathDate": null
     },
     "Hermano da Silva Ramos": {
@@ -136965,6 +137127,15 @@
       "birthDate": "1926-12-05",
       "deathDate": "2004-07-05"
     },
+    "Joe Diffie": {
+      "name": "Joe Diffie",
+      "biography": "Joe Logan Diffie was an American country music singer and songwriter. After working as a demonstration singer in the mid 1980s, he signed with Epic Records' Nashville division in 1990. Between then and 2004, Diffie charted 35 singles on the Billboard Hot Country Songs chart, five of which peaked at number one - his debut release \"Home\", \"If the Devil Danced \", \"Third Rock from the Sun\", \"Pickup Man\", and \"Bigger Than the Beatles\". In addition to these singles, he had 12 others reach the top 10 and 10 more reach the top 40 on the same chart. He also co-wrote singles for Holly Dunn, Tim McGraw, and Jo Dee Messina, and recorded with Mary Chapin Carpenter, George Jones, and Marty Stuart.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Diffie",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Joe_Diffie_10-14-17_%28cropped%29.jpg/330px-Joe_Diffie_10-14-17_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1958-12-28",
+      "deathDate": "2020-03-29"
+    },
     "John Andretti": {
       "name": "John Andretti",
       "biography": "John Andrew Andretti was an American professional race car driver. He won individual races in CART, IMSA GTP, Rolex Sports Car Series, and NASCAR during his career. A member of the Andretti racing family, he was the son of Aldo Andretti, older brother of racer Adam Andretti, nephew of Mario Andretti, and the cousin to CART drivers Michael and Jeff Andretti. He was also the first cousin once-removed of Marco Andretti.",
@@ -137001,6 +137172,33 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Junior Johnson": {
+      "name": "Junior Johnson",
+      "biography": "Robert Glenn Johnson Jr. , better known as Junior Johnson, was an American professional stock car racing driver, engineer, and team owner as well as an entrepreneur. He won 50 NASCAR races in his career before retiring in 1966. In the 1970s and 1980s, he became a NASCAR racing team owner, winning the NASCAR championship with Cale Yarborough and Darrell Waltrip three times each; Johnson was the first owner to win multiple championships with multiple drivers. He is credited as the first to use the drafting technique in stock car racing. He was nicknamed \"The Last American Hero,\" and his autobiography and movie The Last American Hero based on his upbringing is of the same name. In May 2007, Johnson teamed with Piedmont Distillers of Madison, North Carolina, to introduce the company's second moonshine product, called \"Midnight Moon Moonshine\", a nod to the days of his early youth in the 1940s when he made a living as a moonshiner/moon runner and bootlegger.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Junior_Johnson",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Johnson_1985_2400_%282883838750%29.jpg/330px-Johnson_1985_2400_%282883838750%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1931-06-28",
+      "deathDate": "2019-12-20"
+    },
+    "Keith Richard": {
+      "name": "Keith Richard",
+      "biography": "Keith Richards is an English musician, songwriter, singer and record producer who is an original member, guitarist, secondary vocalist, and co-principal songwriter of the Rolling Stones. His songwriting partnership with the band's lead vocalist Mick Jagger is one of the most successful in history. His career spans over six decades, and his guitar playing style has been a trademark of the Rolling Stones throughout the band's career. Richards gained press notoriety for his romantic involvements and illicit drug use, and he was often portrayed as a countercultural figure. First professionally known as Keith Richard, from 1978 he used his full family name.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Keith_Richards",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RStonesHydePark030722_%2863_of_125%29_%28Keith_Richards%29.jpg/330px-RStonesHydePark030722_%2863_of_125%29_%28Keith_Richards%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1943-12-18",
+      "deathDate": null
+    },
+    "Kenny Rogers": {
+      "name": "Kenny Rogers",
+      "biography": "Kenneth Donald Ray Rogers was an American country music singer-songwriter. Rogers was particularly popular with country audiences, but also charted more than 120 hit singles across various genres, topping the country and pop album charts for more than 200 individual weeks in the United States alone. He sold more than 100 million records worldwide during his lifetime, making him one of the best-selling music artists of all time. His fame and career spanned multiple genres\u2014jazz, folk, pop, rock, and country. He remade his career and was one of the most successful cross-over artists of all time. He was inducted into the Country Music Hall of Fame in 2013.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kenny_Rogers",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KennyRogers.jpg/330px-KennyRogers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1938-08-21",
+      "deathDate": "2020-03-20"
+    },
     "Kevin Harvick": {
       "name": "Kevin Harvick",
       "biography": "Kevin Michael Harvick is an American semi-retired professional stock car racing driver and commentator for NASCAR on Fox.",
@@ -137036,6 +137234,33 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/LeePettyNASCARLegend.jpg",
       "birthDate": "1914-03-14",
       "deathDate": "2000-04-05"
+    },
+    "Little Richard": {
+      "name": "Little Richard",
+      "biography": "Richard Wayne Penniman, better known by his stage name Little Richard, was an American singer-songwriter and pianist. He was an influential figure in popular music and culture for seven decades. Referred to as the \"Architect of Rock and Roll\", Richard's most celebrated work dates from the mid-1950s, when his charismatic showmanship and dynamic music, characterized by frenetic piano playing, pounding backbeat and powerful raspy vocals, laid the foundation for rock and roll. Richard's innovative emotive vocalizations and uptempo rhythmic music played a key role in the formation of other popular music genres, including soul and funk. He influenced singers and musicians across musical genres and his music helped shape rhythm and blues for generations.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Little_Richard",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Little_Richard_1984_%28cropped%29.jpg/330px-Little_Richard_1984_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1932-12-05",
+      "deathDate": "2020-05-09"
+    },
+    "Louis Armstrong": {
+      "name": "Louis Armstrong",
+      "biography": "Louis Daniel Armstrong, nicknamed \"Satchmo\", \"Satch\", and \"Pops\", was an American jazz and blues trumpeter and vocalist. Among the most influential figures in jazz, his career spanned five decades and several eras in the history of the genre. Armstrong received numerous accolades, including the Grammy Award for Best Male Vocal Performance for \"Hello, Dolly!\" in 1965, as well as a posthumous win for the Grammy Lifetime Achievement Award in 1972. His influence crossed musical genres, with inductions into the DownBeat Jazz Hall of Fame, the Rock and Roll Hall of Fame, and the National Rhythm & Blues Hall of Fame, among others.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Louis_Armstrong_in_Color_%28restored%29.jpg/330px-Louis_Armstrong_in_Color_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1901-08-04",
+      "deathDate": "1971-07-06"
+    },
+    "Luther Vandross": {
+      "name": "Luther Vandross",
+      "biography": "Luther Ronzoni Vandross Jr. was an American R&B and soul singer, songwriter, and record producer. Over his career, he achieved eleven consecutive RIAA-certified platinum albums and sold over 40 million records worldwide. Vandross was recognized by Rolling Stone as one of the 200 greatest singers of all time (2023) and was named one of the greatest R&B artists by Billboard. NPR also included him among its 50 Great Voices. He won eight Grammy Awards, including Song of the Year in 2004 for \"Dance with My Father\". He has been inducted into the National Rhythm & Blues Hall of Fame, the Grammy Hall of Fame, and the Rock and Roll Hall of Fame.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Luther_Vandross",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luther_Vandross_1985b.jpg/330px-Luther_Vandross_1985b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1951-04-20",
+      "deathDate": "2005-07-01"
     },
     "Mark Martin": {
       "name": "Mark Martin",
@@ -137082,6 +137307,15 @@
       "birthDate": "1968-09-28",
       "deathDate": null
     },
+    "Moe Bandy": {
+      "name": "Moe Bandy",
+      "biography": "Marion Franklin \"Moe\" Bandy Jr. is an American country music singer. He was most popular during the 1970s, when he had several hit songs, both alone and as part of a duo with Joe Stampley.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moe_Bandy",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Moe_Bandy_1977.JPG/330px-Moe_Bandy_1977.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1944-02-12",
+      "deathDate": null
+    },
     "Neil Bonnett": {
       "name": "Neil Bonnett",
       "biography": "Lawrence Neil Bonnett was an American NASCAR driver who compiled 18 victories and 20 poles over his 18-year career. Bonnett was a member of the Alabama Gang, and started his career with the help of Bobby and Donnie Allison. He rose to prominence in the late 1970s with his performances in cars owned by Jim Stacy and Wood Brothers Racing, becoming one of the top competitors in the 1980s. The Alabama native currently ranks 47th in all-time NASCAR Cup victories. He appeared in the 1983 film Stroker Ace and the 1990 film Days of Thunder. Bonnett hosted the TV show Winners for TNN from 1991 to 1994, and was a color commentator for CBS, TBS, and TNN in the years until his death. Bonnett's racing career was interrupted in 1990 when he suffered a severe brain injury in a crash that left him with amnesia and chronic dizziness. While working towards a much-anticipated comeback to the NASCAR circuit, Bonnett died as a result of injuries he sustained in a crash during a practice run for the 1994 Daytona 500. He lost control of his vehicle and collided with the outside wall in turn four, resulting in massive head injuries that proved fatal.",
@@ -137090,6 +137324,24 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NeilBonnett1985.jpg/330px-NeilBonnett1985.jpg",
       "birthDate": "1946-07-30",
       "deathDate": "1994-02-11"
+    },
+    "Pink Floyd": {
+      "name": "Pink Floyd",
+      "biography": "Pink Floyd are an English rock band formed in London in 1965 by Syd Barrett, Nick Mason (drums), Roger Waters and Richard Wright, with David Gilmour joining at the end of 1967. Gaining an early underground following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experiments, philosophical lyrics, and elaborate live performances, becoming a leading progressive rock band.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Placido Domingo": {
+      "name": "Placido Domingo",
+      "biography": "Jos\u00e9 Pl\u00e1cido Domingo Embil is a Spanish opera singer, conductor, and arts administrator. He has recorded over a hundred complete operas and is well known for his versatility, regularly performing in Italian, French, German, Spanish, English, and Russian in the most prestigious opera houses in the world. Although primarily a lirico-spinto tenor for most of his career, especially popular for his Cavaradossi, Hoffmann, Don Jos\u00e9 and Canio, he quickly moved into more dramatic roles, becoming the most acclaimed Otello of his generation. In the early 2010s, he transitioned from the tenor repertory into exclusively baritone parts, including Simon Boccanegra. As of 2020, he has performed 151 different roles.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pl%C3%A1cido_Domingo",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Concierto_de_Pl%C3%A1cido_Domingo_%28cropped%29.jpg/330px-Concierto_de_Pl%C3%A1cido_Domingo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1941-01-21",
+      "deathDate": null
     },
     "Richard Petty": {
       "name": "Richard Petty",
@@ -137107,6 +137359,24 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Robbie_Loomis",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Robbie_Loomis_2011.jpg/330px-Robbie_Loomis_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": null,
+      "deathDate": null
+    },
+    "Roy Acuff": {
+      "name": "Roy Acuff",
+      "biography": "Roy Claxton Acuff was an American country music singer, fiddler, and promoter. Known as the \"King of Country Music\", Acuff is often credited with moving the genre from its early string band and \"hoedown\" format to the singer-based format that helped make it internationally successful. In 1952, Hank Williams told Ralph Gleason, \"He's the biggest singer this music ever knew. You booked him and you didn't worry about crowds. For drawing power in the South, it was Roy Acuff, then God.\"",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roy_Acuff",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Roy_Acuff_1950.JPG/330px-Roy_Acuff_1950.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1903-09-15",
+      "deathDate": "1992-11-23"
+    },
+    "Rusty Wallace": {
+      "name": "Rusty Wallace",
+      "biography": "Russell William Wallace Jr. is an American former professional stock car racing driver and team owner, who raced from 1980 to 2005 in the former NASCAR Winston Cup Series, most notably driving the No. 2 nicknamed \"Midnight\" for Penske Racing.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rusty_Wallace",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rusty_Wallace.jpg/330px-Rusty_Wallace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1956-08-14",
       "deathDate": null
     },
     "Sam Jankovich": {
@@ -137127,6 +137397,33 @@
       "birthDate": "1987-07-03",
       "deathDate": null
     },
+    "Shelby Lynne": {
+      "name": "Shelby Lynne",
+      "biography": "Shelby Lynn Moorer, known professionally as Shelby Lynne, is an American singer and songwriter and the older sister of singer-songwriter Allison Moorer. The success of her pop rock album I Am Shelby Lynne (1999) led to her winning the Grammy Award for Best New Artist, despite it being her sixth studio album. She released a Dusty Springfield tribute album called Just a Little Lovin' in 2008. Since then she has started her own independent record label, called Everso Records, and released six albums: Tears, Lies and Alibis; Merry Christmas; Revelation Road; Thanks; I Can't Imagine; and Shelby Lynne. Lynne is also known for her distinctive contralto voice.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shelby_Lynne",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Shelby_Lynne_talking.jpg/330px-Shelby_Lynne_talking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1968-10-22",
+      "deathDate": null
+    },
+    "Sonny Bono": {
+      "name": "Sonny Bono",
+      "biography": "Salvatore Phillip \"Sonny\" Bono was an American singer, songwriter, record producer, actor, and politician. In partnership with his second wife, Cher, he formed the singing duo Sonny & Cher. A member of the Republican Party, Bono served as the 16th mayor of Palm Springs, California, from 1988 to 1992, and served as the U.S. representative for California's 44th district from 1995 until his death in 1998.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonny_Bono",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonny_Bono.jpg/330px-Sonny_Bono.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1935-02-16",
+      "deathDate": "1998-01-05"
+    },
+    "Steve Earle": {
+      "name": "Steve Earle",
+      "biography": "Stephen Fain Earle is an American country, rock, and folk singer-songwriter. He began his career as a songwriter in Nashville.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Steve_Earle",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/20180705-Rudolstadt-Festival-Steve_Earle-and-the-Dukes-4821_%28cropped%29.jpg/330px-20180705-Rudolstadt-Festival-Steve_Earle-and-the-Dukes-4821_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1955-01-17",
+      "deathDate": null
+    },
     "Tero Palmroth": {
       "name": "Tero Palmroth",
       "biography": "Tero Pentti Palmroth is a Finnish former racing driver who competed in the CART series. He raced in the 1988\u20131992 seasons with twelve career starts, including the 1988\u20131991 Indianapolis 500. His best CART finish was in 12th position at the 1990 Indianapolis 500.",
@@ -137135,6 +137432,24 @@
       "photoUrl": null,
       "birthDate": "1953-05-28",
       "deathDate": null
+    },
+    "Terry Labonte": {
+      "name": "Terry Labonte",
+      "biography": "Terrance Lee Labonte, nicknamed \"Texas Terry\" or \"the Iceman\", is an American former stock car driver. He raced from 1978 to 2014 in the former NASCAR Winston Cup and Sprint Cup Series. A two-time Cup Series champion in 1984 and 1996 and the 1989 IROC champion, he is the older brother of 2000 Cup Series champion Bobby Labonte, and the father of former Nationwide Series driver Justin Labonte. He also co-owns a Chevrolet dealership in Greensboro, North Carolina with Rick Hendrick. He appeared on the CBS series The Dukes of Hazzard in 1984, where he played an unnamed pit crew member.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Terry_Labonte",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Terry_Labonte_2013_Coke_Zero_400_%28cropped%29.jpg/330px-Terry_Labonte_2013_Coke_Zero_400_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1956-11-16",
+      "deathDate": null
+    },
+    "Tina Turner": {
+      "name": "Tina Turner",
+      "biography": "Tina Turner was a singer, songwriter, actress and author. Dubbed the \"Queen of Rock 'n' Roll\", she broke both racial and gender barriers in rock music with her vocal prowess and stage presence. She is one of the best-selling music artists of all time, with estimated sales of over 100 million records worldwide.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tina_Turner",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tina_Turner_1985_%28cropped%29.jpg/330px-Tina_Turner_1985_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1939-11-26",
+      "deathDate": "2023-05-24"
     },
     "Tommy Rich": {
       "name": "Tommy Rich",
@@ -137153,6 +137468,51 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Toto_Wolff_2022_%2852474843183%29_%28cropped%29.jpg/330px-Toto_Wolff_2022_%2852474843183%29_%28cropped%29.jpg",
       "birthDate": "1972-01-12",
       "deathDate": null
+    },
+    "Trent Reznor": {
+      "name": "Trent Reznor",
+      "biography": "Michael Trent Reznor is an American singer, songwriter, musician, and composer. He came to prominence as the founder, lead singer, multi-instrumentalist, and primary songwriter of the industrial rock band Nine Inch Nails. The band's line-up has constantly changed, with Reznor being its only official member from its creation in 1988 until 2016, when he added English musician and frequent collaborator Atticus Ross as its second permanent member.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Trent_Reznor",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg/330px-Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1965-05-17",
+      "deathDate": null
+    },
+    "Vince Neil": {
+      "name": "Vince Neil",
+      "biography": "Vincent Neil Wharton is an American musician and singer. He is the lead vocalist of heavy metal band M\u00f6tley Cr\u00fce, which he fronted from their 1981 formation until his departure in 1992. Neil reunited with the band in 1996 and continued with them until the band's 2015 retirement, and again from the band's 2018 reunion onwards. Outside of M\u00f6tley Cr\u00fce, Neil has also released three studio albums as a solo artist \u2013 the most recent of which, Tattoos & Tequila, was released in 2010. Neil's visual aesthetic and distinctive singing voice are considered synonymous with the American glam metal movement of the 1980s.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vince_Neil",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vince_Neil_-_Wacken_Open_Air_2018-1642.jpg/330px-Vince_Neil_-_Wacken_Open_Air_2018-1642.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1961-02-08",
+      "deathDate": null
+    },
+    "Waylon Jennings": {
+      "name": "Waylon Jennings",
+      "biography": "Waylon Arnold Jennings was an American country music singer, songwriter, musician, and actor. He is considered one of the pioneers of the outlaw movement in country music.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Waylon_Jennings",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Waylon_Jennings_in_1976.jpg/330px-Waylon_Jennings_in_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
+    "Whitney Houston": {
+      "name": "Whitney Houston",
+      "biography": "Whitney Elizabeth Houston was an American singer, actress, film producer, and record producer. Commonly referred to as \"the Voice\", she is one of the most awarded entertainers of all time. Houston is one of the best-selling music artists of all time, with sales of more than 220 million records worldwide. A cultural icon, she broke down gender and racial barriers through her artistic achievements, Hollywood crossover, and music videos. Known for her vocal delivery, gospel singing style, crossover appeal, and live performances, Houston was ranked second on Rolling Stone's list of the greatest singers of all time in 2023.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Whitney_Houston",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/330px-Whitney_Houston_%28cropped3%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1963-08-09",
+      "deathDate": "2012-02-11"
+    },
+    "Willie Nelson": {
+      "name": "Willie Nelson",
+      "biography": "Willie Hugh Nelson is an American singer, guitarist, songwriter, actor, and activist. He was one of the main figures of the outlaw country subgenre that developed in the late 1960s as a reaction to the conservative restrictions of the Nashville sound. The critical success of his album Shotgun Willie (1973), combined with the critical and commercial success of Red Headed Stranger (1975) and Stardust (1978), made Nelson one of the most recognized artists in country music. Nelson has acted in over 30 films, co-authored several books, and has been involved in activism for the use of biofuels and the legalization of marijuana.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Willie_Nelson",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Willie_UK2K7_2.JPG/330px-Willie_UK2K7_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1933-04-29",
+      "deathDate": null
     }
   },
   "stats": {
@@ -137162,8 +137522,8 @@
     "unique_signers": 2307,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
-    "unique_series": 45
+    "unique_series": 46
   },
-  "export_date": "2026-08-25T19:51:22.338494",
+  "export_date": "2026-08-26T22:30:54.492585",
   "version": "3.0"
 }
