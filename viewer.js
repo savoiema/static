@@ -2,6 +2,98 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6195,
+      "driver_name": "Gene Hackman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "Actor",
+      "item_type": "Other",
+      "notes": "",
+      "date_added": "2026-08-30 21:43:01.511312",
+      "date_modified": "2026-08-30 21:43:01.511312",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Gene Hackman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6195_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6194,
+      "driver_name": "27 Kodiak Pontiac Grand Prix",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-08-30 21:42:09.655751",
+      "date_modified": "2026-08-30 21:42:09.655751",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        },
+        {
+          "signer": "Raymond Beadle",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6194_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6193,
+      "driver_name": "Philip Seymour Hoffman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-30 21:37:09.482418",
+      "date_modified": "2026-08-30 21:37:09.482418",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Philip Seymour Hoffman",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6193_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6192,
+      "driver_name": "Clint Eastwood",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Other",
+      "notes": "",
+      "date_added": "2026-08-30 21:35:55.803887",
+      "date_modified": "2026-08-30 21:35:55.803887",
+      "authenticated": true,
+      "signatures_list": [
+        {
+          "signer": "Clint Eastwood",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6192_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6191,
       "driver_name": "Prost and Hill",
       "year": null,
@@ -22007,7 +22099,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5196_front.jpg",
+      "image_front_file": "images/0001/card_5196_front.jpg",
       "image_back_file": null
     },
     {
@@ -22029,7 +22121,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5195_front.jpg",
+      "image_front_file": "images/0001/card_5195_front.jpg",
       "image_back_file": null
     },
     {
@@ -22051,7 +22143,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5194_front.jpg",
+      "image_front_file": "images/0001/card_5194_front.jpg",
       "image_back_file": null
     },
     {
@@ -22073,7 +22165,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5193_front.jpg",
+      "image_front_file": "images/0001/card_5193_front.jpg",
       "image_back_file": null
     },
     {
@@ -44121,7 +44213,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4206_front.jpg",
+      "image_front_file": "images/0002/card_4206_front.jpg",
       "image_back_file": null
     },
     {
@@ -44143,7 +44235,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4205_front.jpg",
+      "image_front_file": "images/0002/card_4205_front.jpg",
       "image_back_file": null
     },
     {
@@ -44165,7 +44257,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4204_front.jpg",
+      "image_front_file": "images/0002/card_4204_front.jpg",
       "image_back_file": null
     },
     {
@@ -44187,7 +44279,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4203_front.jpg",
+      "image_front_file": "images/0002/card_4203_front.jpg",
       "image_back_file": null
     },
     {
@@ -66173,7 +66265,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3204_front.jpg",
+      "image_front_file": "images/0003/card_3204_front.jpg",
       "image_back_file": null
     },
     {
@@ -66195,7 +66287,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3203_front.jpg",
+      "image_front_file": "images/0003/card_3203_front.jpg",
       "image_back_file": null
     },
     {
@@ -66217,7 +66309,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3202_front.jpg",
+      "image_front_file": "images/0003/card_3202_front.jpg",
       "image_back_file": null
     },
     {
@@ -66239,7 +66331,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3201_front.jpg",
+      "image_front_file": "images/0003/card_3201_front.jpg",
       "image_back_file": null
     },
     {
@@ -88238,7 +88330,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2200_front.jpg",
+      "image_front_file": "images/0004/card_2200_front.jpg",
       "image_back_file": null
     },
     {
@@ -88260,7 +88352,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2199_front.jpg",
+      "image_front_file": "images/0004/card_2199_front.jpg",
       "image_back_file": null
     },
     {
@@ -88282,7 +88374,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2198_front.jpg",
+      "image_front_file": "images/0004/card_2198_front.jpg",
       "image_back_file": null
     },
     {
@@ -88304,7 +88396,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2197_front.jpg",
+      "image_front_file": "images/0004/card_2197_front.jpg",
       "image_back_file": null
     },
     {
@@ -110280,7 +110372,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1200_front.jpg",
+      "image_front_file": "images/0005/card_1200_front.jpg",
       "image_back_file": null
     },
     {
@@ -110302,7 +110394,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1199_front.jpg",
+      "image_front_file": "images/0005/card_1199_front.jpg",
       "image_back_file": null
     },
     {
@@ -110324,7 +110416,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1198_front.jpg",
+      "image_front_file": "images/0005/card_1198_front.jpg",
       "image_back_file": null
     },
     {
@@ -110346,7 +110438,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1197_front.jpg",
+      "image_front_file": "images/0005/card_1197_front.jpg",
       "image_back_file": null
     },
     {
@@ -132156,7 +132248,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_203_front.jpg",
+      "image_front_file": "images/0006/card_203_front.jpg",
       "image_back_file": null
     },
     {
@@ -132178,7 +132270,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_202_front.jpg",
+      "image_front_file": "images/0006/card_202_front.jpg",
       "image_back_file": null
     },
     {
@@ -132200,7 +132292,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_201_front.jpg",
+      "image_front_file": "images/0006/card_201_front.jpg",
       "image_back_file": null
     },
     {
@@ -132222,7 +132314,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_200_front.jpg",
+      "image_front_file": "images/0006/card_200_front.jpg",
       "image_back_file": null
     },
     {
@@ -137589,15 +137681,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6172,
-    "signed_cards": 6098,
+    "total_cards": 6176,
+    "signed_cards": 6102,
     "unsigned_cards": 74,
-    "unique_signers": 2307,
+    "unique_signers": 2310,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 46
   },
-  "export_date": "2026-08-29T21:02:52.360920",
+  "export_date": "2026-08-30T21:43:41.375370",
   "version": "3.0"
 };
 
