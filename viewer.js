@@ -2,6 +2,446 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6215,
+      "driver_name": "Tanner Thorson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 12:08:48.542357",
+      "date_modified": "2026-08-31 12:08:48.542357",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tanner Thorson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6215_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6214,
+      "driver_name": "David Green",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 12:08:20.274870",
+      "date_modified": "2026-08-31 12:08:20.274870",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "David Green",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6214_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6213,
+      "driver_name": "Garrett Smithley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 12:07:21.345385",
+      "date_modified": "2026-08-31 12:07:21.345385",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Garrett Smithley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6213_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6212,
+      "driver_name": "Stanton Barrett",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 12:06:07.958945",
+      "date_modified": "2026-08-31 12:06:07.958945",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Stanton Barrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6212_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6211,
+      "driver_name": "Kyle Larson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 12:04:29.752725",
+      "date_modified": "2026-08-31 12:04:29.752725",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Kyle Larson",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6211_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6210,
+      "driver_name": "Gray Gaulding",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:56:08.824332",
+      "date_modified": "2026-08-31 11:56:08.824332",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Gray Gaulding",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6210_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6209,
+      "driver_name": "Todd Bodine",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:55:05.142140",
+      "date_modified": "2026-08-31 11:55:05.142140",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Todd Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6209_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6208,
+      "driver_name": "Jimmy Spencer",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:54:40.290970",
+      "date_modified": "2026-08-31 11:54:40.290970",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jimmy Spencer",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6208_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6207,
+      "driver_name": "David Reutemann",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:54:12.205889",
+      "date_modified": "2026-08-31 11:54:12.205889",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "David Reutemann",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6207_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6206,
+      "driver_name": "Austin Cindric",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:53:42.259040",
+      "date_modified": "2026-08-31 11:53:42.259040",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Austin Cindric",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6206_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6205,
+      "driver_name": "Brad Gross",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:53:17.113301",
+      "date_modified": "2026-08-31 11:53:17.113301",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brad Gross",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6205_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6204,
+      "driver_name": "Vinnie Miller",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:52:49.568620",
+      "date_modified": "2026-08-31 11:52:49.568620",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Vinnie Miller",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6204_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6203,
+      "driver_name": "Eric McClure",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:52:10.990405",
+      "date_modified": "2026-08-31 11:52:10.990405",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Eric McClure",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6203_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6202,
+      "driver_name": "Carl Edwards",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:50:58.773824",
+      "date_modified": "2026-08-31 11:50:58.773824",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carl Edwards",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6202_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6201,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "9",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:50:22.796219",
+      "date_modified": "2026-08-31 11:50:22.796219",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6201_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6200,
+      "driver_name": "JJ Yeley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "11",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:49:52.809740",
+      "date_modified": "2026-08-31 11:49:52.809740",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "JJ Yeley",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6200_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6199,
+      "driver_name": "Carson Hocevar",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:48:54.488120",
+      "date_modified": "2026-08-31 11:48:54.488120",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carson Hocevar",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6199_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6198,
+      "driver_name": "Mike Mackenzie",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:48:25.806283",
+      "date_modified": "2026-08-31 11:48:25.806283",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Mackenzie",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6198_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6197,
+      "driver_name": "Joe Nemechek",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:47:56.620911",
+      "date_modified": "2026-08-31 11:47:56.620911",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Joe Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6197_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6196,
+      "driver_name": "Tyler Dippel",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 11:38:08.315916",
+      "date_modified": "2026-08-31 11:39:23.028369",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tyler Dippel",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6196_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6195,
       "driver_name": "Gene Hackman",
       "year": null,
@@ -21659,7 +22099,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5216_front.jpg",
+      "image_front_file": "images/0001/card_5216_front.jpg",
       "image_back_file": null
     },
     {
@@ -21681,7 +22121,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5215_front.jpg",
+      "image_front_file": "images/0001/card_5215_front.jpg",
       "image_back_file": null
     },
     {
@@ -21703,7 +22143,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5214_front.jpg",
+      "image_front_file": "images/0001/card_5214_front.jpg",
       "image_back_file": null
     },
     {
@@ -21725,7 +22165,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5213_front.jpg",
+      "image_front_file": "images/0001/card_5213_front.jpg",
       "image_back_file": null
     },
     {
@@ -21747,7 +22187,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5212_front.jpg",
+      "image_front_file": "images/0001/card_5212_front.jpg",
       "image_back_file": null
     },
     {
@@ -21769,7 +22209,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5211_front.jpg",
+      "image_front_file": "images/0001/card_5211_front.jpg",
       "image_back_file": null
     },
     {
@@ -21791,7 +22231,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5210_front.jpg",
+      "image_front_file": "images/0001/card_5210_front.jpg",
       "image_back_file": null
     },
     {
@@ -21813,7 +22253,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5209_front.jpg",
+      "image_front_file": "images/0001/card_5209_front.jpg",
       "image_back_file": null
     },
     {
@@ -21835,7 +22275,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5208_front.jpg",
+      "image_front_file": "images/0001/card_5208_front.jpg",
       "image_back_file": null
     },
     {
@@ -21857,7 +22297,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5207_front.jpg",
+      "image_front_file": "images/0001/card_5207_front.jpg",
       "image_back_file": null
     },
     {
@@ -21879,7 +22319,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5206_front.jpg",
+      "image_front_file": "images/0001/card_5206_front.jpg",
       "image_back_file": null
     },
     {
@@ -21901,7 +22341,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5205_front.jpg",
+      "image_front_file": "images/0001/card_5205_front.jpg",
       "image_back_file": null
     },
     {
@@ -21923,7 +22363,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5204_front.jpg",
+      "image_front_file": "images/0001/card_5204_front.jpg",
       "image_back_file": null
     },
     {
@@ -21945,7 +22385,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5203_front.jpg",
+      "image_front_file": "images/0001/card_5203_front.jpg",
       "image_back_file": null
     },
     {
@@ -21967,7 +22407,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5202_front.jpg",
+      "image_front_file": "images/0001/card_5202_front.jpg",
       "image_back_file": null
     },
     {
@@ -21989,7 +22429,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5201_front.jpg",
+      "image_front_file": "images/0001/card_5201_front.jpg",
       "image_back_file": null
     },
     {
@@ -22011,7 +22451,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5200_front.jpg",
+      "image_front_file": "images/0001/card_5200_front.jpg",
       "image_back_file": null
     },
     {
@@ -22033,7 +22473,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5199_front.jpg",
+      "image_front_file": "images/0001/card_5199_front.jpg",
       "image_back_file": null
     },
     {
@@ -22055,7 +22495,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5198_front.jpg",
+      "image_front_file": "images/0001/card_5198_front.jpg",
       "image_back_file": null
     },
     {
@@ -22077,7 +22517,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5197_front.jpg",
+      "image_front_file": "images/0001/card_5197_front.jpg",
       "image_back_file": null
     },
     {
@@ -43773,7 +44213,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4226_front.jpg",
+      "image_front_file": "images/0002/card_4226_front.jpg",
       "image_back_file": null
     },
     {
@@ -43795,7 +44235,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4225_front.jpg",
+      "image_front_file": "images/0002/card_4225_front.jpg",
       "image_back_file": null
     },
     {
@@ -43817,7 +44257,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4224_front.jpg",
+      "image_front_file": "images/0002/card_4224_front.jpg",
       "image_back_file": null
     },
     {
@@ -43839,7 +44279,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4223_front.jpg",
+      "image_front_file": "images/0002/card_4223_front.jpg",
       "image_back_file": null
     },
     {
@@ -43861,7 +44301,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4222_front.jpg",
+      "image_front_file": "images/0002/card_4222_front.jpg",
       "image_back_file": null
     },
     {
@@ -43883,7 +44323,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4221_front.jpg",
+      "image_front_file": "images/0002/card_4221_front.jpg",
       "image_back_file": null
     },
     {
@@ -43905,7 +44345,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4220_front.jpg",
+      "image_front_file": "images/0002/card_4220_front.jpg",
       "image_back_file": null
     },
     {
@@ -43927,7 +44367,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4219_front.jpg",
+      "image_front_file": "images/0002/card_4219_front.jpg",
       "image_back_file": null
     },
     {
@@ -43949,7 +44389,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4218_front.jpg",
+      "image_front_file": "images/0002/card_4218_front.jpg",
       "image_back_file": null
     },
     {
@@ -43971,7 +44411,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4217_front.jpg",
+      "image_front_file": "images/0002/card_4217_front.jpg",
       "image_back_file": null
     },
     {
@@ -43993,7 +44433,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4216_front.jpg",
+      "image_front_file": "images/0002/card_4216_front.jpg",
       "image_back_file": null
     },
     {
@@ -44015,7 +44455,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4215_front.jpg",
+      "image_front_file": "images/0002/card_4215_front.jpg",
       "image_back_file": null
     },
     {
@@ -44037,7 +44477,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4214_front.jpg",
+      "image_front_file": "images/0002/card_4214_front.jpg",
       "image_back_file": null
     },
     {
@@ -44059,7 +44499,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4213_front.jpg",
+      "image_front_file": "images/0002/card_4213_front.jpg",
       "image_back_file": null
     },
     {
@@ -44081,7 +44521,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4212_front.jpg",
+      "image_front_file": "images/0002/card_4212_front.jpg",
       "image_back_file": null
     },
     {
@@ -44103,7 +44543,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4211_front.jpg",
+      "image_front_file": "images/0002/card_4211_front.jpg",
       "image_back_file": null
     },
     {
@@ -44125,7 +44565,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4210_front.jpg",
+      "image_front_file": "images/0002/card_4210_front.jpg",
       "image_back_file": null
     },
     {
@@ -44147,7 +44587,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4209_front.jpg",
+      "image_front_file": "images/0002/card_4209_front.jpg",
       "image_back_file": null
     },
     {
@@ -44169,7 +44609,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4208_front.jpg",
+      "image_front_file": "images/0002/card_4208_front.jpg",
       "image_back_file": null
     },
     {
@@ -44191,7 +44631,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4207_front.jpg",
+      "image_front_file": "images/0002/card_4207_front.jpg",
       "image_back_file": null
     },
     {
@@ -65830,7 +66270,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3224_front.jpg",
+      "image_front_file": "images/0003/card_3224_front.jpg",
       "image_back_file": null
     },
     {
@@ -65852,7 +66292,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3223_front.jpg",
+      "image_front_file": "images/0003/card_3223_front.jpg",
       "image_back_file": null
     },
     {
@@ -65874,7 +66314,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3222_front.jpg",
+      "image_front_file": "images/0003/card_3222_front.jpg",
       "image_back_file": null
     },
     {
@@ -65896,7 +66336,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3221_front.jpg",
+      "image_front_file": "images/0003/card_3221_front.jpg",
       "image_back_file": null
     },
     {
@@ -65918,7 +66358,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3220_front.jpg",
+      "image_front_file": "images/0003/card_3220_front.jpg",
       "image_back_file": null
     },
     {
@@ -65940,7 +66380,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3219_front.jpg",
+      "image_front_file": "images/0003/card_3219_front.jpg",
       "image_back_file": null
     },
     {
@@ -65962,7 +66402,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3218_front.jpg",
+      "image_front_file": "images/0003/card_3218_front.jpg",
       "image_back_file": null
     },
     {
@@ -65984,7 +66424,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3217_front.jpg",
+      "image_front_file": "images/0003/card_3217_front.jpg",
       "image_back_file": null
     },
     {
@@ -66006,7 +66446,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3216_front.jpg",
+      "image_front_file": "images/0003/card_3216_front.jpg",
       "image_back_file": null
     },
     {
@@ -66028,7 +66468,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3215_front.jpg",
+      "image_front_file": "images/0003/card_3215_front.jpg",
       "image_back_file": null
     },
     {
@@ -66050,7 +66490,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3214_front.jpg",
+      "image_front_file": "images/0003/card_3214_front.jpg",
       "image_back_file": null
     },
     {
@@ -66072,7 +66512,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3213_front.jpg",
+      "image_front_file": "images/0003/card_3213_front.jpg",
       "image_back_file": null
     },
     {
@@ -66094,7 +66534,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3212_front.jpg",
+      "image_front_file": "images/0003/card_3212_front.jpg",
       "image_back_file": null
     },
     {
@@ -66116,7 +66556,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3211_front.jpg",
+      "image_front_file": "images/0003/card_3211_front.jpg",
       "image_back_file": null
     },
     {
@@ -66138,7 +66578,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3210_front.jpg",
+      "image_front_file": "images/0003/card_3210_front.jpg",
       "image_back_file": null
     },
     {
@@ -66160,7 +66600,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3209_front.jpg",
+      "image_front_file": "images/0003/card_3209_front.jpg",
       "image_back_file": null
     },
     {
@@ -66182,7 +66622,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3208_front.jpg",
+      "image_front_file": "images/0003/card_3208_front.jpg",
       "image_back_file": null
     },
     {
@@ -66204,7 +66644,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3207_front.jpg",
+      "image_front_file": "images/0003/card_3207_front.jpg",
       "image_back_file": null
     },
     {
@@ -66221,7 +66661,7 @@ const collectionData = {
       "date_modified": "2025-12-27 11:55:41.924721",
       "authenticated": false,
       "signatures_list": [],
-      "image_front_file": "images/0002/card_3206_front.jpg",
+      "image_front_file": "images/0003/card_3206_front.jpg",
       "image_back_file": null
     },
     {
@@ -66243,7 +66683,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3205_front.jpg",
+      "image_front_file": "images/0003/card_3205_front.jpg",
       "image_back_file": null
     },
     {
@@ -87878,7 +88318,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2220_front.jpg",
+      "image_front_file": "images/0004/card_2220_front.jpg",
       "image_back_file": null
     },
     {
@@ -87900,7 +88340,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2219_front.jpg",
+      "image_front_file": "images/0004/card_2219_front.jpg",
       "image_back_file": null
     },
     {
@@ -87922,7 +88362,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2218_front.jpg",
+      "image_front_file": "images/0004/card_2218_front.jpg",
       "image_back_file": null
     },
     {
@@ -87944,7 +88384,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2217_front.jpg",
+      "image_front_file": "images/0004/card_2217_front.jpg",
       "image_back_file": null
     },
     {
@@ -87966,7 +88406,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2216_front.jpg",
+      "image_front_file": "images/0004/card_2216_front.jpg",
       "image_back_file": null
     },
     {
@@ -87988,7 +88428,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2215_front.jpg",
+      "image_front_file": "images/0004/card_2215_front.jpg",
       "image_back_file": null
     },
     {
@@ -88010,7 +88450,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2214_front.jpg",
+      "image_front_file": "images/0004/card_2214_front.jpg",
       "image_back_file": null
     },
     {
@@ -88036,7 +88476,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2213_front.jpg",
+      "image_front_file": "images/0004/card_2213_front.jpg",
       "image_back_file": null
     },
     {
@@ -88058,7 +88498,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2212_front.jpg",
+      "image_front_file": "images/0004/card_2212_front.jpg",
       "image_back_file": null
     },
     {
@@ -88084,7 +88524,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2211_front.jpg",
+      "image_front_file": "images/0004/card_2211_front.jpg",
       "image_back_file": null
     },
     {
@@ -88106,7 +88546,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2210_front.jpg",
+      "image_front_file": "images/0004/card_2210_front.jpg",
       "image_back_file": null
     },
     {
@@ -88128,7 +88568,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2209_front.jpg",
+      "image_front_file": "images/0004/card_2209_front.jpg",
       "image_back_file": null
     },
     {
@@ -88150,7 +88590,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2208_front.jpg",
+      "image_front_file": "images/0004/card_2208_front.jpg",
       "image_back_file": null
     },
     {
@@ -88172,7 +88612,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2207_front.jpg",
+      "image_front_file": "images/0004/card_2207_front.jpg",
       "image_back_file": null
     },
     {
@@ -88194,7 +88634,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2206_front.jpg",
+      "image_front_file": "images/0004/card_2206_front.jpg",
       "image_back_file": null
     },
     {
@@ -88216,7 +88656,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2205_front.jpg",
+      "image_front_file": "images/0004/card_2205_front.jpg",
       "image_back_file": null
     },
     {
@@ -88238,7 +88678,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2204_front.jpg",
+      "image_front_file": "images/0004/card_2204_front.jpg",
       "image_back_file": null
     },
     {
@@ -88260,7 +88700,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2203_front.jpg",
+      "image_front_file": "images/0004/card_2203_front.jpg",
       "image_back_file": null
     },
     {
@@ -88282,7 +88722,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2202_front.jpg",
+      "image_front_file": "images/0004/card_2202_front.jpg",
       "image_back_file": null
     },
     {
@@ -88308,7 +88748,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2201_front.jpg",
+      "image_front_file": "images/0004/card_2201_front.jpg",
       "image_back_file": null
     },
     {
@@ -109932,7 +110372,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1220_front.jpg",
+      "image_front_file": "images/0005/card_1220_front.jpg",
       "image_back_file": null
     },
     {
@@ -109954,7 +110394,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1219_front.jpg",
+      "image_front_file": "images/0005/card_1219_front.jpg",
       "image_back_file": null
     },
     {
@@ -109976,7 +110416,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1218_front.jpg",
+      "image_front_file": "images/0005/card_1218_front.jpg",
       "image_back_file": null
     },
     {
@@ -109998,7 +110438,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1217_front.jpg",
+      "image_front_file": "images/0005/card_1217_front.jpg",
       "image_back_file": null
     },
     {
@@ -110020,7 +110460,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1216_front.jpg",
+      "image_front_file": "images/0005/card_1216_front.jpg",
       "image_back_file": null
     },
     {
@@ -110042,7 +110482,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1215_front.jpg",
+      "image_front_file": "images/0005/card_1215_front.jpg",
       "image_back_file": null
     },
     {
@@ -110064,7 +110504,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1214_front.jpg",
+      "image_front_file": "images/0005/card_1214_front.jpg",
       "image_back_file": null
     },
     {
@@ -110086,7 +110526,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1213_front.jpg",
+      "image_front_file": "images/0005/card_1213_front.jpg",
       "image_back_file": null
     },
     {
@@ -110108,7 +110548,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1212_front.jpg",
+      "image_front_file": "images/0005/card_1212_front.jpg",
       "image_back_file": null
     },
     {
@@ -110130,7 +110570,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1211_front.jpg",
+      "image_front_file": "images/0005/card_1211_front.jpg",
       "image_back_file": null
     },
     {
@@ -110152,7 +110592,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1210_front.jpg",
+      "image_front_file": "images/0005/card_1210_front.jpg",
       "image_back_file": null
     },
     {
@@ -110174,7 +110614,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1209_front.jpg",
+      "image_front_file": "images/0005/card_1209_front.jpg",
       "image_back_file": null
     },
     {
@@ -110196,7 +110636,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1208_front.jpg",
+      "image_front_file": "images/0005/card_1208_front.jpg",
       "image_back_file": null
     },
     {
@@ -110218,7 +110658,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1207_front.jpg",
+      "image_front_file": "images/0005/card_1207_front.jpg",
       "image_back_file": null
     },
     {
@@ -110240,7 +110680,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1206_front.jpg",
+      "image_front_file": "images/0005/card_1206_front.jpg",
       "image_back_file": null
     },
     {
@@ -110262,7 +110702,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1205_front.jpg",
+      "image_front_file": "images/0005/card_1205_front.jpg",
       "image_back_file": null
     },
     {
@@ -110284,7 +110724,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1204_front.jpg",
+      "image_front_file": "images/0005/card_1204_front.jpg",
       "image_back_file": null
     },
     {
@@ -110306,7 +110746,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1203_front.jpg",
+      "image_front_file": "images/0005/card_1203_front.jpg",
       "image_back_file": null
     },
     {
@@ -110328,7 +110768,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1202_front.jpg",
+      "image_front_file": "images/0005/card_1202_front.jpg",
       "image_back_file": null
     },
     {
@@ -110350,7 +110790,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1201_front.jpg",
+      "image_front_file": "images/0005/card_1201_front.jpg",
       "image_back_file": null
     },
     {
@@ -131800,7 +132240,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_223_front.jpg",
+      "image_front_file": "images/0006/card_223_front.jpg",
       "image_back_file": null
     },
     {
@@ -131822,7 +132262,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_222_front.jpg",
+      "image_front_file": "images/0006/card_222_front.jpg",
       "image_back_file": null
     },
     {
@@ -131844,7 +132284,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_221_front.jpg",
+      "image_front_file": "images/0006/card_221_front.jpg",
       "image_back_file": null
     },
     {
@@ -131866,7 +132306,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_220_front.jpg",
+      "image_front_file": "images/0006/card_220_front.jpg",
       "image_back_file": null
     },
     {
@@ -131888,7 +132328,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_219_front.jpg",
+      "image_front_file": "images/0006/card_219_front.jpg",
       "image_back_file": null
     },
     {
@@ -131914,7 +132354,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_218_front.jpg",
+      "image_front_file": "images/0006/card_218_front.jpg",
       "image_back_file": null
     },
     {
@@ -131936,7 +132376,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_217_front.jpg",
+      "image_front_file": "images/0006/card_217_front.jpg",
       "image_back_file": null
     },
     {
@@ -131958,7 +132398,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_216_front.jpg",
+      "image_front_file": "images/0006/card_216_front.jpg",
       "image_back_file": null
     },
     {
@@ -131980,7 +132420,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_215_front.jpg",
+      "image_front_file": "images/0006/card_215_front.jpg",
       "image_back_file": null
     },
     {
@@ -132002,7 +132442,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_214_front.jpg",
+      "image_front_file": "images/0006/card_214_front.jpg",
       "image_back_file": null
     },
     {
@@ -132024,7 +132464,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_213_front.jpg",
+      "image_front_file": "images/0006/card_213_front.jpg",
       "image_back_file": null
     },
     {
@@ -132046,7 +132486,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_212_front.jpg",
+      "image_front_file": "images/0006/card_212_front.jpg",
       "image_back_file": null
     },
     {
@@ -132068,7 +132508,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_211_front.jpg",
+      "image_front_file": "images/0006/card_211_front.jpg",
       "image_back_file": null
     },
     {
@@ -132090,7 +132530,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_210_front.jpg",
+      "image_front_file": "images/0006/card_210_front.jpg",
       "image_back_file": null
     },
     {
@@ -132112,7 +132552,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_209_front.jpg",
+      "image_front_file": "images/0006/card_209_front.jpg",
       "image_back_file": null
     },
     {
@@ -132134,7 +132574,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_208_front.jpg",
+      "image_front_file": "images/0006/card_208_front.jpg",
       "image_back_file": null
     },
     {
@@ -132156,7 +132596,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_207_front.jpg",
+      "image_front_file": "images/0006/card_207_front.jpg",
       "image_back_file": null
     },
     {
@@ -132178,7 +132618,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_206_front.jpg",
+      "image_front_file": "images/0006/card_206_front.jpg",
       "image_back_file": null
     },
     {
@@ -132200,7 +132640,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_205_front.jpg",
+      "image_front_file": "images/0006/card_205_front.jpg",
       "image_back_file": null
     },
     {
@@ -132222,7 +132662,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_204_front.jpg",
+      "image_front_file": "images/0006/card_204_front.jpg",
       "image_back_file": null
     },
     {
@@ -137681,15 +138121,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6176,
-    "signed_cards": 6102,
+    "total_cards": 6196,
+    "signed_cards": 6122,
     "unsigned_cards": 74,
-    "unique_signers": 2310,
+    "unique_signers": 2315,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 46
   },
-  "export_date": "2026-08-30T21:43:41.375370",
+  "export_date": "2026-08-31T13:12:46.335274",
   "version": "3.0"
 };
 
