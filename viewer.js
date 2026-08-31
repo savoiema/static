@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6216,
+      "driver_name": "Ed Koch",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Politics",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-08-31 13:32:26.587008",
+      "date_modified": "2026-08-31 13:32:26.587008",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ed Koch",
+          "date": null
+        }
+      ],
+      "image_front_file": "images/0000/card_6216_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6215,
       "driver_name": "Tanner Thorson",
       "year": null,
@@ -22077,7 +22099,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0000/card_5217_front.jpg",
+      "image_front_file": "images/0001/card_5217_front.jpg",
       "image_back_file": null
     },
     {
@@ -44191,7 +44213,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0001/card_4227_front.jpg",
+      "image_front_file": "images/0002/card_4227_front.jpg",
       "image_back_file": null
     },
     {
@@ -66248,7 +66270,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0002/card_3225_front.jpg",
+      "image_front_file": "images/0003/card_3225_front.jpg",
       "image_back_file": null
     },
     {
@@ -88296,7 +88318,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0003/card_2221_front.jpg",
+      "image_front_file": "images/0004/card_2221_front.jpg",
       "image_back_file": null
     },
     {
@@ -110350,7 +110372,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0004/card_1221_front.jpg",
+      "image_front_file": "images/0005/card_1221_front.jpg",
       "image_back_file": null
     },
     {
@@ -132218,7 +132240,7 @@ const collectionData = {
           "date": null
         }
       ],
-      "image_front_file": "images/0005/card_224_front.jpg",
+      "image_front_file": "images/0006/card_224_front.jpg",
       "image_back_file": null
     },
     {
@@ -138121,15 +138143,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6196,
-    "signed_cards": 6122,
+    "total_cards": 6197,
+    "signed_cards": 6123,
     "unsigned_cards": 74,
-    "unique_signers": 2315,
+    "unique_signers": 2316,
     "unique_disciplines": 16,
     "unique_manufacturers": 78,
     "unique_series": 46
   },
-  "export_date": "2026-08-31T13:12:46.335274",
+  "export_date": "2026-08-31T13:38:25.295221",
   "version": "3.0"
 };
 
