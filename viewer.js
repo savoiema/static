@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6415,
+      "driver_name": "Henry Fonda",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-12 21:11:24.133570",
+      "date_modified": "2026-09-12 21:11:24.133570",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Henry Fonda",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6415_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6414,
       "driver_name": "Harry Hyde",
       "year": 1991,
@@ -142643,15 +142665,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6395,
-    "signed_cards": 6321,
+    "total_cards": 6396,
+    "signed_cards": 6322,
     "unsigned_cards": 74,
-    "unique_signers": 2372,
+    "unique_signers": 2373,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-10T12:08:44.966623",
+  "export_date": "2026-09-13T15:04:23.286374",
   "version": "3.0"
 };
 
