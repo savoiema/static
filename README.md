@@ -4,7 +4,7 @@ A clean, optimized view-only interface for your card collection.
 
 ## 📊 Collection Information
 
-- **Export Date**: 2026-09-17T22:36:25.697890
+- **Export Date**: 2026-09-18T11:48:33.157996
 - **Total Cards**: 6397
 - **Signed Cards**: 6323
 - **Unique Signers**: 2374

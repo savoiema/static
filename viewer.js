@@ -38550,7 +38550,7 @@ const collectionData = {
     },
     {
       "id": 4676,
-      "driver_name": "Glen Danzig",
+      "driver_name": "Glenn Danzig",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -38559,11 +38559,11 @@ const collectionData = {
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-03-26 17:52:33.243589",
-      "date_modified": "2026-03-26 17:52:33.243589",
+      "date_modified": "2026-09-18 11:45:31.303178",
       "authenticated": false,
       "signatures_list": [
         {
-          "signer": "Glen Danzig",
+          "signer": "Glenn Danzig",
           "date": null
         }
       ],
@@ -141749,6 +141749,15 @@ const collectionData = {
       "birthDate": "1988-11-22",
       "deathDate": null
     },
+    "Axl Rose": {
+      "name": "Axl Rose",
+      "biography": "W. Axl Rose is an American singer, songwriter, and lead vocalist of the hard rock band Guns N' Roses. He has been the band's only constant member since its formation in 1985. Renowned for his wide-ranging, powerful voice, Rose has been ranked among the greatest singers of all time by outlets such as Rolling Stone, NME and Billboard.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Axl_Rose",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Glasto2023_%28239_of_468%29_%2853009325175%29_%28cropped%29.jpg/330px-Glasto2023_%28239_of_468%29_%2853009325175%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1962-02-06",
+      "deathDate": null
+    },
     "B.B.King": {
       "name": "B.B.King",
       "biography": "Riley B. King, known professionally as B.\u00a0B. King, was an American blues guitarist, singer, songwriter, and record producer. He introduced a sophisticated style of soloing based on fluid string bending, shimmering vibrato, and staccato picking that influenced many later electric guitar blues players. AllMusic recognized King as \"the single most important electric guitarist of the last half of the 20th century\".",
@@ -142001,6 +142010,15 @@ const collectionData = {
       "birthDate": "1944-04-15",
       "deathDate": null
     },
+    "Dave Grohl": {
+      "name": "Dave Grohl",
+      "biography": "David Eric Grohl is an American musician and songwriter. He founded the rock band Foo Fighters, of which he is the lead singer, guitarist, principal songwriter, and only consistent member. He first gained fame as the drummer of the grunge band Nirvana, from 1990 until the band's end in 1994.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dave_Grohl",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/FoosDublin210819-6_%2848620330261%29_%28cropped%29.jpg/330px-FoosDublin210819-6_%2848620330261%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1969-01-14",
+      "deathDate": null
+    },
     "Davey Allison": {
       "name": "Davey Allison",
       "biography": "David Carl Allison was an American NASCAR driver. He was best known for driving the No. 28 Texaco-Havoline Ford for Robert Yates Racing in the NASCAR Cup Series. Born in Hollywood, Florida, he was the oldest of four children born to Bobby and Judy Allison. The family moved to Hueytown, Alabama, and along with Bobby Allison's brother, Donnie, Red Farmer and Neil Bonnett, became known as the Alabama Gang.",
@@ -142018,6 +142036,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg/330px-David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1947-01-08",
       "deathDate": "2016-01-10"
+    },
+    "David Crosby": {
+      "name": "David Crosby",
+      "biography": "David Van Cortlandt Crosby was an American singer, songwriter, and guitarist. He first found fame as a member of the Byrds, with whom he helped pioneer the genres of folk rock and psychedelia in the mid-1960s, and later as part of the supergroup Crosby, Stills & Nash, which helped popularize the California sound of the 1970s. In addition to his music, Crosby was known for his outspoken personality, politics, and personal troubles: he was sometimes depicted as emblematic of the counterculture of the 1960s.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/David_Crosby",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/CrosbyDavid1983_%28cropped%29.jpg/330px-CrosbyDavid1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1941-08-14",
+      "deathDate": "2023-01-18"
     },
     "David Duchovny": {
       "name": "David Duchovny",
@@ -142118,6 +142145,15 @@ const collectionData = {
       "birthDate": "1955-01-26",
       "deathDate": "2020-10-06"
     },
+    "Eric Clapton": {
+      "name": "Eric Clapton",
+      "biography": "Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter. He is regarded as one of the most successful and influential guitarists in rock music. Clapton ranked second in Rolling Stone's list of the \"100 Greatest Guitarists of All Time\" and fourth in Gibson's \"Top 50 Guitarists of All Time\". He was named number five in Time magazine's list of \"The 10 Best Electric Guitar Players\" in 2009.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eric_Clapton",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/JeffBeckTribute1RAH220523_%28106_of_136%29_%2852920038844%29_%28Eric_Clapton%29.jpg/330px-JeffBeckTribute1RAH220523_%28106_of_136%29_%2852920038844%29_%28Eric_Clapton%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
     "Erik Jones": {
       "name": "Erik Jones",
       "biography": "Erik Benjamin Jones is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 43 Toyota Camry XSE for Legacy Motor Club.",
@@ -142144,6 +142180,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/330px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1915-12-12",
       "deathDate": "1998-05-14"
+    },
+    "Frank Zappa": {
+      "name": "Frank Zappa",
+      "biography": "Frank Vincent Zappa was an American composer, songwriter, guitarist, conductor, actor, satirist, filmmaker, and activist. In a career spanning more than 30\u00a0years, Zappa composed rock, pop, jazz, jazz fusion, orchestral and musique concr\u00e8te works; he additionally produced nearly all the 60-plus albums he released with his band the Mothers of Invention and as a solo artist. His discography is characterized by nonconformity, improvisation, sonic experimentation, musical virtuosity and satire of American culture. Zappa also directed feature-length films and music videos, and designed album covers. He is considered one of the most innovative and stylistically diverse musicians of the 20th century.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frank_Zappa",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1940-12-21",
+      "deathDate": "1993-12-04"
     },
     "Freddie Hart": {
       "name": "Freddie Hart",
@@ -142190,6 +142235,15 @@ const collectionData = {
       "birthDate": "1946-07-06",
       "deathDate": null
     },
+    "George Willig": {
+      "name": "George Willig",
+      "biography": "George Willig is a mountain-climber from New York, New York, United States, who climbed the South Tower of the World Trade Center on May 26, 1977, about two and a half years after tightrope walker Philippe Petit walked between the tops of the two towers.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Willig",
+      "photoUrl": null,
+      "birthDate": "1949-06-11",
+      "deathDate": null
+    },
     "Gerald Ford": {
       "name": "Gerald Ford",
       "biography": "Gerald Rudolph Ford Jr. was the 38th president of the United States, serving from 1974 to 1977. He assumed the presidency after the resignation of Richard Nixon, under whom he served as the 40th vice president from 1973 to 1974, after the resignation of Spiro Agnew. A member of the Republican Party, Ford previously served in the United States House of Representatives from 1949 to 1973.",
@@ -142208,6 +142262,15 @@ const collectionData = {
       "birthDate": "1968-08-09",
       "deathDate": null
     },
+    "Ginger Baker": {
+      "name": "Ginger Baker",
+      "biography": "Peter Edward \"Ginger\" Baker was an English drummer. His work in the 1960s and 1970s earned him the reputation of \"rock's first superstar drummer\", for a style that melded jazz and African rhythms and pioneered both jazz fusion and world music.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ginger_Baker",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ginger_Baker_in_1984.jpg/330px-Ginger_Baker_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1939-08-19",
+      "deathDate": "2019-10-06"
+    },
     "Giuseppe Farina": {
       "name": "Giuseppe Farina",
       "biography": "Emilio Giuseppe \"Nino\" Farina was an Italian racing driver, who competed in Formula One from 1950 to 1956. Farina won the Formula One World Drivers' Championship in its inaugural 1950 season with Alfa Romeo, and won five Grands Prix across seven seasons.",
@@ -142215,6 +142278,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Giuseppe_Farina",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg",
       "birthDate": null,
+      "deathDate": null
+    },
+    "Glen Danzig": {
+      "name": "Glen Danzig",
+      "biography": "Glenn Allen Anzalone, better known by his stage name Glenn Danzig, is an American singer, songwriter, musician, actor, film director and record producer. He is the founder of the rock bands Misfits, Samhain, and Danzig. He owns the Evilive record label as well as Verotik, an adult-oriented comic book publishing company.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Glenn_Danzig",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Danzig_-_Wacken_Open_Air_2018_25.jpg/330px-Danzig_-_Wacken_Open_Air_2018_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1955-06-23",
       "deathDate": null
     },
     "Glen Wood": {
@@ -142225,6 +142297,15 @@ const collectionData = {
       "photoUrl": null,
       "birthDate": "1925-07-18",
       "deathDate": "2019-01-18"
+    },
+    "Graham Nash": {
+      "name": "Graham Nash",
+      "biography": "Graham William Nash is a British and American musician, singer and songwriter. He is known for his light tenor voice and for his contributions as a member of the Hollies and Crosby, Stills & Nash.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Graham_Nash",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Graham_Nash_2023.jpg/330px-Graham_Nash_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1942-02-02",
+      "deathDate": null
     },
     "Greg Biffle": {
       "name": "Greg Biffle",
@@ -142298,6 +142379,15 @@ const collectionData = {
       "birthDate": "1976-10-05",
       "deathDate": null
     },
+    "Jack Bruce": {
+      "name": "Jack Bruce",
+      "biography": "John Symon Asher \"Jack\" Bruce was a Scottish musician. He gained popularity as the primary lead vocalist and bassist of rock band Cream. After the group disbanded in 1968, he pursued a solo career and also played with several bands.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Bruce",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/JackBruceDutchTV1968.jpg/330px-JackBruceDutchTV1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1943-05-14",
+      "deathDate": "2014-10-25"
+    },
     "Jean-Pierre Beltoise": {
       "name": "Jean-Pierre Beltoise",
       "biography": "Jean-Pierre Maurice Georges Beltoise was a French racing driver and motorcycle road racer, who competed in Grand Prix motorcycle racing from 1962 to 1964, and Formula One from 1966 to 1974. Beltoise won the 1972 Monaco Grand Prix with BRM.",
@@ -142352,6 +142442,15 @@ const collectionData = {
       "birthDate": "1958-12-28",
       "deathDate": "2020-03-29"
     },
+    "Joe Dimaggio": {
+      "name": "Joe Dimaggio",
+      "biography": "Joseph Paul DiMaggio, nicknamed \"Joltin' Joe\", \"the Yankee Clipper\" and \"Joe D.\", was an American professional baseball center fielder who played his entire 13-year career in Major League Baseball (MLB) for the New York Yankees. Born to Italian immigrants in California, he is considered to be one of the greatest baseball players of all time and set the record for the longest hitting streak.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_DiMaggio.jpg/330px-Joe_DiMaggio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1914-11-25",
+      "deathDate": "1999-03-08"
+    },
     "Joe Torre": {
       "name": "Joe Torre",
       "biography": "Joseph Paul Torre Jr. is an American professional baseball executive and former player, manager, and television color commentator. He has served as a special assistant to the commissioner of Major League Baseball since 2020. He previously served in the capacity of Major League Baseball's (MLB) chief baseball officer from 2011 to 2020. Torre ranks fifth all-time in MLB history with 2,326 wins as a manager. With 2,342 hits during his playing career, Torre is the only major leaguer to achieve both 2,000 hits as a player and 2,000 wins as a manager. From 1996 to 2007, he was the manager of the New York Yankees, and guided the team to six American League (AL) pennants and four World Series championships.",
@@ -142369,6 +142468,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/John_Andretti_at_Carb_Day_2015_-_Stierch.jpg/330px-John_Andretti_at_Carb_Day_2015_-_Stierch.jpg",
       "birthDate": "1963-03-12",
       "deathDate": "2020-01-30"
+    },
+    "John Lydon": {
+      "name": "John Lydon",
+      "biography": "John Joseph Lydon, also known by his former stage name Johnny Rotten, is an English singer, songwriter, author, and television personality. He was the lead vocalist of the punk rock band the Sex Pistols, which was active from 1975 to 1978, and again for various revivals during the 1990s and 2000s. He is also the lead vocalist and the only consistent member of post-punk band Public Image Ltd (PiL), which he founded and fronted from 1978 until 1992, and again since 2009.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Lydon",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/John_Lydon_live_29_12_2025.jpg/330px-John_Lydon_live_29_12_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1956-01-31",
+      "deathDate": null
     },
     "John Wooden": {
       "name": "John Wooden",
@@ -142640,6 +142748,24 @@ const collectionData = {
       "birthDate": "1946-07-30",
       "deathDate": "1994-02-11"
     },
+    "Neil Degrasse Tyson": {
+      "name": "Neil Degrasse Tyson",
+      "biography": "Neil deGrasse Tyson is an American astrophysicist, author, and science communicator. Tyson studied at Harvard University, the University of Texas at Austin, and Columbia University. From 1991 to 1994, he was a postdoctoral research associate at Princeton University. In 1994, he joined the Hayden Planetarium as a staff scientist and the Princeton faculty as a visiting research scientist and lecturer. In 1996, he became director of the planetarium and oversaw its $210 million reconstruction project, which was completed in 2000. Since 1996, he has been the director of the Hayden Planetarium at the Rose Center for Earth and Space in New York City. The center is part of the American Museum of Natural History, where Tyson founded the Department of Astrophysics in 1997 and has been a research associate in the department since 2003.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Neil_DeGrasse_Tyson_%282023%29.jpg/330px-Neil_DeGrasse_Tyson_%282023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1958-10-05",
+      "deathDate": null
+    },
+    "Paul Tibbitt": {
+      "name": "Paul Tibbitt",
+      "biography": "Paul Harrison Tibbitt IV is an American animator, writer, and voice actor, best known for his work on the animated series SpongeBob SquarePants. After its creator Stephen Hillenburg and creative director and supervising producer Derek Drymon resigned in 2004, Tibbitt took his position of showrunner and supervising producer for the show's fourth through ninth seasons. He also took over as the voice of Potty the Parrot, whom Hillenburg had voiced until his resignation. Tibbitt made his feature film directorial debut directing The SpongeBob Movie: Sponge Out of Water. He studied in the Character Animation program at the California Institute of the Arts.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Tibbitt",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/PaulTibbitt_Agraph.png/330px-PaulTibbitt_Agraph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1968-05-13",
+      "deathDate": null
+    },
     "Pink Floyd": {
       "name": "Pink Floyd",
       "biography": "Pink Floyd are an English rock band formed in London in 1965 by Syd Barrett, Nick Mason (drums), Roger Waters and Richard Wright, with David Gilmour joining at the end of 1967. Gaining an early underground following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experiments, philosophical lyrics, and elaborate live performances, becoming a leading progressive rock band.",
@@ -142667,6 +142793,15 @@ const collectionData = {
       "birthDate": "1975-06-30",
       "deathDate": null
     },
+    "Regi Jackson": {
+      "name": "Regi Jackson",
+      "biography": "Reginald Martinez Jackson is an American former professional baseball right fielder who played 21 seasons in Major League Baseball (MLB) for the Kansas City / Oakland Athletics, Baltimore Orioles, New York Yankees, and California Angels. Jackson was inducted into the National Baseball Hall of Fame in 1993 in his first year of eligibility.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Reggie_Jackson",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Reggie_Jackson_-_New_York_Yankees_-_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1946-05-18",
+      "deathDate": "1845-06-08"
+    },
     "Rheal Cormier": {
       "name": "Rheal Cormier",
       "biography": "Rh\u00e9al Paul Cormier was a Canadian-American professional baseball left-handed pitcher who played in Major League Baseball (MLB), for the St. Louis Cardinals, Boston Red Sox (twice), Montreal Expos, Philadelphia Phillies, and Cincinnati Reds for 16 seasons, between 1991 through 2007.",
@@ -142683,6 +142818,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Petty",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg/330px-Richard_Petty_Las_Vegas_Fall_2024.jpg",
       "birthDate": "1937-07-02",
+      "deathDate": null
+    },
+    "Rick Mast": {
+      "name": "Rick Mast",
+      "biography": "Richard Kenneth Mast is an American former NASCAR driver. He competed in both the Winston Cup and Busch Series, retiring in 2002. He holds a business administration degree from Blue Ridge Community College.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rick_Mast",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rick_Mast_with_Skoal_car.png/330px-Rick_Mast_with_Skoal_car.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1957-03-04",
       "deathDate": null
     },
     "Robbie Loomis": {
@@ -142775,6 +142919,15 @@ const collectionData = {
       "birthDate": "1968-10-22",
       "deathDate": null
     },
+    "Slash": {
+      "name": "Slash",
+      "biography": "Saul Hudson, known professionally as Slash, is a British and American musician, best known as the lead guitarist of the hard rock band Guns N' Roses, with whom he achieved worldwide success beginning in the late 1980s. He has received critical acclaim and is considered one of the greatest guitarists in history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Slash_(musician)",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Slash_live_in_London_2022_%28Cropped_-_upright%29.jpg/330px-Slash_live_in_London_2022_%28Cropped_-_upright%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1965-07-23",
+      "deathDate": null
+    },
     "Sonny Bono": {
       "name": "Sonny Bono",
       "biography": "Salvatore Phillip \"Sonny\" Bono was an American singer, songwriter, record producer, actor, and politician. In partnership with his second wife, Cher, he formed the singing duo Sonny & Cher. A member of the Republican Party, Bono served as the 16th mayor of Palm Springs, California, from 1988 to 1992, and served as the U.S. representative for California's 44th district from 1995 until his death in 1998.",
@@ -142783,6 +142936,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonny_Bono.jpg/330px-Sonny_Bono.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1935-02-16",
       "deathDate": "1998-01-05"
+    },
+    "Stephen Stills": {
+      "name": "Stephen Stills",
+      "biography": "Stephen Arthur Stills is an American musician, singer, and songwriter known for his work with Buffalo Springfield; Crosby, Stills & Nash; and Manassas. As both a solo act and member of three successful bands, Stills has combined record sales of over 35 million albums. He was ranked number 28 in Rolling Stone's 2003 list of \"The 100 Greatest Guitarists of All Time\" and number 47 in the 2011 list. Stills became the first person to be inducted twice on the same night into the Rock and Roll Hall of Fame.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_Stills",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Stephen_Stills_2012-10-22_2.jpg/330px-Stephen_Stills_2012-10-22_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1945-01-03",
+      "deathDate": null
     },
     "Steve Earle": {
       "name": "Steve Earle",
@@ -142854,6 +143016,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Tommy_Rich",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TommyRichAugust2013.png/330px-TommyRichAugust2013.png",
       "birthDate": "1956-07-26",
+      "deathDate": null
+    },
+    "Tony Hawk": {
+      "name": "Tony Hawk",
+      "biography": "Anthony Frank Hawk, nicknamed Birdman, is an American professional skateboarder, entrepreneur, and the owner of the skateboard company Birdhouse. A pioneer of modern vertical skateboarding, Hawk completed the first documented \"900\" skateboarding trick in 1999. He also licensed a skateboarding video game series named after him, published by Activision that same year. Hawk, who retired from competing professionally in 2003, is widely regarded as one of the greatest and most influential skateboarders of all time.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tony_Hawk",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tony_Hawk_2026.jpg/330px-Tony_Hawk_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1968-05-12",
       "deathDate": null
     },
     "Toto Wolf": {
@@ -142956,7 +143127,7 @@ const collectionData = {
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-17T22:36:25.697890",
+  "export_date": "2026-09-18T11:48:33.157996",
   "version": "3.0"
 };
 
