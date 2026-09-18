@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6416,
+      "driver_name": "Humphrey Bogart",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-17 20:44:38.445350",
+      "date_modified": "2026-09-17 20:44:38.445350",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Humphrey Bogart",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6416_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6415,
       "driver_name": "Henry Fonda",
       "year": null,
@@ -142665,15 +142687,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6396,
-    "signed_cards": 6322,
+    "total_cards": 6397,
+    "signed_cards": 6323,
     "unsigned_cards": 74,
-    "unique_signers": 2373,
+    "unique_signers": 2374,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-13T15:04:23.286374",
+  "export_date": "2026-09-17T20:45:15.934727",
   "version": "3.0"
 };
 
