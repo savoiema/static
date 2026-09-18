@@ -33245,11 +33245,11 @@
       "manufacturer": "Leaf",
       "series": "",
       "card_number": "",
-      "discipline": "Basketball",
+      "discipline": "Baseball",
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-04-13 15:44:16.831140",
-      "date_modified": "2026-04-13 15:44:16.831140",
+      "date_modified": "2026-09-17 21:11:49.913938",
       "authenticated": false,
       "signatures_list": [
         {
@@ -141712,6 +141712,24 @@
     }
   ],
   "people": {
+    "Adreian Payne": {
+      "name": "Adreian Payne",
+      "biography": "Adreian DeAngleo Payne was an American professional basketball player. He played in the National Basketball Association (NBA) for the Atlanta Hawks, Minnesota Timberwolves, and Orlando Magic as well as for several European and Asian teams. Payne played college basketball for the Michigan State Spartans.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adreian_Payne",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/US_Navy_111110-N-DR144-711_Michigan_State_University_basketball_player_Adreian_Payne_dunks_during_a_practice_in_the_basketball_arena_on_the_flight_%28cropped%29.jpg/330px-US_Navy_111110-N-DR144-711_Michigan_State_University_basketball_player_Adreian_Payne_dunks_during_a_practice_in_the_basketball_arena_on_the_flight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1991-02-19",
+      "deathDate": "2022-05-09"
+    },
+    "Al Jefferson": {
+      "name": "Al Jefferson",
+      "biography": "Al Ricardo Jefferson is an American former professional basketball player. A center/power forward, he was a high school All-American for Prentiss High School in Mississippi before skipping college to enter the 2004 NBA draft, where he was drafted 15th overall by the Boston Celtics. He played 14 seasons in the National Basketball Association (NBA) for the Celtics, Minnesota Timberwolves, Utah Jazz, Charlotte Hornets and Indiana Pacers, earning third-team All-NBA honors in 2014 with the Hornets.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al_Jefferson",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Al_Jefferson_Bobcats.jpg/330px-Al_Jefferson_Bobcats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1985-01-04",
+      "deathDate": null
+    },
     "Andy Granatelli": {
       "name": "Andy Granatelli",
       "biography": "Anthony \"Andy\" Granatelli was an American businessman, most prominent as the CEO of STP as well as a major figure in automobile racing events.",
@@ -141720,6 +141738,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Andygranatelli.JPG/330px-Andygranatelli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1923-03-18",
       "deathDate": "2013-12-29"
+    },
+    "Austin Romine": {
+      "name": "Austin Romine",
+      "biography": "Austin Allen Romine is an American former professional baseball catcher. He has previously played in Major League Baseball (MLB) for the New York Yankees, Detroit Tigers, Chicago Cubs, Los Angeles Angels, St. Louis Cardinals, and Cincinnati Reds. He made his MLB debut in 2011 for the Yankees. He is the son of Kevin Romine and the brother of Andrew Romine.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Austin_Romine",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Austin_Romine_2019.jpg/330px-Austin_Romine_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1988-11-22",
+      "deathDate": null
     },
     "B.B.King": {
       "name": "B.B.King",
@@ -141737,6 +141764,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1961-08-04",
+      "deathDate": null
+    },
+    "Bas Rutten": {
+      "name": "Bas Rutten",
+      "biography": "Sebastiaan Rutten is a Dutch and American actor, former mixed martial artist, kickboxer and professional wrestler. As a kickboxer, he fought 16 times, winning the first 14 matches by knockout, 13 in the first round, and losing his final two fights, one of them against Frank Lobman for the European Muay Thai title in 1991, with Rutten losing by knockout in the first round. In MMA, he was a UFC Heavyweight Champion and a three-time King of Pancrase world champion. After his submission loss to Ken Shamrock in 1995, he finished his MMA career on a 22 fight unbeaten streak.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bas_Rutten",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bas_Rutten.jpg/330px-Bas_Rutten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1965-02-24",
       "deathDate": null
     },
     "Bill Clinton": {
@@ -141792,6 +141828,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/USS_Greeneville_%28SSN_772%29_Sailors_meet_NASCAR_driver_Brad_Keselowski_9764313_%28cropped%29.jpg/330px-USS_Greeneville_%28SSN_772%29_Sailors_meet_NASCAR_driver_Brad_Keselowski_9764313_%28cropped%29.jpg",
       "birthDate": "1984-02-12",
       "deathDate": null
+    },
+    "Brigitte Bardot": {
+      "name": "Brigitte Bardot",
+      "biography": "Brigitte Anne-Marie Bardot, often referred to by her initials B.B., was a French actress, singer, model, and animal rights activist. She became one of the best-known symbols of the sexual revolution and gained international fame for portraying characters associated with hedonistic lifestyles. Although she withdrew from the entertainment industry in 1973, she remained a major pop culture icon. She appeared in 47 films, performed in several musicals, and recorded more than 60 songs. She was awarded the Legion of Honour in 1985.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brigitte_Bardot",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bardot1958.png/330px-Bardot1958.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1934-09-28",
+      "deathDate": "2025-12-28"
     },
     "Bruce Jenner": {
       "name": "Bruce Jenner",
@@ -141874,6 +141919,15 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Corey LaJoie": {
+      "name": "Corey LaJoie",
+      "biography": "Corey Daniel LaJoie, nicknamed SuperShoe, is an American professional stock car racing driver, crew chief, analyst for NASCAR on Prime Video, podcaster, and businessman. He competes part-time in the NASCAR Cup Series, driving the No. 99 Ford Mustang Dark Horse for RFK Racing and full-time in the NASCAR Craftsman Truck Series, driving the No. 10 Ram 1500 for Kaulig Racing. LaJoie is the son of two-time Busch Series champion Randy LaJoie. He was formerly a development driver for Richard Petty Motorsports and JGL Racing.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Corey_LaJoie",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Corey_lajoie_%2853543532022%29_%28cropped%29.jpg/330px-Corey_lajoie_%2853543532022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1991-09-25",
+      "deathDate": null
+    },
     "Crosby Stills Nash": {
       "name": "Crosby Stills Nash",
       "biography": "Crosby, Stills & Nash (CSN) was a folk rock supergroup composed of the American singer-songwriters David Crosby and Stephen Stills and the English-American singer-songwriter Graham Nash. When joined by the Canadian singer-songwriter Neil Young, they were known as Crosby, Stills, Nash & Young (CSNY). They are noted for their intricate vocal harmonies and lasting influence on American music and culture, their political activism and their tumultuous relationships.",
@@ -141908,6 +141962,24 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Earnhardt_Jr.",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg/330px-Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix_4.jpg",
       "birthDate": "1974-10-10",
+      "deathDate": null
+    },
+    "Dale Jarrett": {
+      "name": "Dale Jarrett",
+      "biography": "Dale Arnold Jarrett is an American former race car driver and current racing commentator for NBC. He is best known for winning the Daytona 500 three times and winning the NASCAR Winston Cup Series championship in 1999. He is the son of two-time Grand National Champion Ned Jarrett, younger brother of Glenn Jarrett, father of former driver Jason Jarrett, and cousin of Todd Jarrett. In 2007, Jarrett joined the ESPN/ABC broadcasting team as an announcer in select Nationwide Series races. In 2008, after retiring from driving following the 2008 Food City 500, he joined ESPN permanently as the lead racing analyst replacing Rusty Wallace. In 2015, Jarrett became a part of the NBC Sports Broadcasting Crew for NASCAR events. He was inducted in the 2014 class of the NASCAR Hall of Fame and the Motorsports Hall of Fame of America in 2025.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Jarrett",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Dale_Jarrett_2011.jpg/330px-Dale_Jarrett_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1956-11-26",
+      "deathDate": null
+    },
+    "Danica Patrick": {
+      "name": "Danica Patrick",
+      "biography": "Danica Sue Patrick is an American former professional racing driver who competed in the IndyCar Series from 2005 to 2011 and the NASCAR Cup Series from 2012 to 2018. She is the most successful woman in the history of American open-wheel car racing\u2014her victory in the 2008 Indy Japan 300 is the only win by a woman in IndyCar.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danica_Patrick",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Danica_Patrick_2025_1_secag.jpg/330px-Danica_Patrick_2025_1_secag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1982-03-25",
       "deathDate": null
     },
     "Darryl Sage": {
@@ -141972,6 +142044,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/330px-Dean_Martin_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1917-06-07",
       "deathDate": "1995-12-25"
+    },
+    "Dennis Rodman": {
+      "name": "Dennis Rodman",
+      "biography": "Dennis Keith Rodman is an American former professional basketball player, professional wrestler, and actor. Renowned for his defensive and rebounding abilities, his biography on the official NBA website states that he is \"arguably the best rebounding forward in NBA history\". Nicknamed \"the Worm\", he played for the Detroit Pistons, San Antonio Spurs, Chicago Bulls, Los Angeles Lakers, and Dallas Mavericks of the National Basketball Association (NBA). Rodman played at the small forward position in his early years before becoming a power forward.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dennis_Rodman",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Dennis_Rodman_02_%2834649289162%29_%28cropped%29.jpg/330px-Dennis_Rodman_02_%2834649289162%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1961-05-13",
+      "deathDate": null
     },
     "Dick Hutcherson": {
       "name": "Dick Hutcherson",
@@ -142171,6 +142252,24 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Harry Hyde": {
+      "name": "Harry Hyde",
+      "biography": "Harry Hyde was an American crew chief in NASCAR stock car racing from the 1960s through the 1980s, winning 56 races and 88 pole positions. He was the 1970 championship crew chief for Bobby Isaac. He inspired the Harry Hogge character in the movie Days of Thunder.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Hyde",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HarryHyde1985.jpg/330px-HarryHyde1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1925-01-17",
+      "deathDate": "1996-05-13"
+    },
+    "Henry Fonda": {
+      "name": "Henry Fonda",
+      "biography": "Henry Jaynes Fonda was an American actor whose career spanned five decades on Broadway and in Hollywood. Known for his work on screen and stage, he often portrayed characters who embodied an everyman image.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Fonda",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Henry_Fonda_in_Warlock.jpg/330px-Henry_Fonda_in_Warlock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1905-05-16",
+      "deathDate": "1982-08-12"
+    },
     "Hermano da Silva Ramos": {
       "name": "Hermano da Silva Ramos",
       "biography": "Hermano Jo\u00e3o \"Nano\" da Silva Ramos was a French-Brazilian racing driver. He had a French mother and a Brazilian father. He was the oldest living Formula One driver from April 2023 until his death.",
@@ -142179,6 +142278,15 @@
       "photoUrl": null,
       "birthDate": "1925-12-07",
       "deathDate": "2026-05-04"
+    },
+    "Humphrey Bogart": {
+      "name": "Humphrey Bogart",
+      "biography": "Humphrey DeForest Bogart, nicknamed Bogie, was an American actor. Often known for his leading roles as both gangsters and detectives in film noirs, his performances in classic Hollywood cinema made him an American cultural icon. He won an Academy Award and was honored with a star on the Hollywood Walk of Fame in 1960.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Humphrey_Bogart_1940.jpg/330px-Humphrey_Bogart_1940.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1899-12-25",
+      "deathDate": "1957-01-14"
     },
     "JJ Yeley": {
       "name": "JJ Yeley",
@@ -142243,6 +142351,15 @@
       "birthDate": "1958-12-28",
       "deathDate": "2020-03-29"
     },
+    "Joe Torre": {
+      "name": "Joe Torre",
+      "biography": "Joseph Paul Torre Jr. is an American professional baseball executive and former player, manager, and television color commentator. He has served as a special assistant to the commissioner of Major League Baseball since 2020. He previously served in the capacity of Major League Baseball's (MLB) chief baseball officer from 2011 to 2020. Torre ranks fifth all-time in MLB history with 2,326 wins as a manager. With 2,342 hits during his playing career, Torre is the only major leaguer to achieve both 2,000 hits as a player and 2,000 wins as a manager. From 1996 to 2007, he was the manager of the New York Yankees, and guided the team to six American League (AL) pennants and four World Series championships.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Torre",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Joe_Torre_Winter_Meetings.jpg/330px-Joe_Torre_Winter_Meetings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
     "John Andretti": {
       "name": "John Andretti",
       "biography": "John Andrew Andretti was an American professional race car driver. He won individual races in CART, IMSA GTP, Rolex Sports Car Series, and NASCAR during his career. A member of the Andretti racing family, he was the son of Aldo Andretti, older brother of racer Adam Andretti, nephew of Mario Andretti, and the cousin to CART drivers Michael and Jeff Andretti. He was also the first cousin once-removed of Marco Andretti.",
@@ -142251,6 +142368,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/John_Andretti_at_Carb_Day_2015_-_Stierch.jpg/330px-John_Andretti_at_Carb_Day_2015_-_Stierch.jpg",
       "birthDate": "1963-03-12",
       "deathDate": "2020-01-30"
+    },
+    "John Wooden": {
+      "name": "John Wooden",
+      "biography": "John Robert Wooden was an American basketball coach and player. Nicknamed \"the Wizard of Westwood\", he won ten National Collegiate Athletic Association (NCAA) national championships in a 12-year period as head coach for the UCLA Bruins, including a record seven in a row. No other team has won more than four in a row in Division I college men's or women's basketball. Within this period, his teams won an NCAA men's basketball record 88 consecutive games. Wooden won the prestigious Henry Iba Award as national coach of the year a record seven times and won the Associated Press award five times.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Wooden",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/John_Wooden.JPG/330px-John_Wooden.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1910-10-14",
+      "deathDate": "2010-06-04"
     },
     "Johnny Carson": {
       "name": "Johnny Carson",
@@ -142342,6 +142468,15 @@
       "birthDate": "1962-06-26",
       "deathDate": null
     },
+    "Kyle Busch": {
+      "name": "Kyle Busch",
+      "biography": "Kyle Thomas Busch, nicknamed \"Rowdy\", was an American professional stock car racing driver and racing team owner who competed from 2001 until his death in 2026. Throughout his career, Busch raced under several car numbers, though he was most prominently identified with the No. 18 Toyota for Joe Gibbs Racing between 2008 and 2022 in the NASCAR Cup Series. Known for his dominance across NASCAR's top three divisions, Busch is widely regarded as one of the most accomplished and talented drivers in motorsports history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kyle_Busch",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NASCAR_driver_Kyle_Busch_comes_to_Dover_AFB_%287%29_%28cropped%29.jpg/330px-NASCAR_driver_Kyle_Busch_comes_to_Dover_AFB_%287%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1985-05-02",
+      "deathDate": "2026-05-21"
+    },
     "Kyle Larson": {
       "name": "Kyle Larson",
       "biography": "Kyle Miyata Larson is an American professional racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 5 Chevrolet Camaro ZL1 for Hendrick Motorsports and part-time in the NASCAR O'Reilly Auto Parts Series, driving the No. 88 Chevrolet Camaro SS for JR Motorsports.",
@@ -142349,6 +142484,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Kyle_Larson",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kyle_Larson_Las_Vegas_2026.jpg/330px-Kyle_Larson_Las_Vegas_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1992-07-31",
+      "deathDate": null
+    },
+    "Landon Cassill": {
+      "name": "Landon Cassill",
+      "biography": "Landon Douglas Cassill is an American former professional stock car racing driver. He last competed full-time in the NASCAR Xfinity Series, driving the No. 10 Chevrolet Camaro for Kaulig Racing.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Landon_Cassill",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Landon_Cassill_Michigan_2018.jpg/330px-Landon_Cassill_Michigan_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1989-07-07",
       "deathDate": null
     },
     "Larry McClure": {
@@ -142396,6 +142540,15 @@
       "birthDate": "1951-04-20",
       "deathDate": "2005-07-01"
     },
+    "Madeline Albright": {
+      "name": "Madeline Albright",
+      "biography": "Madeleine Jana Korbel Albright was an American diplomat and political scientist who served as the 64th United States secretary of state under President Bill Clinton from 1997 to 2001. A member of the Democratic Party, she was the first woman to hold the position.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madeleine_Albright",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Secalbright.jpg/330px-Secalbright.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1937-05-15",
+      "deathDate": "2022-03-23"
+    },
     "Mark Martin": {
       "name": "Mark Martin",
       "biography": "Mark Anthony Martin, nicknamed \"the Kid\", is an American former stock car racing driver. He most notably drove the No. 6 Ford for Roush Racing for the majority of his career.",
@@ -142440,6 +142593,24 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Michael_Waltrip_Las_Vegas_2026.jpg/330px-Michael_Waltrip_Las_Vegas_2026.jpg",
       "birthDate": "1963-04-30",
       "deathDate": null
+    },
+    "Mickey Mantle": {
+      "name": "Mickey Mantle",
+      "biography": "Mickey Charles Mantle, nicknamed \"the Mick\" and \"the Commerce Comet\", was an American professional baseball player who played his entire Major League Baseball (MLB) career (1951\u20131968) with the New York Yankees, primarily as a center fielder. Mantle is regarded by many as one of the best players and sluggers of all time. He was an American League (AL) Most Valuable Player three times and was inducted into the Baseball Hall of Fame in 1974.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mickey_Mantle",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mickey_Mantle_1957_%28cropped%29.jpg/330px-Mickey_Mantle_1957_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1931-10-20",
+      "deathDate": "1995-08-13"
+    },
+    "Mickey Mantle & Yogi Berra": {
+      "name": "Mickey Mantle & Yogi Berra",
+      "biography": "Mickey Charles Mantle, nicknamed \"the Mick\" and \"the Commerce Comet\", was an American professional baseball player who played his entire Major League Baseball (MLB) career (1951\u20131968) with the New York Yankees, primarily as a center fielder. Mantle is regarded by many as one of the best players and sluggers of all time. He was an American League (AL) Most Valuable Player three times and was inducted into the Baseball Hall of Fame in 1974.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mickey_Mantle",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mickey_Mantle_1957_%28cropped%29.jpg/330px-Mickey_Mantle_1957_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1931-10-20",
+      "deathDate": "1995-08-13"
     },
     "Mika H\u00e4kkinen": {
       "name": "Mika H\u00e4kkinen",
@@ -142495,6 +142666,15 @@
       "birthDate": "1975-06-30",
       "deathDate": null
     },
+    "Rheal Cormier": {
+      "name": "Rheal Cormier",
+      "biography": "Rh\u00e9al Paul Cormier was a Canadian-American professional baseball left-handed pitcher who played in Major League Baseball (MLB), for the St. Louis Cardinals, Boston Red Sox (twice), Montreal Expos, Philadelphia Phillies, and Cincinnati Reds for 16 seasons, between 1991 through 2007.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rh%C3%A9al_Cormier",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/Rheal_Cormier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1967-04-23",
+      "deathDate": "2021-03-08"
+    },
     "Richard Petty": {
       "name": "Richard Petty",
       "biography": "Richard Lee Petty, nicknamed \"the King\", is an American former stock car racing driver who competed from 1958 to 1992 in the former NASCAR Grand National and Winston Cup Series, most notably driving the No. 43 Plymouth/Pontiac for Petty Enterprises. He is one of the members of the Petty racing family. He was the first driver to win the Cup Series championship seven times, while also winning a record 200 races during his career. This included winning the Daytona 500 a record seven times and winning a record 27 races in one season (1967). Petty is widely regarded as one of the greatest drivers in NASCAR history.",
@@ -142540,6 +142720,15 @@
       "birthDate": "1956-08-14",
       "deathDate": null
     },
+    "Salvador Dali": {
+      "name": "Salvador Dali",
+      "biography": "Salvador Domingo Felipe Jacinto Dal\u00ed i Dom\u00e8nech, Marquess of Dal\u00ed de P\u00fabol, known as Salvador Dal\u00ed, was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/330px-Salvador_Dal%C3%AD_1939.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1904-05-11",
+      "deathDate": "1989-01-23"
+    },
     "Sam Jankovich": {
       "name": "Sam Jankovich",
       "biography": "Sam Jankovich was an American sports administrator who held several positions, including athletic director at the Washington State University and the University of Miami. He also was the CEO of the New England Patriots of the National Football League (NFL) and president and general manager of the Las Vegas Gladiators of the Arena Football League (AFL).",
@@ -142549,6 +142738,15 @@
       "birthDate": "1935",
       "deathDate": "2019-10-30"
     },
+    "Sebastien Loeb": {
+      "name": "Sebastien Loeb",
+      "biography": "S\u00e9bastien Loeb is a French professional rally, racing and rallycross driver. He was the most successful driver in the World Rally Championship (WRC), having won the world championship a record nine times, a record since equalled by S\u00e9bastien Ogier in 2025. He holds several other WRC records, including most event wins, most podium finishes and most stage wins. Loeb retired from full time WRC participation at the end of 2012. He currently drives part time in the WRC for M-Sport Ford World Rally Team, and full time in the World Rally-Raid Championship (W2RC) for Bahrain Raid Xtreme.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Loeb",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sebastien_Loeb_2014_WTCC_Race_of_Japan.jpg/330px-Sebastien_Loeb_2014_WTCC_Race_of_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1974-02-26",
+      "deathDate": null
+    },
     "Sebastien Vettel": {
       "name": "Sebastien Vettel",
       "biography": "Sebastian Vettel is a German former racing driver who competed in Formula One from 2007 to 2022. Vettel won four Formula One World Drivers' Championship titles, which he won consecutively from 2010 to 2013 with Red Bull, and remains the youngest-ever World Drivers' Champion; he won 53 Grands Prix across 16 seasons.",
@@ -142556,6 +142754,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Sebastian_Vettel",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428_%28cropped%29.jpg/330px-Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1987-07-03",
+      "deathDate": null
+    },
+    "Shaquille O'Neal": {
+      "name": "Shaquille O'Neal",
+      "biography": "Shaquille Rashaun O'Neal, commonly known as Shaq, is an American former professional basketball player who is a sports analyst on the television program Inside the NBA. Nicknamed, among others, \"Diesel\", he is a 7-foot-1-inch (2.16\u00a0m) and 325-pound (147\u00a0kg) center who played for six teams over his 19-year career in the National Basketball Association (NBA). He is a four-time NBA champion, three-time NBA Finals MVP, and the 2000 NBA MVP. O'Neal is widely regarded as one of the greatest basketball players and one of the most dominant centers in NBA history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shaquille_O'Neal",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg/330px-TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1972-03-06",
       "deathDate": null
     },
     "Shelby Lynne": {
@@ -142584,6 +142791,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/20180705-Rudolstadt-Festival-Steve_Earle-and-the-Dukes-4821_%28cropped%29.jpg/330px-20180705-Rudolstadt-Festival-Steve_Earle-and-the-Dukes-4821_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1955-01-17",
       "deathDate": null
+    },
+    "Ted Turner": {
+      "name": "Ted Turner",
+      "biography": "Robert Edward Turner III was an American businessman, television producer, media proprietor, and philanthropist. He founded CNN, the first 24-hour cable news channel, and WTBS, which pioneered the superstation concept in cable television. Turner also founded the television networks TNT, TBS, The Cartoon Network, Inc., and Turner Classic Movies, and acquired professional wrestling company Jim Crockett Promotions, which became the basis of the promotion World Championship Wrestling (WCW).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ted_Turner",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ted_Turner_April_1985_%28cropped%29.jpg/330px-Ted_Turner_April_1985_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1938-11-19",
+      "deathDate": "2026-05-06"
     },
     "Tero Palmroth": {
       "name": "Tero Palmroth",
@@ -142621,6 +142837,15 @@
       "birthDate": "1939-11-26",
       "deathDate": "2023-05-24"
     },
+    "Tom Seaver": {
+      "name": "Tom Seaver",
+      "biography": "George Thomas Seaver, nicknamed \"Tom Terrific\" and \"the Franchise\", was an American professional baseball pitcher who played 20 seasons in Major League Baseball (MLB). He played for the New York Mets, Cincinnati Reds, Chicago White Sox, and Boston Red Sox from 1967 to 1986. Commonly described as the most iconic player in Mets history, Seaver played a significant role in their victory in the 1969 World Series over the Baltimore Orioles.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tom_Seaver",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tom_Seaver_Mets.jpg/330px-Tom_Seaver_Mets.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
     "Tommy Rich": {
       "name": "Tommy Rich",
       "biography": "Thomas Richardson is an American professional wrestler, better known by his ring name Tommy \"Wildfire\" Rich. He is a one time former National Wrestling Alliance World Heavyweight Champion and Smoky Mountain Wrestling Heavyweight Champion. He primarily appeared in Georgia Championship Wrestling and Memphis throughout the 1980s, as well as World Championship Wrestling, Smoky Mountain Wrestling and Extreme Championship Wrestling throughout the 1990s. He is a 1974 graduate of Hendersonville High School.",
@@ -142639,6 +142864,15 @@
       "birthDate": "1972-01-12",
       "deathDate": null
     },
+    "Travis Pastrana": {
+      "name": "Travis Pastrana",
+      "biography": "Travis Alan Pastrana is an American professional athlete known for his success across multiple disciplines, including freestyle motocross, rally racing, NASCAR, and stunt performance. He rose to prominence in the early 2000s, becoming a multi-time X Games gold medalist and achieving numerous milestones in freestyle motocross, including being the first to land a double backflip in competition in 2006. Prior to his freestyle career, Pastrana was also a successful motorcycle racer, winning titles in the AMA Motocross and Supercross 125cc divisions in 2000 and 2001, respectively.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Travis_Pastrana",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Travis_pastrana_%2852703419534%29_%28cropped%29.jpg/330px-Travis_pastrana_%2852703419534%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1983-10-08",
+      "deathDate": null
+    },
     "Trent Reznor": {
       "name": "Trent Reznor",
       "biography": "Michael Trent Reznor is an American singer, songwriter, musician, and composer. He came to prominence as the founder, lead singer, multi-instrumentalist, and primary songwriter of the industrial rock band Nine Inch Nails. The band's line-up has constantly changed, with Reznor being its only official member from its creation in 1988 until 2016, when he added English musician and frequent collaborator Atticus Ross as its second permanent member.",
@@ -142648,6 +142882,15 @@
       "birthDate": "1965-05-17",
       "deathDate": null
     },
+    "Ty Dillon": {
+      "name": "Ty Dillon",
+      "biography": "Ty Reed Dillon is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 10 Chevrolet Camaro ZL1 for Kaulig Racing and part-time in the NASCAR Craftsman Truck Series, driving the No. 25 Ram 1500 for Kaulig Racing. He has also competed in what is now the ARCA Menards Series, what are now the ARCA Menards Series East and West, and what is now known as the NASCAR Canada Series in the past.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ty_Dillon",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ty_Dillon_Driver_Introductions_Las_Vegas_2026.jpg/330px-Ty_Dillon_Driver_Introductions_Las_Vegas_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1992-02-27",
+      "deathDate": null
+    },
     "Vince Neil": {
       "name": "Vince Neil",
       "biography": "Vincent Neil Wharton is an American musician and singer. He is the lead vocalist of heavy metal band M\u00f6tley Cr\u00fce, which he fronted from their 1981 formation until his departure in 1992. Neil reunited with the band in 1996 and continued with them until the band's 2015 retirement, and again from the band's 2018 reunion onwards. Outside of M\u00f6tley Cr\u00fce, Neil has also released three studio albums as a solo artist \u2013 the most recent of which, Tattoos & Tequila, was released in 2010. Neil's visual aesthetic and distinctive singing voice are considered synonymous with the American glam metal movement of the 1980s.",
@@ -142655,6 +142898,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Vince_Neil",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vince_Neil_-_Wacken_Open_Air_2018-1642.jpg/330px-Vince_Neil_-_Wacken_Open_Air_2018-1642.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1961-02-08",
+      "deathDate": null
+    },
+    "Walter R\u00f6hrl": {
+      "name": "Walter R\u00f6hrl",
+      "biography": "Walter R\u00f6hrl is a German rally and auto racing driver, with victories for Fiat, Opel, Lancia and Audi as well as Porsche, Ford and BMW. R\u00f6hrl had 14 victories over his career, with his notable achievements including winning the World Rally Championship twice: in 1980 with a Fiat 131 Abarth and in 1982 while driving for Opel with the Ascona 400. He has also competed in other forms of motorsport, such as endurance racing, winning the GTP +3.0 class at the 24 Hours of Le Mans in 1981 with the Porsche System team. R\u00f6hrl also set the Pikes Peak International Hill Climb record in 1987, driving an Audi Sport Quattro S1 E2. He is often regarded as one of the greatest rally drivers of all time.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Walter_R%C3%B6hrl",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Walter_Roehrl_2012.jpg/330px-Walter_Roehrl_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1947-03-07",
       "deathDate": null
     },
     "Waylon Jennings": {
@@ -142683,6 +142935,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Willie_UK2K7_2.JPG/330px-Willie_UK2K7_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1933-04-29",
       "deathDate": null
+    },
+    "Yogi Berra": {
+      "name": "Yogi Berra",
+      "biography": "Lawrence Peter \"Yogi\" Berra was an American professional baseball catcher who later took on the roles of manager and coach. He played 19 seasons in Major League Baseball (MLB), all but the last for the New York Yankees. He was an 18-time All-Star and won 10 World Series championships as a player\u2014more than any other player in MLB history. Berra had a career batting average of .285, while hitting 358 home runs and 1,430 runs batted in. He is one of only six players to win the American League (AL) Most Valuable Player Award three times. He is widely regarded as one of the greatest catchers in baseball history, and was elected to the Baseball Hall of Fame in 1972.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yogi_Berra",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Yogi_Berra_%281957%29_%28cropped%29.jpg/330px-Yogi_Berra_%281957%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1925-05-12",
+      "deathDate": "2015-09-22"
     }
   },
   "stats": {
@@ -142694,6 +142955,6 @@
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-17T20:45:15.934727",
+  "export_date": "2026-09-17T22:36:25.697890",
   "version": "3.0"
 }
