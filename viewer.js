@@ -141731,6 +141731,15 @@ const collectionData = {
       "birthDate": "1985-01-04",
       "deathDate": null
     },
+    "Alain Prost": {
+      "name": "Alain Prost",
+      "biography": "Alain Marie Pascal Prost is a French former racing driver and motorsport executive, who competed in Formula One from 1980 to 1993. Nicknamed \"the Professor\", Prost won four Formula One World Drivers' Championship titles and\u2014at the time of his retirement\u2014held the records for most wins (51), fastest laps (41), and podium finishes (106).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alain_Prost",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Festival_automobile_international_2015_-_Photocall_-_065_%28cropped3%29.jpg/330px-Festival_automobile_international_2015_-_Photocall_-_065_%28cropped3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1955-02-24",
+      "deathDate": null
+    },
     "Andy Granatelli": {
       "name": "Andy Granatelli",
       "biography": "Anthony \"Andy\" Granatelli was an American businessman, most prominent as the CEO of STP as well as a major figure in automobile racing events.",
@@ -141739,6 +141748,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Andygranatelli.JPG/330px-Andygranatelli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1923-03-18",
       "deathDate": "2013-12-29"
+    },
+    "Angela Lansbury": {
+      "name": "Angela Lansbury",
+      "biography": "Dame Angela Brigid Lansbury was a British-American-Irish actress and singer. In a career spanning 80 years, she played various roles across film, stage, and television. Although based for much of her life in the United States, her work attracted international attention.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Lansbury",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Studio_publicity_Angela_Lansbury.jpg/330px-Studio_publicity_Angela_Lansbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1925-10-16",
+      "deathDate": "2022-10-11"
     },
     "Austin Romine": {
       "name": "Austin Romine",
@@ -141920,6 +141938,15 @@ const collectionData = {
       "birthDate": "1926-10-18",
       "deathDate": "2017-03-18"
     },
+    "Clint Eastwood": {
+      "name": "Clint Eastwood",
+      "biography": "Clinton Eastwood Jr. is a retired American actor and filmmaker. After achieving success in the Western TV series Rawhide, Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone's Dollars Trilogy of spaghetti Westerns during the mid-1960s and as antihero cop Harry Callahan in the five Dirty Harry films throughout the 1970s and 1980s. These roles, among others, have made Eastwood an enduring cultural icon of masculinity. Elected in 1986, Eastwood served for two years as the mayor of Carmel-by-the-Sea, California.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg/330px-Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1930-05-31",
+      "deathDate": null
+    },
     "Colin James": {
       "name": "Colin James",
       "biography": "Colin James is a Canadian blues rock singer and songwriter. James has been very successful in Canada, having attained seven Gold-certified albums in Canada during his career, including four Platinum albums and two Double Platinum albums.",
@@ -141981,6 +142008,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Dale_Jarrett",
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Dale_Jarrett_2011.jpg/330px-Dale_Jarrett_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1956-11-26",
+      "deathDate": null
+    },
+    "Damon Hill": {
+      "name": "Damon Hill",
+      "biography": "Damon Graham Devereux Hill is a British former racing driver and broadcaster, who competed in Formula One from 1992 to 1999. Hill won the Formula One World Drivers' Championship in 1996 with Williams, and won 22 Grands Prix across eight seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Damon_Hill",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Damon_Hill_at_the_Atlassian_Williams_Racing_Fan_Zone_of_2026_%28028A8241%29.jpg/330px-Damon_Hill_at_the_Atlassian_Williams_Racing_Fan_Zone_of_2026_%28028A8241%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1960-09-17",
       "deathDate": null
     },
     "Danica Patrick": {
@@ -142325,6 +142361,15 @@ const collectionData = {
       "birthDate": "1925-07-18",
       "deathDate": "2019-01-18"
     },
+    "Glenn Ford": {
+      "name": "Glenn Ford",
+      "biography": "Gwyllyn Samuel Newton Ford, known as Glenn Ford, was a Canadian-born American actor. He was most prominent during Hollywood's Golden Age as one of the biggest box-office draws of the 1940s, 1950s, and 1960s, and had a career that lasted more than 50 years.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Glenn_Ford",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Glenn_Ford_-_1955.jpg/330px-Glenn_Ford_-_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
+      "deathDate": null
+    },
     "Graham Nash": {
       "name": "Graham Nash",
       "biography": "Graham William Nash is a British and American musician, singer and songwriter. He is known for his light tenor voice and for his contributions as a member of the Hollies and Crosby, Stills & Nash.",
@@ -142361,6 +142406,15 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Guy Edwards": {
+      "name": "Guy Edwards",
+      "biography": "Guy Richard Goronwy Edwards, QGM was a British racing driver. Best known for his sportscar and British Formula One career, as well as for brokering sponsorship deals, Edwards participated in 17 World Championship Formula One Grands Prix, debuting on 13 January 1974. He scored no championship points.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Edwards",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Hesketh_308D.jpg/330px-Hesketh_308D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1942-12-30",
+      "deathDate": "2026-06-19"
+    },
     "Harry Hyde": {
       "name": "Harry Hyde",
       "biography": "Harry Hyde was an American crew chief in NASCAR stock car racing from the 1960s through the 1980s, winning 56 races and 88 pole positions. He was the 1970 championship crew chief for Bobby Isaac. He inspired the Harry Hogge character in the movie Days of Thunder.",
@@ -142387,6 +142441,15 @@ const collectionData = {
       "photoUrl": null,
       "birthDate": "1925-12-07",
       "deathDate": "2026-05-04"
+    },
+    "Howard Stern": {
+      "name": "Howard Stern",
+      "biography": "Howard Allan Stern is an American broadcaster, comedian, and media personality. He is best known for The Howard Stern Show, which rose to prominence through national syndication on terrestrial radio from 1986 to 2005; he has broadcast on SiriusXM since 2006.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howard_Stern",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Howard_Stern_in_2012_%283x4_cropped%29.jpg/330px-Howard_Stern_in_2012_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1954-01-12",
+      "deathDate": null
     },
     "Humphrey Bogart": {
       "name": "Humphrey Bogart",
@@ -142793,6 +142856,15 @@ const collectionData = {
       "birthDate": "1958-10-05",
       "deathDate": null
     },
+    "Nick Nolte": {
+      "name": "Nick Nolte",
+      "biography": "Nicholas King Nolte is an American actor. Known for his leading man roles in both dramas and romances, he has received a Golden Globe Award as well as nominations for three Academy Awards and a Primetime Emmy Award. Nolte first came to prominence for his role in the ABC miniseries Rich Man, Poor Man (1976) for which he received a Primetime Emmy Award for Outstanding Lead Actor in a Limited Series or Movie nomination. He won the Golden Globe Award for Best Actor \u2013 Motion Picture Drama for The Prince of Tides (1991). He has received three Academy Award nominations for The Prince of Tides (1991), Affliction (1998), and Warrior (2011).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nick_Nolte",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Nick_Nolte_2008_%282544500287%29.jpg/330px-Nick_Nolte_2008_%282544500287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1941-02-08",
+      "deathDate": null
+    },
     "Paul Tibbitt": {
       "name": "Paul Tibbitt",
       "biography": "Paul Harrison Tibbitt IV is an American animator, writer, and voice actor, best known for his work on the animated series SpongeBob SquarePants. After its creator Stephen Hillenburg and creative director and supervising producer Derek Drymon resigned in 2004, Tibbitt took his position of showrunner and supervising producer for the show's fourth through ninth seasons. He also took over as the voice of Potty the Parrot, whom Hillenburg had voiced until his resignation. Tibbitt made his feature film directorial debut directing The SpongeBob Movie: Sponge Out of Water. He studied in the Character Animation program at the California Institute of the Arts.",
@@ -142801,6 +142873,15 @@ const collectionData = {
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/PaulTibbitt_Agraph.png/330px-PaulTibbitt_Agraph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1968-05-13",
       "deathDate": null
+    },
+    "Philip Seymour Hoffman": {
+      "name": "Philip Seymour Hoffman",
+      "biography": "Philip Seymour Hoffman was an American actor. He was known for his distinctive supporting character roles and his memorable leading roles in many films and theatrical productions from the early 1990s until his death in 2014. He was voted the greatest film actor of the 21st century in a 2024 ranking by The Independent.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Philip_Seymour_Hoffman",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Philip_Seymour_Hoffman_2011.jpg/330px-Philip_Seymour_Hoffman_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1967-07-23",
+      "deathDate": "2014-02-02"
     },
     "Pink Floyd": {
       "name": "Pink Floyd",
@@ -142909,6 +142990,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rusty_Wallace.jpg/330px-Rusty_Wallace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1956-08-14",
       "deathDate": null
+    },
+    "Ryan O'Neal": {
+      "name": "Ryan O'Neal",
+      "biography": "Charles Patrick Ryan O'Neal was an American actor. Born in Los Angeles, he trained as an amateur boxer before beginning a career in acting in 1960.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ryan_O'Neal",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Oneal_-_1968.jpg/330px-Ryan_Oneal_-_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1941-04-20",
+      "deathDate": "2023-12-08"
     },
     "Salvador Dali": {
       "name": "Salvador Dali",
@@ -143181,7 +143271,7 @@ const collectionData = {
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-19T00:10:03.972194",
+  "export_date": "2026-09-21T22:25:33.452631",
   "version": "3.0"
 };
 
