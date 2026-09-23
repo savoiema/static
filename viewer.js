@@ -141839,6 +141839,15 @@ const collectionData = {
       "birthDate": "1956-05-17",
       "deathDate": "2022-01-09"
     },
+    "Bobby Hamilton": {
+      "name": "Bobby Hamilton",
+      "biography": "Charles Robert Hamilton Sr. was an American stock car racing driver and racing team owner. A driver and owner in the NASCAR Craftsman Truck Series circuit and the winner of the 2004 NASCAR Craftsman Truck Series championship, Hamilton owned Bobby Hamilton Racing. Hamilton's son, Bobby Hamilton Jr., was also a NASCAR driver.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bobby_Hamilton",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bobby_Hamilton.jpg/330px-Bobby_Hamilton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1957-05-29",
+      "deathDate": "2007-01-07"
+    },
     "Bobby Labonte": {
       "name": "Bobby Labonte",
       "biography": "Robert Allen Labonte is an American semi-retired professional stock car racing driver and current analyst for NASCAR on Fox. He also currently competes part-time in the SMART Modified Tour, driving the No. 18L for Hermie Sadler and Bill Stanley. Labonte is the 2000 NASCAR Winston Cup Series champion. He and his older brother, Terry Labonte, are one of only two pairs of brothers to have both won the Cup championships. He is also the uncle of former Xfinity Series race winner Justin Labonte.",
@@ -141892,6 +141901,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Web_Summit_2017_-_Future_Societies_SM0_1242_%2838228173296%29_%28cropped%29.jpg/330px-Web_Summit_2017_-_Future_Societies_SM0_1242_%2838228173296%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1949-10-28",
       "deathDate": null
+    },
+    "Cale Yarborough": {
+      "name": "Cale Yarborough",
+      "biography": "William Caleb Yarborough was an American NASCAR Winston Cup Series driver and owner, businessman, farmer, and rancher. He was the first driver in NASCAR history to win three consecutive championships, winning in 1976, 1977, and 1978. He was one of the preeminent stock car drivers from the 1960s to the 1980s and also competed in IndyCar events. His fame was such that a special model of the Mercury Cyclone Spoiler II was named after him.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cale_Yarborough",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/CaleYarborough.jpg/330px-CaleYarborough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1939-03-27",
+      "deathDate": "2023-12-31"
     },
     "Carl Edwards": {
       "name": "Carl Edwards",
@@ -142144,6 +142162,15 @@ const collectionData = {
       "photoUrl": null,
       "birthDate": "1931-11-30",
       "deathDate": "2005-11-06"
+    },
+    "Dick Moroso": {
+      "name": "Dick Moroso",
+      "biography": "Richard D. Moroso was an American hot rodder, drag racer, and businessman.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dick_Moroso",
+      "photoUrl": null,
+      "birthDate": "1939",
+      "deathDate": "1998"
     },
     "Don Williams": {
       "name": "Don Williams",
@@ -142541,6 +142568,15 @@ const collectionData = {
       "birthDate": "1914-11-25",
       "deathDate": "1999-03-08"
     },
+    "Joe Nemechek": {
+      "name": "Joe Nemechek",
+      "biography": "Joseph Frank Nemechek III is an American professional stock car racing driver. The 1992 NASCAR Busch Series champion, he has the third most national series starts in NASCAR history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Nemechek",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Joe_nemechek_%2833287372678%29.jpg/330px-Joe_nemechek_%2833287372678%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1963-09-26",
+      "deathDate": null
+    },
     "Joe Torre": {
       "name": "Joe Torre",
       "biography": "Joseph Paul Torre Jr. is an American professional baseball executive and former player, manager, and television color commentator. He has served as a special assistant to the commissioner of Major League Baseball since 2020. He previously served in the capacity of Major League Baseball's (MLB) chief baseball officer from 2011 to 2020. Torre ranks fifth all-time in MLB history with 2,326 wins as a manager. With 2,342 hits during his playing career, Torre is the only major leaguer to achieve both 2,000 hits as a player and 2,000 wins as a manager. From 1996 to 2007, he was the manager of the New York Yankees, and guided the team to six American League (AL) pennants and four World Series championships.",
@@ -142712,6 +142748,15 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Larry McReynolds": {
+      "name": "Larry McReynolds",
+      "biography": "Lawrence Joseph McReynolds III is an American NASCAR television commentator for NASCAR on Fox and NASCAR on TNT and a semi-retired crew chief.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Larry_McReynolds",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Larry_McReynolds.jpg/330px-Larry_McReynolds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1959-01-10",
+      "deathDate": null
+    },
     "Lee Petty": {
       "name": "Lee Petty",
       "biography": "Lee Arnold Petty was an American stock car racing driver who competed during the 1950s and 1960s. He is the patriarch of the Petty racing family. He was one of the early pioneers of NASCAR and one of its first stars. He was NASCAR's first three-time Cup champion. He is the father of Richard Petty, who went on to become one of the most successful stock car racing drivers in history. He is also the grandfather of Kyle Petty and great grandfather of Adam Petty.",
@@ -142773,6 +142818,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Truex_Jr.",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg/330px-Martin_Truex_Jr._Driver_Introductions_Las_Vegas_Fall_2024.jpg",
       "birthDate": "1980-06-29",
+      "deathDate": null
+    },
+    "Matt Kenseth": {
+      "name": "Matt Kenseth",
+      "biography": "Matthew Roy Kenseth is an American former professional stock car racing driver and the current competition advisor for Legacy Motor Club in the NASCAR Cup Series. Most recently, he raced part-time in the Superstar Racing Experience (SRX), driving the No. 8 car. Kenseth is also an active competitor at Slinger Speedway, where he holds the record for the most Slinger Nationals victories.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Matt_Kenseth",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Matt_Kenseth_Sonoma_2024.jpg/330px-Matt_Kenseth_Sonoma_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1972-03-10",
       "deathDate": null
     },
     "Maurice Petty": {
@@ -142962,6 +143016,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Robbie_Loomis",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Robbie_Loomis_2011.jpg/330px-Robbie_Loomis_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": null,
+      "deathDate": null
+    },
+    "Robert Pressley": {
+      "name": "Robert Pressley",
+      "biography": "Robert William Pressley is an American former NASCAR driver who previously served as the promoter at Kingsport Speedway in Kingsport, Tennessee. Pressley currently owns the restaurant Celebrity's Hotdogs in Asheville, North Carolina. Pressley was also a County Commissioner in Buncombe County, North Carolina.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Pressley",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RobertPressley1999_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1959-04-08",
       "deathDate": null
     },
     "Ross Chastain": {
@@ -143271,7 +143334,7 @@ const collectionData = {
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-21T22:25:33.452631",
+  "export_date": "2026-09-22T22:51:20.709215",
   "version": "3.0"
 };
 
