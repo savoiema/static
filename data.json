@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6417,
+      "driver_name": "Jaques Villeneuve",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "Formula 1",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-09-25 20:38:55.278490",
+      "date_modified": "2026-09-25 20:38:55.278490",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jaques Villeneuve",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6417_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6416,
       "driver_name": "Humphrey Bogart",
       "year": null,
@@ -141757,6 +141779,15 @@
       "birthDate": "1925-10-16",
       "deathDate": "2022-10-11"
     },
+    "Arthur Leclerc": {
+      "name": "Arthur Leclerc",
+      "biography": "Arthur Leclerc is a Mon\u00e9gasque racing driver who last competed in the GT World Challenge Europe Endurance Cup for AF Corse. He is the younger brother of Scuderia Ferrari Formula One driver Charles Leclerc, and a former member of Ferrari Driver Academy.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Leclerc",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Arthur_Leclerc_Austria_2022.jpg/330px-Arthur_Leclerc_Austria_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "2000-10-14",
+      "deathDate": null
+    },
     "Austin Romine": {
       "name": "Austin Romine",
       "biography": "Austin Allen Romine is an American former professional baseball catcher. He has previously played in Major League Baseball (MLB) for the New York Yankees, Detroit Tigers, Chicago Cubs, Los Angeles Angels, St. Louis Cardinals, and Cincinnati Reds. He made his MLB debut in 2011 for the Yankees. He is the son of Kevin Romine and the brother of Andrew Romine.",
@@ -141926,6 +141957,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Carson_Hocevar",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Carson_Hocevar_Las_Vegas_2026.jpg/330px-Carson_Hocevar_Las_Vegas_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "2003",
+      "deathDate": null
+    },
+    "Charles Leclerc": {
+      "name": "Charles Leclerc",
+      "biography": "Charles Marc Herv\u00e9 Perceval Leclerc is a Mon\u00e9gasque racing driver who competes in Formula One for Ferrari. Leclerc was runner-up in the Formula One World Drivers' Championship in 2022 with Ferrari, and has won nine Grands Prix across nine seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Leclerc",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Charles_Leclerc_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg/330px-Charles_Leclerc_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1997-10-16",
       "deathDate": null
     },
     "Charlie Glotzbach": {
@@ -143325,14 +143365,14 @@
     }
   },
   "stats": {
-    "total_cards": 6397,
-    "signed_cards": 6323,
+    "total_cards": 6398,
+    "signed_cards": 6324,
     "unsigned_cards": 74,
     "unique_signers": 2374,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-22T22:51:20.709215",
+  "export_date": "2026-09-25T20:42:01.218200",
   "version": "3.0"
 }
