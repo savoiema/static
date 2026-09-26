@@ -1,6 +1,72 @@
 {
   "cards": [
     {
+      "id": 6420,
+      "driver_name": "William Shatner",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-25 20:53:13.418298",
+      "date_modified": "2026-09-25 20:53:13.418298",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "William Shatner",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6420_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6419,
+      "driver_name": "Bob Crippen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Astronaut",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-25 20:52:27.594286",
+      "date_modified": "2026-09-25 20:52:27.594286",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bob Crippen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6419_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6418,
+      "driver_name": "Greg Louganis",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Other",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-25 20:50:52.250781",
+      "date_modified": "2026-09-25 20:50:52.250781",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Greg Louganis",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6418_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6417,
       "driver_name": "Jaques Villeneuve",
       "year": null,
@@ -142454,6 +142520,15 @@
       "birthDate": "1969-12-23",
       "deathDate": "2025-12-18"
     },
+    "Greg Louganis": {
+      "name": "Greg Louganis",
+      "biography": "Gregory Efthimios Louganis is an American Olympic diver who won gold medals at the 1984 and 1988 Summer Olympics on the springboard and platform. He is the only man and the second diver in Olympic history to sweep the diving events in consecutive Olympic Games. He has been called both \"the greatest American diver\" and \"probably the greatest diver in history\" as of 2015.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greg_Louganis",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Credit_Mark-Hanauer_4.jpg/330px-Credit_Mark-Hanauer_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1960-01-29",
+      "deathDate": null
+    },
     "Greg Sacks": {
       "name": "Greg Sacks",
       "biography": "Gregory Sacks is an American former stock car racing driver. He has previously competed in the NASCAR Nextel Cup Series, the NASCAR Busch Series, the NASCAR Craftsman Truck Series, and the ARCA Re/Max Series.",
@@ -143345,6 +143420,15 @@
       "birthDate": "1963-08-09",
       "deathDate": "2012-02-11"
     },
+    "William Shatner": {
+      "name": "William Shatner",
+      "biography": "William Shatner is a Canadian actor. From 1966 to 1994, he starred as Captain James T. Kirk in the Star Trek franchise, from his debut as the captain of the starship Enterprise in the second pilot of the first Star Trek television series to his final appearance as Captain Kirk in the seventh Star Trek feature film, Star Trek Generations.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Shatner",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/William_Shatner_Photo_Op_GalaxyCon_Richmond_2026.jpg/330px-William_Shatner_Photo_Op_GalaxyCon_Richmond_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1931-03-22",
+      "deathDate": null
+    },
     "Willie Nelson": {
       "name": "Willie Nelson",
       "biography": "Willie Hugh Nelson is an American singer, guitarist, songwriter, actor, and activist. He was one of the main figures of the outlaw country subgenre that developed in the late 1960s as a reaction to the conservative restrictions of the Nashville sound. The critical success of his album Shotgun Willie (1973), combined with the critical and commercial success of Red Headed Stranger (1975) and Stardust (1978), made Nelson one of the most recognized artists in country music. Nelson has acted in over 30 films, co-authored several books, and has been involved in activism for the use of biofuels and the legalization of marijuana.",
@@ -143365,14 +143449,14 @@
     }
   },
   "stats": {
-    "total_cards": 6398,
-    "signed_cards": 6324,
+    "total_cards": 6401,
+    "signed_cards": 6327,
     "unsigned_cards": 74,
-    "unique_signers": 2374,
+    "unique_signers": 2377,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-25T20:42:01.218200",
+  "export_date": "2026-09-25T20:56:32.367670",
   "version": "3.0"
 }
