@@ -141926,6 +141926,15 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Bob Crippen": {
+      "name": "Bob Crippen",
+      "biography": "Robert Laurel Crippen is an American retired naval officer and aviator, test pilot, aerospace engineer, and astronaut. He traveled into space four times: as pilot of STS-1 in April 1981, the first Space Shuttle mission; and as commander of STS-7 in June 1983, STS-41-C in April 1984, and STS-41-G in October 1984. He was also a part of the Manned Orbiting Laboratory (MOL), Skylab Medical Experiment Altitude Test (SMEAT), ASTP support crew member, and the Approach and Landing Tests (ALT) for the Space Shuttle.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Crippen",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Robert_Crippen.jpg/330px-Robert_Crippen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1937-09-11",
+      "deathDate": null
+    },
     "Bob Saget": {
       "name": "Bob Saget",
       "biography": "Robert Lane Saget was an American stand-up comedian, actor, director, and television host. He portrayed Danny Tanner on the sitcom Full House (1987\u20131995) and its sequel Fuller House (2016\u20132020). Saget was the original host of America's Funniest Home Videos (1989\u20131997), and the voice of narrator Ted Mosby on the sitcom How I Met Your Mother (2005\u20132014). He was simultaneously known for his family-friendly image and his profane comedian persona, with his 2014 album That's What I'm Talkin' About being nominated for the Grammy Award for Best Comedy Album.",
@@ -142618,6 +142627,15 @@
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/JackBruceDutchTV1968.jpg/330px-JackBruceDutchTV1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1943-05-14",
       "deathDate": "2014-10-25"
+    },
+    "Jaques Villeneuve": {
+      "name": "Jaques Villeneuve",
+      "biography": " Jacques Joseph Charles Villeneuve is a Canadian former racing driver who competed in IndyCar from 1994 to 1995, and Formula One from 1996 to 2006. Villeneuve won the Formula One World Drivers' Championship in 1997 with Williams, and won 11 Grands Prix across 11 seasons. In American open-wheel racing, Villeneuve won the IndyCar World Series and the Indianapolis 500 in 1995 with Team Green.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jacques_Villeneuve",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Jacques_Villeneuve_Peugeot_208_T16_Lydden_Hill_2014_006_%28cropped2%29.jpg/330px-Jacques_Villeneuve_Peugeot_208_T16_Lydden_Hill_2014_006_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1971-04-09",
+      "deathDate": null
     },
     "Jean-Pierre Beltoise": {
       "name": "Jean-Pierre Beltoise",
@@ -143457,6 +143475,6 @@
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-25T20:56:32.367670",
+  "export_date": "2026-09-27T15:47:00.911661",
   "version": "3.0"
 }
