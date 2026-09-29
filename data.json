@@ -142259,6 +142259,15 @@
       "birthDate": "1961-05-13",
       "deathDate": null
     },
+    "Denny Hamlin": {
+      "name": "Denny Hamlin",
+      "biography": "James Dennis Alan Hamlin is an American professional stock car racing driver and team owner. He competes full-time in the NASCAR Cup Series, driving the No. 11 Toyota Camry XSE for Joe Gibbs Racing. He also co-owns and operates 23XI Racing with basketball Hall of Famer Michael Jordan.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Denny_Hamlin",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Denny_Hamlin_Driver_Introductions_Las_Vegas_2026.jpg/330px-Denny_Hamlin_Driver_Introductions_Las_Vegas_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1980-11-18",
+      "deathDate": null
+    },
     "Derrike Cope": {
       "name": "Derrike Cope",
       "biography": "Derrike Wayne Cope is an American professional stock car racing driver and team owner. He is best known for his surprise win in the 1990 Daytona 500. He last competed in the NASCAR Cup Series, driving the No. 15 Chevrolet Camaro ZL1 for Rick Ware Racing in an alliance with his own StarCom Racing. Cope also was team manager of StarCom. As of 2022, he is the last driver to compete in at least one NASCAR Cup Series race in five consecutive decades.",
@@ -142799,6 +142808,15 @@
       "birthDate": "1964-10-20",
       "deathDate": null
     },
+    "Kasey Kahne": {
+      "name": "Kasey Kahne",
+      "biography": "Kasey Kenneth Kahne is an American professional dirt track racing and stock car racing driver. He last competed part-time in the NASCAR Xfinity Series, driving the No. 33 Chevrolet Camaro SS for Richard Childress Racing. Currently, Kahne competes in High Limit Racing, driving the No. 4 sprint car for his own team, Kasey Kahne Racing.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kasey_Kahne",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kasey_Kahne_2017_Camping_World_500_%28cropped%29.jpg/330px-Kasey_Kahne_2017_Camping_World_500_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1980-04-10",
+      "deathDate": null
+    },
     "Keith Richard": {
       "name": "Keith Richard",
       "biography": "Keith Richards is an English musician, songwriter, singer and record producer who is an original member, guitarist, secondary vocalist, and co-principal songwriter of the Rolling Stones. His songwriting partnership with the band's lead vocalist Mick Jagger is one of the most successful in history. His career spans over six decades, and his guitar playing style has been a trademark of the Rolling Stones throughout the band's career. Richards gained press notoriety for his romantic involvements and illicit drug use, and he was often portrayed as a countercultural figure. First professionally known as Keith Richard, from 1978 he used his full family name.",
@@ -143186,6 +143204,15 @@
       "birthDate": "1956-08-14",
       "deathDate": null
     },
+    "Ryan Newman": {
+      "name": "Ryan Newman",
+      "biography": "Ryan Joseph Newman, nicknamed \"Rocket Man\", is an American professional stock car racing driver that competed in the NASCAR Cup Series from 2000 to 2023. He claimed 18 official wins including the 2008 Daytona 500 and 2013 Brickyard 400, as well as 117 top-fives, 51 pole positions, and a non-points win at the 2002 Winston. Newman was runner-up in 2014, and ranked sixth in 2002, 2003, and 2005. Newman currently competes in the SMART Modified Tour for Coulter Motorsports.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ryan_Newman_(racing_driver)",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ryan_newman_%2849562467557%29.jpg/330px-Ryan_newman_%2849562467557%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1977-12-08",
+      "deathDate": null
+    },
     "Ryan O'Neal": {
       "name": "Ryan O'Neal",
       "biography": "Charles Patrick Ryan O'Neal was an American actor. Born in Los Angeles, he trained as an amateur boxer before beginning a career in acting in 1960.",
@@ -143475,6 +143502,6 @@
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-27T15:47:00.911661",
+  "export_date": "2026-09-28T21:23:22.291643",
   "version": "3.0"
 }
