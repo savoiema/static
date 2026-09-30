@@ -141873,6 +141873,15 @@ const collectionData = {
       "birthDate": "1962-02-06",
       "deathDate": null
     },
+    "Ayrton Senna": {
+      "name": "Ayrton Senna",
+      "biography": "Ayrton Senna da Silva was a Brazilian racing driver and philanthropist who competed in Formula One from 1984 to 1994. Senna won three Formula One World Drivers' Championship titles with McLaren, and\u2014at the time of his death\u2014held the record for most pole positions (65), among others; he won 41 Grands Prix across 11 seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ayrton_Senna_Pesawat_RC_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1960-03-21",
+      "deathDate": "1994-05-01"
+    },
     "B.B.King": {
       "name": "B.B.King",
       "biography": "Riley B. King, known professionally as B.\u00a0B. King, was an American blues guitarist, singer, songwriter, and record producer. He introduced a sophisticated style of soloing based on fluid string bending, shimmering vibrato, and staccato picking that influenced many later electric guitar blues players. AllMusic recognized King as \"the single most important electric guitarist of the last half of the 20th century\".",
@@ -142521,6 +142530,15 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "Graham Hill": {
+      "name": "Graham Hill",
+      "biography": "Norman Graham Hill was a British racing driver, rower and motorsport executive, who competed in Formula One from 1958 to 1975. Nicknamed \"Mr. Monaco\", Hill won two Formula One World Drivers' Championship titles and, at the time of his retirement, held the record for most podium finishes (36); he won 14 Grands Prix across 18 seasons. In American open-wheel racing, Hill won the Indianapolis 500 in 1966 with Mecom. Upon winning the 24 Hours of Le Mans in 1972 with Matra, Hill became the first\u2014and as of 2026, only\u2014driver to complete the Triple Crown of Motorsport.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Graham_Hill",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Graham_Hill_Bestanddeelnr_924-6564.jpg/330px-Graham_Hill_Bestanddeelnr_924-6564.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1929-02-15",
+      "deathDate": "1975-11-29"
+    },
     "Graham Nash": {
       "name": "Graham Nash",
       "biography": "Graham William Nash is a British and American musician, singer and songwriter. He is known for his light tenor voice and for his contributions as a member of the Hollies and Crosby, Stills & Nash.",
@@ -142827,6 +142845,15 @@ const collectionData = {
       "birthDate": "1943-12-18",
       "deathDate": null
     },
+    "Keke Rosberg": {
+      "name": "Keke Rosberg",
+      "biography": "Keijo Erik \"Keke\" Rosberg is a Finnish former racing driver and motorsport executive, who competed in Formula One from 1978 to 1986. Rosberg won the Formula One World Drivers' Championship in 1982 with Williams, and won five Grands Prix across nine seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Keke_Rosberg",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg/330px-Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1948-12-06",
+      "deathDate": null
+    },
     "Ken Schrader": {
       "name": "Ken Schrader",
       "biography": "Kenneth William Schrader is an American professional racing driver. He currently races on local dirt and asphalt tracks around the country. He also last competed part-time in the ARCA Menards Series, driving the No. 11 Ford for Fast Track Racing. He has also previously competed in the NASCAR Cup Series, the NASCAR Xfinity Series, and the NASCAR Camping World Truck Series, as well as the Superstar Racing Experience. He is a first cousin once removed of fellow NASCAR driver Carl Edwards.",
@@ -142989,6 +143016,15 @@ const collectionData = {
       "birthDate": "1939-03-27",
       "deathDate": "2020-07-25"
     },
+    "Max Mosley": {
+      "name": "Max Mosley",
+      "biography": "Max Rufus Mosley was a British businessman, lawyer and racing driver. He served as president of the F\u00e9d\u00e9ration Internationale de l'Automobile (FIA), the governing body for Formula One.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Mosley",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Max_Mosley_1969_%28Portrait%29.jpg/330px-Max_Mosley_1969_%28Portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1940-04-13",
+      "deathDate": "2021-05-23"
+    },
     "Michael Schumacher": {
       "name": "Michael Schumacher",
       "biography": "Michael Schumacher is a German former racing driver who competed in Formula One from 1991 to 2006 and from 2010 to 2012. Schumacher won a record-setting seven Formula One World Drivers' Championship titles, tied by Lewis Hamilton in 2020, and\u2014at the time of his retirement\u2014held the records for most wins (91), pole positions (68), and podium finishes (155), while he maintains the record for most fastest laps (77), among others.",
@@ -143069,6 +143105,15 @@ const collectionData = {
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Nick_Nolte_2008_%282544500287%29.jpg/330px-Nick_Nolte_2008_%282544500287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1941-02-08",
       "deathDate": null
+    },
+    "Niki Lauda": {
+      "name": "Niki Lauda",
+      "biography": "Andreas Nikolaus \"Niki\" Lauda was an Austrian racing driver, motorsport executive, and aviation entrepreneur, who competed in Formula One from 1971 to 1979 and from 1982 to 1985. Lauda won three Formula One World Drivers' Championship titles and\u2014at the time of his retirement\u2014held the record for most podium finishes (54); he won 25 Grands Prix across 13 seasons, and remains the only driver to have won a World Drivers' Championship with both Ferrari and McLaren.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niki_Lauda",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Lauda_at_1982_Dutch_Grand_Prix.jpg/330px-Lauda_at_1982_Dutch_Grand_Prix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1949-02-22",
+      "deathDate": "2019-05-20"
     },
     "Paul Tibbitt": {
       "name": "Paul Tibbitt",
@@ -143503,7 +143548,7 @@ const collectionData = {
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-28T21:23:22.291643",
+  "export_date": "2026-09-29T22:03:21.445434",
   "version": "3.0"
 };
 
