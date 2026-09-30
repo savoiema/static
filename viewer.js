@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6421,
+      "driver_name": "Pee-wee Herman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-29 22:09:02.809461",
+      "date_modified": "2026-09-29 22:09:13.579687",
+      "authenticated": true,
+      "signatures_list": [
+        {
+          "signer": "Pee-wee Herman",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6421_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6420,
       "driver_name": "William Shatner",
       "year": null,
@@ -143540,15 +143562,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6401,
-    "signed_cards": 6327,
+    "total_cards": 6402,
+    "signed_cards": 6328,
     "unsigned_cards": 74,
-    "unique_signers": 2377,
+    "unique_signers": 2378,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-29T22:03:21.445434",
+  "export_date": "2026-09-29T22:09:35.242897",
   "version": "3.0"
 };
 
