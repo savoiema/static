@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6422,
+      "driver_name": "Patrick Stewart",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-09-30 20:18:24.663180",
+      "date_modified": "2026-09-30 20:18:24.663180",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Patrick Stewart",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6422_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6421,
       "driver_name": "Pee-wee Herman",
       "year": null,
@@ -143136,6 +143158,15 @@
       "birthDate": "1949-02-22",
       "deathDate": "2019-05-20"
     },
+    "Patrick Stewart": {
+      "name": "Patrick Stewart",
+      "biography": "Sir Patrick Stewart is an English actor. With a career spanning over 60 years on stage and screen, he has received various accolades, including two Olivier Awards and a Grammy Award, as well as nominations for a Tony Award, three Golden Globe Awards, four Emmy Awards, and three Screen Actors Guild Awards. He was knighted by Queen Elizabeth II for services to drama in 2010.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/330px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1940-07-13",
+      "deathDate": null
+    },
     "Paul Tibbitt": {
       "name": "Paul Tibbitt",
       "biography": "Paul Harrison Tibbitt IV is an American animator, writer, and voice actor, best known for his work on the animated series SpongeBob SquarePants. After its creator Stephen Hillenburg and creative director and supervising producer Derek Drymon resigned in 2004, Tibbitt took his position of showrunner and supervising producer for the show's fourth through ninth seasons. He also took over as the voice of Potty the Parrot, whom Hillenburg had voiced until his resignation. Tibbitt made his feature film directorial debut directing The SpongeBob Movie: Sponge Out of Water. He studied in the Character Animation program at the California Institute of the Arts.",
@@ -143143,6 +143174,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Tibbitt",
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/PaulTibbitt_Agraph.png/330px-PaulTibbitt_Agraph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1968-05-13",
+      "deathDate": null
+    },
+    "Pee-wee Herman": {
+      "name": "Pee-wee Herman",
+      "biography": "Pee-wee Herman is a comedy character created and portrayed by the American comedian Paul Reubens. He starred in films and television series during the 1980s. The childlike Pee-wee Herman character developed as a stage act that quickly led to an HBO special in 1981. As the stage performance gained further popularity, Reubens took the character to motion picture with Pee-wee's Big Adventure in 1985, toning down the adult innuendo for the appeal of children. This paved the way for Pee-wee's Playhouse, an Emmy Award-winning children's series that ran on CBS from 1986 to 1991. Another film, Big Top Pee-wee, was released in 1988.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pee-wee_Herman",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pee-Wee_Herman_%281988%29.jpg/330px-Pee-Wee_Herman_%281988%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
       "deathDate": null
     },
     "Philip Seymour Hoffman": {
@@ -143561,14 +143601,14 @@
     }
   },
   "stats": {
-    "total_cards": 6402,
-    "signed_cards": 6328,
+    "total_cards": 6403,
+    "signed_cards": 6329,
     "unsigned_cards": 74,
-    "unique_signers": 2378,
+    "unique_signers": 2379,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-09-29T22:09:35.242897",
+  "export_date": "2026-09-30T20:19:48.808895",
   "version": "3.0"
 }
