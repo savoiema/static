@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6424,
+      "driver_name": "Ryan Newman",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-02 13:57:13.444892",
+      "date_modified": "2026-10-02 13:57:13.444892",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ryan Newman",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6424_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6423,
       "driver_name": "Herb Thomas",
       "year": null,
@@ -143627,14 +143649,14 @@
     }
   },
   "stats": {
-    "total_cards": 6404,
-    "signed_cards": 6330,
+    "total_cards": 6405,
+    "signed_cards": 6331,
     "unsigned_cards": 74,
     "unique_signers": 2380,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-01T00:51:13.355401",
+  "export_date": "2026-10-02T13:57:44.202183",
   "version": "3.0"
 }
