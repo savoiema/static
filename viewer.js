@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6425,
+      "driver_name": "Stewart Friesen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-03 19:23:32.759987",
+      "date_modified": "2026-10-03 19:23:32.759987",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Stewart Friesen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6425_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6424,
       "driver_name": "Ryan Newman",
       "year": null,
@@ -143650,15 +143672,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6405,
-    "signed_cards": 6331,
+    "total_cards": 6406,
+    "signed_cards": 6332,
     "unsigned_cards": 74,
-    "unique_signers": 2380,
+    "unique_signers": 2381,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-02T13:57:44.202183",
+  "export_date": "2026-10-03T19:23:59.563753",
   "version": "3.0"
 };
 
