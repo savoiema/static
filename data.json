@@ -1,6 +1,23 @@
 {
   "cards": [
     {
+      "id": 6426,
+      "driver_name": "Nick Suzuki",
+      "year": 2021,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "87",
+      "discipline": "Hockey",
+      "item_type": "Card",
+      "notes": "Fack this is a print",
+      "date_added": "2026-10-03 21:34:56.047004",
+      "date_modified": "2026-10-03 21:34:56.047004",
+      "authenticated": false,
+      "signatures_list": [],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6426_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6425,
       "driver_name": "Stewart Friesen",
       "year": null,
@@ -44685,28 +44702,6 @@
         }
       ],
       "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0004/card_4413_front.jpg",
-      "image_back_file": null
-    },
-    {
-      "id": 4412,
-      "driver_name": "Nick Suzuki",
-      "year": 2021,
-      "manufacturer": "Upper Deck",
-      "series": "",
-      "card_number": "87",
-      "discipline": "Hockey",
-      "item_type": "Card",
-      "notes": "",
-      "date_added": "2026-03-13 20:13:22.791530",
-      "date_modified": "2026-03-13 20:13:22.791530",
-      "authenticated": false,
-      "signatures_list": [
-        {
-          "signer": "Nick Suzuki",
-          "date": null
-        }
-      ],
-      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0004/card_4412_front.jpg",
       "image_back_file": null
     },
     {
@@ -141923,6 +141918,15 @@
       "birthDate": "1991-02-19",
       "deathDate": "2022-05-09"
     },
+    "Aguri Suzuki": {
+      "name": "Aguri Suzuki",
+      "biography": "Aguri Suzuki  is a Japanese former racing driver and motorsport executive who competed in Formula One from 1988 to 1995.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aguri_Suzuki",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Suzuki_Sepang_25.png/330px-Suzuki_Sepang_25.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1960-09-08",
+      "deathDate": null
+    },
     "Al Jefferson": {
       "name": "Al Jefferson",
       "biography": "Al Ricardo Jefferson is an American former professional basketball player. A center/power forward, he was a high school All-American for Prentiss High School in Mississippi before skipping college to enter the 2004 NBA draft, where he was drafted 15th overall by the Boston Celtics. He played 14 seasons in the National Basketball Association (NBA) for the Celtics, Minnesota Timberwolves, Utah Jazz, Charlotte Hornets and Indiana Pacers, earning third-team All-NBA honors in 2014 with the Hornets.",
@@ -143672,13 +143676,13 @@
   },
   "stats": {
     "total_cards": 6406,
-    "signed_cards": 6332,
-    "unsigned_cards": 74,
+    "signed_cards": 6331,
+    "unsigned_cards": 75,
     "unique_signers": 2381,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-03T19:23:59.563753",
+  "export_date": "2026-10-03T21:45:50.284707",
   "version": "3.0"
 }
