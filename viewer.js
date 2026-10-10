@@ -2,6 +2,52 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6429,
+      "driver_name": "Coke Advert",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-09 23:39:41.171975",
+      "date_modified": "2026-10-09 23:39:41.171975",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bill Elliott",
+          "date": null
+        },
+        {
+          "signer": "Tim Fedewa",
+          "date": null
+        },
+        {
+          "signer": "Lance Hooper",
+          "date": null
+        },
+        {
+          "signer": "Brett Bodine",
+          "date": null
+        },
+        {
+          "signer": "Mark Martin",
+          "date": null
+        },
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        },
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6429_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6428,
       "driver_name": "John Graham",
       "year": null,
@@ -143729,15 +143775,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6408,
-    "signed_cards": 6333,
+    "total_cards": 6409,
+    "signed_cards": 6334,
     "unsigned_cards": 75,
     "unique_signers": 2382,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-09T23:24:56.050410",
+  "export_date": "2026-10-10T00:03:13.741540",
   "version": "3.0"
 };
 
