@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6428,
+      "driver_name": "John Graham",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-09 23:24:31.963613",
+      "date_modified": "2026-10-09 23:24:31.963613",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "John Graham",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6428_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6427,
       "driver_name": "Michael Waltrip",
       "year": null,
@@ -143560,6 +143582,15 @@
       "birthDate": "1970-08-09",
       "deathDate": null
     },
+    "Tim Flock": {
+      "name": "Tim Flock",
+      "biography": "Julius Timothy Flock was an American stock car racer. He was a two-time NASCAR series champion. His brothers Bob and Fonty Flock also raced in NASCAR, as did his sister Ethel Mobley, NASCAR's second female driver.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tim_Flock",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/23/Tim_Flock_%28NASCAR_driver%29%2C_circa_1955.jpg/330px-Tim_Flock_%28NASCAR_driver%29%2C_circa_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1924-05-11",
+      "deathDate": "1998-03-31"
+    },
     "Tina Turner": {
       "name": "Tina Turner",
       "biography": "Tina Turner was a singer, songwriter, actress and author. Dubbed the \"Queen of Rock 'n' Roll\", she broke both racial and gender barriers in rock music with her vocal prowess and stage presence. She is one of the best-selling music artists of all time, with estimated sales of over 100 million records worldwide.",
@@ -143697,14 +143728,14 @@
     }
   },
   "stats": {
-    "total_cards": 6407,
-    "signed_cards": 6332,
+    "total_cards": 6408,
+    "signed_cards": 6333,
     "unsigned_cards": 75,
-    "unique_signers": 2381,
+    "unique_signers": 2382,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-06T22:34:18.761910",
+  "export_date": "2026-10-09T23:24:56.050410",
   "version": "3.0"
 }
