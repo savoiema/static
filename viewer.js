@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6431,
+      "driver_name": "Clinton W. Smith",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-12 00:02:14.065038",
+      "date_modified": "2026-10-12 00:02:14.065038",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Clinton W. Smith",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6431_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6430,
       "driver_name": "Jimmy Johnson",
       "year": null,
@@ -143797,15 +143819,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6410,
-    "signed_cards": 6335,
+    "total_cards": 6411,
+    "signed_cards": 6336,
     "unsigned_cards": 75,
-    "unique_signers": 2382,
+    "unique_signers": 2383,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-11T22:46:50.316173",
+  "export_date": "2026-10-12T00:02:36.761383",
   "version": "3.0"
 };
 
