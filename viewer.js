@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6432,
+      "driver_name": "Carl Edwards",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-13 21:48:41.277506",
+      "date_modified": "2026-10-13 21:48:41.277506",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carl Edwards",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6432_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6431,
       "driver_name": "Clinton W. Smith",
       "year": null,
@@ -143819,15 +143841,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6411,
-    "signed_cards": 6336,
+    "total_cards": 6412,
+    "signed_cards": 6337,
     "unsigned_cards": 75,
     "unique_signers": 2383,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-12T00:02:36.761383",
+  "export_date": "2026-10-13T21:49:06.231354",
   "version": "3.0"
 };
 
