@@ -2,6 +2,32 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6433,
+      "driver_name": "Dale Earnhardt",
+      "year": 1996,
+      "manufacturer": "Pinnacle",
+      "series": "Racer's Choice",
+      "card_number": "27",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-16 22:14:48.378859",
+      "date_modified": "2026-10-16 22:14:48.378859",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        },
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6433_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6432,
       "driver_name": "Carl Edwards",
       "year": null,
@@ -143841,15 +143867,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6412,
-    "signed_cards": 6337,
+    "total_cards": 6413,
+    "signed_cards": 6338,
     "unsigned_cards": 75,
     "unique_signers": 2383,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-13T21:49:06.231354",
+  "export_date": "2026-10-16T22:15:17.039566",
   "version": "3.0"
 };
 
