@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6467,
+      "driver_name": "Grant Enfinger",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-18 01:01:12.507733",
+      "date_modified": "2026-10-18 01:01:12.507733",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Grant Enfinger",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6467_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6466,
       "driver_name": "Brendan Gaughan",
       "year": null,
@@ -144593,15 +144615,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6446,
-    "signed_cards": 6371,
+    "total_cards": 6447,
+    "signed_cards": 6372,
     "unsigned_cards": 75,
     "unique_signers": 2404,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-18T00:27:49.353550",
+  "export_date": "2026-10-18T01:01:32.541732",
   "version": "3.0"
 };
 
