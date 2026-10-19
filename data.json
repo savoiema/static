@@ -1,6 +1,1180 @@
 {
   "cards": [
     {
+      "id": 6520,
+      "driver_name": "Dale Earnhardt Jr",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-19 14:22:06.748130",
+      "date_modified": "2026-10-19 14:22:06.748130",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6520_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6519,
+      "driver_name": "Bob Livingston",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:20:20.702953",
+      "date_modified": "2026-10-19 14:20:20.702953",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bob Livingston",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6519_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6518,
+      "driver_name": "Buddy Baker / Beverly Pridgen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:19:45.595121",
+      "date_modified": "2026-10-19 14:19:45.595121",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Buddy Baker",
+          "date": null
+        },
+        {
+          "signer": "Beverly Pridgen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6518_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6517,
+      "driver_name": "Mickey York",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-19 14:18:25.009140",
+      "date_modified": "2026-10-19 14:18:25.009140",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mickey York",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6517_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6516,
+      "driver_name": "Buzz Aldrin",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Astronaut",
+      "item_type": "Other",
+      "notes": "",
+      "date_added": "2026-10-19 14:17:51.206266",
+      "date_modified": "2026-10-19 14:17:51.206266",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Buzz Aldrin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6516_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6515,
+      "driver_name": "Ted Musgrave",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:16:53.714756",
+      "date_modified": "2026-10-19 14:16:53.714756",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ted Musgrave",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6515_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6514,
+      "driver_name": "Derek Kraus",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:16:41.641008",
+      "date_modified": "2026-10-19 14:16:41.641008",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Derek Kraus",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6514_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6513,
+      "driver_name": "John Hunter Nemechek",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:16:28.751678",
+      "date_modified": "2026-10-19 14:16:28.751678",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "John Hunter Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6513_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6512,
+      "driver_name": "Daniel Hemric",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:16:13.709002",
+      "date_modified": "2026-10-19 14:16:13.709002",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Daniel Hemric",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6512_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6511,
+      "driver_name": "Justin Haley",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:15:59.523323",
+      "date_modified": "2026-10-19 14:15:59.523323",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Justin Haley",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6511_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6510,
+      "driver_name": "Michael McDowell",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:15:43.037569",
+      "date_modified": "2026-10-19 14:15:43.037569",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Michael McDowell",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6510_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6509,
+      "driver_name": "Jeff Green",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:15:28.304532",
+      "date_modified": "2026-10-19 14:15:28.304532",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeff Green",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6509_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6508,
+      "driver_name": "Reed Sorenson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:15:11.173330",
+      "date_modified": "2026-10-19 14:15:11.173330",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Reed Sorenson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6508_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6507,
+      "driver_name": "Kyle Larson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:14:54.335841",
+      "date_modified": "2026-10-19 14:14:54.335841",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Kyle Larson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6507_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6506,
+      "driver_name": "Casey Atwood",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:14:37.853345",
+      "date_modified": "2026-10-19 14:14:37.853345",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Casey Atwood",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6506_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6505,
+      "driver_name": "Mike Mackenzie",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:14:18.976034",
+      "date_modified": "2026-10-19 14:14:18.976034",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Mackenzie",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6505_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6504,
+      "driver_name": "Denny Hamlin",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:13:46.313322",
+      "date_modified": "2026-10-19 14:13:52.069123",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Denny Hamlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6504_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6503,
+      "driver_name": "Dale Earnhardt Jr",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:13:27.381672",
+      "date_modified": "2026-10-19 14:13:27.381672",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6503_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6502,
+      "driver_name": "Taylor Earnhardt",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:13:07.194097",
+      "date_modified": "2026-10-19 14:13:07.194097",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Taylor Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6502_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6501,
+      "driver_name": "David Green",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:12:44.819241",
+      "date_modified": "2026-10-19 14:12:44.819241",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "David Green",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6501_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6500,
+      "driver_name": "Jerry Nadeau",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Postcard",
+      "notes": "",
+      "date_added": "2026-10-19 14:12:20.767850",
+      "date_modified": "2026-10-19 14:12:20.767850",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jerry Nadeau",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6500_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6499,
+      "driver_name": "Cindy & Bill Elliott",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:11:54.170801",
+      "date_modified": "2026-10-19 14:11:54.170801",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Cindy Elliott",
+          "date": null
+        },
+        {
+          "signer": "Bill Elliott",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6499_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6498,
+      "driver_name": "Tony Eury Sr.",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:10:53.295056",
+      "date_modified": "2026-10-19 14:10:53.295056",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tony Eury Sr.",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6498_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6497,
+      "driver_name": "Aaron Quine",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:10:04.387629",
+      "date_modified": "2026-10-19 14:10:04.387629",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Aaron Quine",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6497_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6496,
+      "driver_name": "Todd Bodine",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:09:35.447144",
+      "date_modified": "2026-10-19 14:09:42.004295",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Todd Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6496_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6495,
+      "driver_name": "Chase Elliott",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "9",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:08:29.658265",
+      "date_modified": "2026-10-19 14:08:29.658265",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Chase Elliott",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6495_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6494,
+      "driver_name": "Noah Gragson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:08:15.225575",
+      "date_modified": "2026-10-19 14:08:15.225575",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Noah Gragson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6494_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6493,
+      "driver_name": "Paul Menard",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:08:00.832009",
+      "date_modified": "2026-10-19 14:08:00.832009",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Paul Menard",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6493_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6492,
+      "driver_name": "Tommy Drisi",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:07:48.057988",
+      "date_modified": "2026-10-19 14:07:48.057988",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tommy Drisi",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6492_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6491,
+      "driver_name": "Donnie Nuenberger",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:07:29.716801",
+      "date_modified": "2026-10-19 14:07:29.716801",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Donnie Nuenberger",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6491_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6490,
+      "driver_name": "Justin Allgaier",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:07:10.643782",
+      "date_modified": "2026-10-19 14:07:10.643782",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Justin Allgaier",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6490_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6489,
+      "driver_name": "Mike Skeen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:06:52.403272",
+      "date_modified": "2026-10-19 14:06:52.403272",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Skeen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6489_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6488,
+      "driver_name": "Austin Hill",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:06:30.809875",
+      "date_modified": "2026-10-19 14:06:30.809875",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Austin Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6488_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6487,
+      "driver_name": "Boris Said",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "7",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:06:12.303773",
+      "date_modified": "2026-10-19 14:06:12.303773",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Boris Said",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6487_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6486,
+      "driver_name": "Klaus Graf",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:05:45.524828",
+      "date_modified": "2026-10-19 14:05:50.269187",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Klaus Graf",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6486_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6485,
+      "driver_name": "Johnny O'Connell",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:05:16.398693",
+      "date_modified": "2026-10-19 14:05:21.711417",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Johnny O'Connell",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6485_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6484,
+      "driver_name": "Timmy Hill",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "10",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:04:45.361671",
+      "date_modified": "2026-10-19 14:04:45.361671",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Timmy Hill",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6484_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6483,
+      "driver_name": "Derrike Cope",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:04:30.059562",
+      "date_modified": "2026-10-19 14:04:30.059562",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Derrike Cope",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6483_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6482,
+      "driver_name": "Stuart Kirby",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:04:10.647138",
+      "date_modified": "2026-10-19 14:04:10.647138",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Stuart Kirby",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6482_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6481,
+      "driver_name": "Devin Jones",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:01:54.956556",
+      "date_modified": "2026-10-19 14:01:54.956556",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Devin Jones",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6481_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6480,
+      "driver_name": "Cole Custer",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:00:23.012743",
+      "date_modified": "2026-10-19 14:00:28.036830",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Cole Custer",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6480_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6479,
+      "driver_name": "Reed Sorenson",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 14:00:09.042209",
+      "date_modified": "2026-10-19 14:00:09.042209",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Reed Sorenson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6479_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6478,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "12",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:59:52.294635",
+      "date_modified": "2026-10-19 13:59:52.294635",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6478_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6477,
+      "driver_name": "Ross Chastain",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "11",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:59:34.436888",
+      "date_modified": "2026-10-19 13:59:34.436888",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ross Chastain",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6477_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6476,
+      "driver_name": "Carlos Contreras",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:59:13.030553",
+      "date_modified": "2026-10-19 13:59:13.030553",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carlos Contreras",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6476_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6475,
+      "driver_name": "Ryan Ellis",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "8",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:58:58.486597",
+      "date_modified": "2026-10-19 13:58:58.486597",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ryan Ellis",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6475_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6474,
+      "driver_name": "Travis Kvapil",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:58:34.787099",
+      "date_modified": "2026-10-19 13:58:34.787099",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Travis Kvapil",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6474_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6473,
+      "driver_name": "Ricky Stenhouse Jr",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:58:15.755261",
+      "date_modified": "2026-10-19 13:58:15.755261",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Stenhouse Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6473_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6472,
+      "driver_name": "Chris Buescher",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:56:30.260533",
+      "date_modified": "2026-10-19 13:56:30.260533",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Chris Buescher",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6472_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6471,
+      "driver_name": "Erin Crocker",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:56:03.169720",
+      "date_modified": "2026-10-19 13:56:03.169720",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Erin Crocker",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6471_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6470,
+      "driver_name": "Bayley Currey",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:55:40.072513",
+      "date_modified": "2026-10-19 13:55:40.072513",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bayley Currey",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6470_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6469,
+      "driver_name": "Johnny Sauter",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:55:21.933754",
+      "date_modified": "2026-10-19 13:55:21.933754",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Johnny Sauter",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6469_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6468,
+      "driver_name": "Brett Moffitt",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-19 13:55:02.557299",
+      "date_modified": "2026-10-19 13:55:02.557299",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brett Moffitt",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6468_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6467,
       "driver_name": "Grant Enfinger",
       "year": null,
@@ -142902,6 +144076,15 @@
       "birthDate": "2000-10-14",
       "deathDate": null
     },
+    "Austin Dillon": {
+      "name": "Austin Dillon",
+      "biography": "Austin Reed Dillon is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 3 Chevrolet Camaro ZL1 for Richard Childress Racing. He is the grandson of RCR team owner Richard Childress, the older brother of Ty Dillon, who competes full-time in the NASCAR Cup Series, and the son of Mike Dillon, a former racing driver who currently works as RCR's general manager.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Austin_Dillon",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Austin_Dillon_Driver_Introductions_Las_Vegas_Fall_2026.jpg/330px-Austin_Dillon_Driver_Introductions_Las_Vegas_Fall_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1990-04-27",
+      "deathDate": null
+    },
     "Austin Romine": {
       "name": "Austin Romine",
       "biography": "Austin Allen Romine is an American former professional baseball catcher. He has previously played in Major League Baseball (MLB) for the New York Yankees, Detroit Tigers, Chicago Cubs, Los Angeles Angels, St. Louis Cardinals, and Cincinnati Reds. He made his MLB debut in 2011 for the Yankees. He is the son of Kevin Romine and the brother of Andrew Romine.",
@@ -142956,6 +144139,15 @@
       "birthDate": "1965-02-24",
       "deathDate": null
     },
+    "Bayley Currey": {
+      "name": "Bayley Currey",
+      "biography": "Bayley Alexander Currey is an American professional stock car racing driver and car chief. He currently competes part-time in the NASCAR Craftsman Truck Series, driving the No. 5 Toyota Tundra TRD Pro for Tricon Garage and part-time in the CARS Pro Late Model Tour, driving the No. 83 Dodge Charger for Copp Motorsports. Currey also serves as the truck chief for the No. 1 Toyota Tundra TRD Pro for Tricon Garage and has competed in the NASCAR Cup Series and NASCAR Xfinity Series in the past.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bayley_Currey",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bayley_currey_%2853643755113%29_%28cropped%29.jpg/330px-Bayley_currey_%2853643755113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1996-10-29",
+      "deathDate": null
+    },
     "Bill Clinton": {
       "name": "Bill Clinton",
       "biography": "William Jefferson Clinton is an American former politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of Democratic Party into the 21st century.",
@@ -142974,6 +144166,15 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Bill Walsh": {
+      "name": "Bill Walsh",
+      "biography": "William Ernest Walsh was an American professional and college football coach. He served as head coach of the San Francisco 49ers and the Stanford Cardinal, during which time he popularized the West Coast offense. After retiring from the 49ers, Walsh worked as a sports broadcaster for several years and then returned as head coach at Stanford for three seasons.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Walsh",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Coach_Bill_Walsh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1931-11-30",
+      "deathDate": "2007-07-30"
+    },
     "Blake Lewis": {
       "name": "Blake Lewis",
       "biography": "Blake Colin Lewis is an American musician and actor who was the runner-up on the sixth season of American Idol. His major label debut album A.D.D.  was released on December 4, 2007, through 19 Recordings and Arista Records. On October 30, 2007, his first single \"Break Anotha\" was released. The album landed on number ten on the U.S. Billboard 200 as its highest peak position with 97,500 copies sold in its debut, and has sold over 350,000 copies. After the release of his second single \"How Many Words\", which peaked at number eight on the U.S. Billboard Dance/Club Play Songs, Lewis was dropped by Arista Records. Lewis eventually signed with Tommy Boy Records.",
@@ -142991,6 +144192,15 @@
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Robert_Crippen.jpg/330px-Robert_Crippen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1937-09-11",
       "deathDate": null
+    },
+    "Bob Keselowski": {
+      "name": "Bob Keselowski",
+      "biography": "Robert Allen Keselowski was an American professional stock car racing driver. He owned K Automotive Racing and was a competitor in the ARCA Hooters SuperCar Series and the NASCAR Craftsman Truck Series.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bob_Keselowski",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bob_Keselowski.jpg/330px-Bob_Keselowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1951-08-01",
+      "deathDate": "2021-12-22"
     },
     "Bob Saget": {
       "name": "Bob Saget",
@@ -143091,6 +144301,15 @@
       "birthDate": "2003",
       "deathDate": null
     },
+    "Chad Little": {
+      "name": "Chad Little",
+      "biography": "Charles Glen Little Jr. is an American former professional stock car racing driver. He holds a degree in marketing from Washington State University and a J.D. degree from Gonzaga University. While attending Washington State University, he joined the Delta Upsilon fraternity.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chad_Little",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/ChadLittle1999_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1963-04-29",
+      "deathDate": null
+    },
     "Charles Leclerc": {
       "name": "Charles Leclerc",
       "biography": "Charles Marc Herv\u00e9 Perceval Leclerc is a Mon\u00e9gasque racing driver who competes in Formula One for Ferrari. Leclerc was runner-up in the Formula One World Drivers' Championship in 2022 with Ferrari, and has won nine Grands Prix across nine seasons.",
@@ -143107,6 +144326,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Glotzbach",
       "photoUrl": null,
       "birthDate": null,
+      "deathDate": null
+    },
+    "Chris Buescher": {
+      "name": "Chris Buescher",
+      "biography": "Christopher William Buescher is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 17 Ford Mustang Dark Horse for RFK Racing. He is the 2012 ARCA Racing Series and 2015 NASCAR Xfinity Series champion and the cousin of 2012 NASCAR Camping World Truck Series champion James Buescher.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chris_Buescher",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chris_Buscher_Driver_Introductions_Las_Vegas_Fall_2026.jpg/330px-Chris_Buscher_Driver_Introductions_Las_Vegas_Fall_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1992-10-29",
       "deathDate": null
     },
     "Chris Economaki": {
@@ -143126,6 +144354,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1926-10-18",
       "deathDate": "2017-03-18"
+    },
+    "Clint Bowyer": {
+      "name": "Clint Bowyer",
+      "biography": "Clinton Aaron Bowyer is an American semi-retired professional stock car racing driver and commentator for NASCAR on Fox.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Bowyer",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Clint_bowyer_%2852045960988%29_%28cropped%29.jpg/330px-Clint_bowyer_%2852045960988%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1979-05-30",
+      "deathDate": null
     },
     "Clint Eastwood": {
       "name": "Clint Eastwood",
@@ -143298,6 +144535,24 @@
       "birthDate": "1946-03-06",
       "deathDate": null
     },
+    "David Ragan": {
+      "name": "David Ragan",
+      "biography": "David Lee Ragan is an American professional stock car racing driver. He last competed part-time in the NASCAR Cup Series, driving the No. 60 Ford Mustang Dark Horse for RFK Racing, and was also an analyst for NASCAR on Fox on NASCAR Race Hub.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/David_Ragan",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/David_ragan_%2849561738308%29.jpg/330px-David_ragan_%2849561738308%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1985-12-24",
+      "deathDate": null
+    },
+    "Dean Dalton": {
+      "name": "Dean Dalton",
+      "biography": "Dean Dalton is an American former professional stock car racing driver who has previously competed in the NASCAR Winston Cup Series, where he earned ten top-ten finishes with a best finish of sixth at Darlington Raceway in 1973.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dean_Dalton",
+      "photoUrl": null,
+      "birthDate": "1945-06-18",
+      "deathDate": null
+    },
     "Dean Martin": {
       "name": "Dean Martin",
       "biography": "Dean Martin was an American singer, actor, comedian and television host. Nicknamed the \"King of Cool\", he is regarded as one of the most popular entertainers of the 20th century.",
@@ -143334,6 +144589,15 @@
       "birthDate": "1958-11-03",
       "deathDate": null
     },
+    "Dick Enberg": {
+      "name": "Dick Enberg",
+      "biography": "Richard Alan Enberg was an American sportscaster. Over the course of an approximately 60-year career, he provided play-by-play of various sports for several radio and television networks, including NBC (1975\u20131999), CBS (2000\u20132014), and ESPN (2004\u20132011), as well as for individual teams, such as UCLA Bruins basketball, Los Angeles Rams football, and California Angels and San Diego Padres baseball.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dick_Enberg",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Dick_Enberg_%22Baffle%22_%281973_NBC_press_photo%29.jpg/330px-Dick_Enberg_%22Baffle%22_%281973_NBC_press_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1935-01-09",
+      "deathDate": "2017-12-21"
+    },
     "Dick Hutcherson": {
       "name": "Dick Hutcherson",
       "biography": "Richard Leon Hutcherson was an American businessman and a former stock car racer. A native of Keokuk, Iowa, Hutcherson drove in NASCAR competition from 1964 to 1967. He won 14 races, finishing runner-up in his first full season in 1965 and third in 1967, but after four years of top-level racing he retired at the season's end to devote his energies to Hutcherson-Pagan Enterprises, a chassis-building business in Charlotte, North Carolina. His younger brother Ron also became a stock car racer.",
@@ -143351,6 +144615,15 @@
       "photoUrl": null,
       "birthDate": "1939",
       "deathDate": "1998"
+    },
+    "Doc Faustina": {
+      "name": "Doc Faustina",
+      "biography": "Leonard \u201cDoc\u201d Faustina was an American NASCAR Winston Cup Series driver who competed from 1971 to 1976.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Doc_Faustina",
+      "photoUrl": null,
+      "birthDate": "1939-02-01",
+      "deathDate": "2022-01-23"
     },
     "Don Williams": {
       "name": "Don Williams",
@@ -143406,6 +144679,15 @@
       "birthDate": "1955-01-26",
       "deathDate": "2020-10-06"
     },
+    "Elmo Langley": {
+      "name": "Elmo Langley",
+      "biography": "Elmo Harold Langley was an American NASCAR driver and owner. Langley primarily used the number 64 on his race cars during his NASCAR career.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elmo_Langley",
+      "photoUrl": null,
+      "birthDate": "1928-08-21",
+      "deathDate": "1996-11-21"
+    },
     "Eric Clapton": {
       "name": "Eric Clapton",
       "biography": "Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter. He is regarded as one of the most successful and influential guitarists in rock music. Clapton ranked second in Rolling Stone's list of the \"100 Greatest Guitarists of All Time\" and fourth in Gibson's \"Top 50 Guitarists of All Time\". He was named number five in Time magazine's list of \"The 10 Best Electric Guitar Players\" in 2009.",
@@ -143422,6 +144704,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Erik_Jones",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Erik_Jones_Sonoma_2026.jpg/330px-Erik_Jones_Sonoma_2026.jpg",
       "birthDate": "1996-05-30",
+      "deathDate": null
+    },
+    "Erin Crocker": {
+      "name": "Erin Crocker",
+      "biography": "Erin Mary Crocker Evernham is an American race car driver and broadcaster with the Motor Racing Network's Winged Nation. In the past, she played soccer, tennis, and varsity lacrosse on both her high school and college teams. She eventually moved to focus more on building a family after starting a personal relationship with her team owner and superior, Ray Evernham, whom she eventually married.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Erin_Crocker",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ErinCrockerDaytona2008.jpg/330px-ErinCrockerDaytona2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1981-03-23",
       "deathDate": null
     },
     "Fernando Alonso": {
@@ -143640,6 +144931,24 @@
       "birthDate": "1942-12-30",
       "deathDate": "2026-06-19"
     },
+    "Hank Stram": {
+      "name": "Hank Stram",
+      "biography": "Henry Louis Stram was an American football coach. He is best known for his 15-year tenure with the Dallas Texans / Kansas City Chiefs of the American Football League (AFL) and National Football League (NFL).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hank_Stram",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hank_Stram%2C_circa_1974.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1923-01-03",
+      "deathDate": "2005-07-04"
+    },
+    "Harry Gant": {
+      "name": "Harry Gant",
+      "biography": "Harold Phil Gant is an American former stock car racing driver best known for driving the No. 33 Skoal Bandit car on the NASCAR Winston Cup Series circuit during the 1980s and 1990s. Gant won 39 NASCAR races combined between the Cup Series and Busch Series, and had a four-race win streak on the Cup circuit in 1991. Gant had a best result of second in the points championship in 1984.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Gant",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Harry_Gant_North_Wilkesboro_1996.jpg/330px-Harry_Gant_North_Wilkesboro_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1940-01-10",
+      "deathDate": null
+    },
     "Harry Hyde": {
       "name": "Harry Hyde",
       "biography": "Harry Hyde was an American crew chief in NASCAR stock car racing from the 1960s through the 1980s, winning 56 races and 88 pole positions. He was the 1970 championship crew chief for Bobby Isaac. He inspired the Harry Hogge character in the movie Days of Thunder.",
@@ -143657,6 +144966,15 @@
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Henry_Fonda_in_Warlock.jpg/330px-Henry_Fonda_in_Warlock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1905-05-16",
       "deathDate": "1982-08-12"
+    },
+    "Herb Thomas": {
+      "name": "Herb Thomas",
+      "biography": "Herbert Watson Thomas was a stock car racer who was one of NASCAR's most successful drivers in the 1950s. Thomas was NASCAR's first multi-time Cup Champion.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Herb_Thomas",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/HerbThomasNASCARLegend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1923-04-06",
+      "deathDate": "2000-08-09"
     },
     "Hermano da Silva Ramos": {
       "name": "Hermano da Silva Ramos",
@@ -143703,6 +145021,15 @@
       "birthDate": "1943-05-14",
       "deathDate": "2014-10-25"
     },
+    "Jamie McMurray": {
+      "name": "Jamie McMurray",
+      "biography": "James Christopher McMurray, nicknamed \"Jamie Mac\", is an American semi-retired professional stock car racing driver and currently an analyst for NASCAR on Fox and NASCAR on The CW. He raced in the NASCAR Cup Series on a full-time basis from 2003 to 2018 before shifting to a Daytona 500-only schedule in 2019 and 2021.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jamie_McMurray",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Jamie_McMurray_2025_%28cropped%29.jpg/330px-Jamie_McMurray_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1976-06-03",
+      "deathDate": null
+    },
     "Jaques Villeneuve": {
       "name": "Jaques Villeneuve",
       "biography": " Jacques Joseph Charles Villeneuve is a Canadian former racing driver who competed in IndyCar from 1994 to 1995, and Formula One from 1996 to 2006. Villeneuve won the Formula One World Drivers' Championship in 1997 with Williams, and won 11 Grands Prix across 11 seasons. In American open-wheel racing, Villeneuve won the IndyCar World Series and the Indianapolis 500 in 1995 with Team Green.",
@@ -143747,6 +145074,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1924-10-01",
       "deathDate": "2024-12-29"
+    },
+    "Jimmy Johnson": {
+      "name": "Jimmy Johnson",
+      "biography": "Jimmie Kenneth Johnson is an American professional stock car racing driver and team owner. He competes part-time in the NASCAR Cup Series, driving the No. 84 Toyota Camry XSE for Legacy Motor Club, and part-time in the NASCAR Craftsman Truck Series, driving the No. 1 Toyota Tundra TRD Pro for Tricon Garage. Johnson has won seven Cup championships, including five consecutive titles, tying him with Richard Petty and Dale Earnhardt for the most all-time. He is widely considered one of the greatest drivers in NASCAR history.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmie_Johnson",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Jimmie_Johnson_Sonoma_2026.jpg/330px-Jimmie_Johnson_Sonoma_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1975-09-17",
+      "deathDate": null
     },
     "Joe Biden": {
       "name": "Joe Biden",
@@ -143793,6 +145129,15 @@
       "birthDate": null,
       "deathDate": null
     },
+    "Joey Gase": {
+      "name": "Joey Gase",
+      "biography": "Joseph Robert Gase is an American professional stock car racing driver and team owner. He currently competes part-time in the NASCAR Cup Series, driving the No. 44 Chevrolet Camaro ZL1 for NY Racing Team and part-time in the NASCAR O'Reilly Auto Parts Series, driving the No. 35/53/55 Chevrolet Camaro SS for Joey Gase Motorsports with Scott Osteen. He has previously competed in the NASCAR Camping World Truck Series.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joey_Gase",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Joey_gase_%2846723616585%29_%28cropped%29.jpg/330px-Joey_gase_%2846723616585%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1993-02-08",
+      "deathDate": null
+    },
     "John Andretti": {
       "name": "John Andretti",
       "biography": "John Andrew Andretti was an American professional race car driver. He won individual races in CART, IMSA GTP, Rolex Sports Car Series, and NASCAR during his career. A member of the Andretti racing family, he was the son of Aldo Andretti, older brother of racer Adam Andretti, nephew of Mario Andretti, and the cousin to CART drivers Michael and Jeff Andretti. He was also the first cousin once-removed of Marco Andretti.",
@@ -143828,6 +145173,15 @@
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnny_Carson_Tonight_Show_1965.JPG/330px-Johnny_Carson_Tonight_Show_1965.JPG",
       "birthDate": "1925-10-23",
       "deathDate": "2005-01-23"
+    },
+    "Johnny Sauter": {
+      "name": "Johnny Sauter",
+      "biography": "Jonathan Joseph Sauter is an American professional stock car racing driver. He last competed part-time in the NASCAR Craftsman Truck Series, driving the No. 66 Ford F-150 for ThorSport Racing. He has also driven in the NASCAR Cup Series and NASCAR Xfinity Series in the past. Sauter is the son of former NASCAR driver Jim Sauter, the brother of NASCAR drivers Tim Sauter and Jay Sauter, and the uncle of Travis Sauter. He is the 2016 Truck Series champion.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Sauter",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Johnny_sauter_%2832539949787%29.jpg/330px-Johnny_sauter_%2832539949787%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1978-05-01",
+      "deathDate": null
     },
     "Jos Verstappen": {
       "name": "Jos Verstappen",
@@ -144027,6 +145381,15 @@
       "birthDate": "1937-05-15",
       "deathDate": "2022-03-23"
     },
+    "Marcos Ambrose": {
+      "name": "Marcos Ambrose",
+      "biography": "Marcos Ross Ambrose is an Australian former racing driver and current Garry Rogers Motorsport competition director. He won the Australian V8 Supercar series' championship in 2003 and 2004.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marcos_Ambrose",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Marcos_Ambrose_at_the_2026_Adelaide_Motorsport_Festival_%28028A6620%29.jpg/330px-Marcos_Ambrose_at_the_2026_Adelaide_Motorsport_Festival_%28028A6620%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1976-09-01",
+      "deathDate": null
+    },
     "Mark Martin": {
       "name": "Mark Martin",
       "biography": "Mark Anthony Martin, nicknamed \"the Kid\", is an American former stock car racing driver. He most notably drove the No. 6 Ford for Roush Racing for the majority of his career.",
@@ -144071,6 +145434,15 @@
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Max_Mosley_1969_%28Portrait%29.jpg/330px-Max_Mosley_1969_%28Portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1940-04-13",
       "deathDate": "2021-05-23"
+    },
+    "Merlin Olsen": {
+      "name": "Merlin Olsen",
+      "biography": "Merlin Jay Olsen was an American professional football player, announcer, and actor. For his entire 15-year professional football career, he was a defensive tackle with the Los Angeles Rams in the National Football League (NFL). He was selected to play in the Pro Bowl 14 times \u2014 every year but his last. The only other football players to have matched or exceeded that number are Bruce Matthews, Tony Gonzalez, Peyton Manning, and Tom Brady, who is the only NFL player to have played more times in the Pro Bowl, with 15 selections.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Merlin_Olsen",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Merlin_Olsen_Jonathan_Garvey_Little_House_on_the_Prairie_1977.JPG/330px-Merlin_Olsen_Jonathan_Garvey_Little_House_on_the_Prairie_1977.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1940-09-15",
+      "deathDate": "2010-03-11"
     },
     "Michael Schumacher": {
       "name": "Michael Schumacher",
@@ -144153,6 +145525,15 @@
       "birthDate": "1941-02-08",
       "deathDate": null
     },
+    "Nick Suzuki": {
+      "name": "Nick Suzuki",
+      "biography": "Nicholas Masaru James Suzuki is a Canadian professional ice hockey player who is a centre and captain for the Montreal Canadiens of the National Hockey League (NHL). He was selected in the first round, 13th overall, by the Vegas Golden Knights in the 2017 NHL entry draft. Known for his craftiness, Suzuki earned the nickname \"Slick Nick\".",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nick_Suzuki",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nick_Suzuki%28nicolas_suzuki%29.jpg/330px-Nick_Suzuki%28nicolas_suzuki%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1999-08-10",
+      "deathDate": null
+    },
     "Niki Lauda": {
       "name": "Niki Lauda",
       "biography": "Andreas Nikolaus \"Niki\" Lauda was an Austrian racing driver, motorsport executive, and aviation entrepreneur, who competed in Formula One from 1971 to 1979 and from 1982 to 1985. Lauda won three Formula One World Drivers' Championship titles and\u2014at the time of his retirement\u2014held the record for most podium finishes (54); he won 25 Grands Prix across 13 seasons, and remains the only driver to have won a World Drivers' Championship with both Ferrari and McLaren.",
@@ -144162,6 +145543,15 @@
       "birthDate": "1949-02-22",
       "deathDate": "2019-05-20"
     },
+    "Orenthal James Simpson": {
+      "name": "Orenthal James Simpson",
+      "biography": "Orenthal James Simpson, nicknamed \"the Juice\", was an American football player, actor, and media personality. He played in the National Football League (NFL) for 11 seasons\u2014nine with the Buffalo Bills\u2014and is regarded as one of the greatest running backs of all time. His success is widely considered to be overshadowed by his two criminal charges for the 1994 murders of his ex-wife Nicole Brown and her friend Ron Goldman, and the contentious criminal trial in which he was acquitted on both counts.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/O._J._Simpson",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG/330px-O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1947-07-09",
+      "deathDate": "2024-04-10"
+    },
     "Patrick Stewart": {
       "name": "Patrick Stewart",
       "biography": "Sir Patrick Stewart is an English actor. With a career spanning over 60 years on stage and screen, he has received various accolades, including two Olivier Awards and a Grammy Award, as well as nominations for a Tony Award, three Golden Globe Awards, four Emmy Awards, and three Screen Actors Guild Awards. He was knighted by Queen Elizabeth II for services to drama in 2010.",
@@ -144169,6 +145559,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Patrick_Stewart",
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/330px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1940-07-13",
+      "deathDate": null
+    },
+    "Paul Menard": {
+      "name": "Paul Menard",
+      "biography": "John Paul Christian Menard is an American professional racing driver who currently competes full-time in the Trans-Am Series, driving the No. 3 Ford Mustang for 3GT Racing. Menard is the 2024 and 2025 Trans-Am Series champion in the TA class.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Menard",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Paul_menard_%2845866502831%29.jpg/330px-Paul_menard_%2845866502831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1980-08-21",
       "deathDate": null
     },
     "Paul Tibbitt": {
@@ -144261,6 +145660,15 @@
       "birthDate": "1957-03-04",
       "deathDate": null
     },
+    "Rick McCray": {
+      "name": "Rick McCray",
+      "biography": "Rick McCray is an American former professional stock car racing driver who has competed in the NASCAR Winston Cup Series, the NASCAR Craftsman Truck Series, and the NASCAR Winston West Series.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rick_McCray",
+      "photoUrl": null,
+      "birthDate": "1956-06-12",
+      "deathDate": null
+    },
     "Ricky Rudd": {
       "name": "Ricky Rudd",
       "biography": "Richard Lee Rudd, nicknamed \"the Rooster\", is an American former racing driver and racing team owner. He is the uncle of actor Skeet Ulrich and former NASCAR Busch Series driver Jason Rudd. He retired in 2007 with 23 career wins; twenty were done in a span from 1983 to 1998, where he won at least one race in sixteen consecutive seasons, a mark only surpassed by three other drivers. He was named the 2006 Virginian of the Year and was inducted into the Virginia Sports Hall of Fame in 2007. In October 2010, he was selected to the Hampton Roads Sports Hall of Fame, which honors those who have contributed to sports in southeastern Virginia.",
@@ -144268,6 +145676,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Ricky_Rudd",
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ricky_Rudd_2005_Daytona_500_%28cropped%29.jpg/330px-Ricky_Rudd_2005_Daytona_500_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1956-09-12",
+      "deathDate": null
+    },
+    "Ricky Stenhouse Jr": {
+      "name": "Ricky Stenhouse Jr",
+      "biography": "Richard Lynn Stenhouse Jr. is an American professional stock car racing driver. He competes full-time in the NASCAR Cup Series, driving the No. 47 Chevrolet Camaro ZL1 for Hyak Motorsports and part-time in the NASCAR Craftsman Truck Series, driving the No. 4/42/45 Chevrolet Silverado RST for Niece Motorsports. Stenhouse was the 2010 NASCAR Nationwide Series Rookie of the Year, and won back-to-back Nationwide Series championships in 2011 and 2012. Stenhouse was the 2013 NASCAR Sprint Cup Series Rookie of the Year. He is the 2023 Daytona 500 winner.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ricky_Stenhouse_Jr.",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Ricky_Stenhouse_Jr._Las_Vegas_Fall_2026.jpg/330px-Ricky_Stenhouse_Jr._Las_Vegas_Fall_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1987-10-02",
       "deathDate": null
     },
     "Robbie Loomis": {
@@ -144286,6 +145703,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Pressley",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RobertPressley1999_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "birthDate": "1959-04-08",
+      "deathDate": null
+    },
+    "Ron Keselowski": {
+      "name": "Ron Keselowski",
+      "biography": "Ronald William Keselowski is an American former NASCAR Winston Cup driver who raced from 1970 to 1974. He is the uncle of current and retired NASCAR Cup Series drivers Brad and Brian Keselowski along with being the brother of the late NASCAR Craftsman Truck Series driver Bob Keselowski.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ron_Keselowski",
+      "photoUrl": null,
+      "birthDate": "1946-09-12",
       "deathDate": null
     },
     "Ross Chastain": {
@@ -144513,6 +145939,15 @@
       "birthDate": "1968-05-12",
       "deathDate": null
     },
+    "Tony Stewart": {
+      "name": "Tony Stewart",
+      "biography": "Anthony Wayne Stewart, nicknamed \"Smoke\", is an American professional auto racing driver, and former NASCAR team co-owner of Stewart\u2013Haas Racing. He competes in the NHRA Top Fuel class for Elite Motorsports, and part-time in the NASCAR Craftsman Truck Series, driving the No. 25 Ram 1500 for Kaulig Racing. He is a four-time NASCAR Cup Series champion, winning two as a driver, one as owner/driver (2011), and one as an owner (2014).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tony_Stewart",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Tony_Stewart_2026.jpg/330px-Tony_Stewart_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1971-05-20",
+      "deathDate": null
+    },
     "Toto Wolf": {
       "name": "Toto Wolf",
       "biography": "Torger Christian \"Toto\" Wolff is an Austrian motorsport executive, investor and former racing driver. Since 2013, Wolff has served as team principal, CEO and co-owner of Mercedes in Formula One, winning eight consecutive World Constructors' Championship titles from 2014 to 2021; he also served as director and CEO of Mercedes-EQ in Formula E, winning two Formula E World Teams' Championship titles.",
@@ -144538,6 +145973,15 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Trent_Reznor",
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg/330px-Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1965-05-17",
+      "deathDate": null
+    },
+    "Trevor Bayne": {
+      "name": "Trevor Bayne",
+      "biography": "Trevor Mitchell Bayne is an American semi-retired professional stock car racing driver, dirt racing driver, team owner, and businessman. He last competed part-time in the NASCAR Xfinity Series, competing in the No. 24 Toyota GR Supra for Sam Hunt Racing, and part-time in the NASCAR Craftsman Truck Series, driving the No. 1 Toyota Tundra TRD Pro for Tricon Garage. He is also a pit reporter for NASCAR on Prime Video. He is the youngest person to ever win the Daytona 500, the largest event in NASCAR, doing so a day after his twentieth birthday in 2011. The win came in only his second race in NASCAR's top series, and was his only victory in 187 total Cup Series starts.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Trevor_Bayne",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Trevor_Bayne_2017_NASCAR_Media_Tour.jpg/330px-Trevor_Bayne_2017_NASCAR_Media_Tour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": null,
       "deathDate": null
     },
     "Ty Dillon": {
@@ -144614,14 +146058,14 @@
     }
   },
   "stats": {
-    "total_cards": 6447,
-    "signed_cards": 6372,
+    "total_cards": 6500,
+    "signed_cards": 6425,
     "unsigned_cards": 75,
-    "unique_signers": 2404,
+    "unique_signers": 2415,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-18T01:01:32.541732",
+  "export_date": "2026-10-19T14:22:33.252196",
   "version": "3.0"
 }
