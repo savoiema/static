@@ -2,6 +2,348 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6538,
+      "driver_name": "Michael Waltrip",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "6",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:14:51.915895",
+      "date_modified": "2026-10-20 23:14:51.915895",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Michael Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6538_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6537,
+      "driver_name": "Terri O'Connell",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:14:06.582954",
+      "date_modified": "2026-10-20 23:14:06.582954",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Terri O'Connell",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6537_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6536,
+      "driver_name": "Kenny Wallace",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:13:35.470764",
+      "date_modified": "2026-10-20 23:13:35.470764",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Kenny Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6536_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6535,
+      "driver_name": "Brownie King",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-20 23:12:56.099914",
+      "date_modified": "2026-10-20 23:12:56.099914",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brownie King",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6535_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6534,
+      "driver_name": "Walker Evans",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:12:19.912823",
+      "date_modified": "2026-10-20 23:12:19.912823",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Walker Evans",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6534_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6533,
+      "driver_name": "Rusty Wallace",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:11:53.075726",
+      "date_modified": "2026-10-20 23:11:53.075726",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6533_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6532,
+      "driver_name": "Joe Huss",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-20 23:11:35.606358",
+      "date_modified": "2026-10-20 23:11:35.606358",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Joe Huss",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6532_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6531,
+      "driver_name": "Beverly Pridgen",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-20 23:11:09.128031",
+      "date_modified": "2026-10-20 23:11:09.128031",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Beverly Pridgen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6531_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6530,
+      "driver_name": "Carl Cardey",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-20 23:10:04.554954",
+      "date_modified": "2026-10-20 23:10:04.554954",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carl Cardey",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6530_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6529,
+      "driver_name": "Tony Stewart",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 23:09:07.722845",
+      "date_modified": "2026-10-20 23:09:07.722845",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tony Stewart",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6529_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6528,
+      "driver_name": "Mark Martin",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 23:08:46.405261",
+      "date_modified": "2026-10-20 23:08:46.405261",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6528_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6527,
+      "driver_name": "Will Kimmel",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Hero Card",
+      "notes": "",
+      "date_added": "2026-10-20 23:08:18.129431",
+      "date_modified": "2026-10-20 23:08:18.129431",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Will Kimmel",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6527_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6526,
+      "driver_name": "Carl Edwards",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 22:48:36.602629",
+      "date_modified": "2026-10-20 22:48:36.602629",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Carl Edwards",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6526_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6525,
+      "driver_name": "Terry Labonte",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 22:48:14.117868",
+      "date_modified": "2026-10-20 22:48:14.117868",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Terry Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6525_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6524,
+      "driver_name": "Bill of Fare",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 22:47:45.447084",
+      "date_modified": "2026-10-20 22:47:45.447084",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tim Fedewa",
+          "date": null
+        },
+        {
+          "signer": "Tony Stewart",
+          "date": null
+        },
+        {
+          "signer": "Jason Leffler",
+          "date": null
+        },
+        {
+          "signer": "Jerry Nadeau",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6524_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6523,
       "driver_name": "Jack Sprague",
       "year": null,
@@ -2000,15 +2342,11 @@ const collectionData = {
       "item_type": "Card",
       "notes": "",
       "date_added": "2026-10-16 22:14:48.378859",
-      "date_modified": "2026-10-16 22:14:48.378859",
+      "date_modified": "2026-10-20 23:17:03.180099",
       "authenticated": false,
       "signatures_list": [
         {
           "signer": "Dale Earnhardt",
-          "date": null
-        },
-        {
-          "signer": "Dale Earnhardt Jr",
           "date": null
         }
       ],
@@ -146152,15 +146490,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6503,
-    "signed_cards": 6428,
+    "total_cards": 6518,
+    "signed_cards": 6443,
     "unsigned_cards": 75,
-    "unique_signers": 2415,
+    "unique_signers": 2419,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-20T21:49:14.855619",
+  "export_date": "2026-10-20T23:18:36.864195",
   "version": "3.0"
 };
 
