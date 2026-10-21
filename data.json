@@ -1,6 +1,94 @@
 {
   "cards": [
     {
+      "id": 6540,
+      "driver_name": "Busch",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 23:49:06.609738",
+      "date_modified": "2026-10-21 00:01:51.002217",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Unknown",
+          "date": null
+        },
+        {
+          "signer": "John Andretti",
+          "date": null
+        },
+        {
+          "signer": "Kyle Busch",
+          "date": null
+        },
+        {
+          "signer": "Jason Leffler",
+          "date": null
+        },
+        {
+          "signer": "David Green",
+          "date": null
+        },
+        {
+          "signer": "Unknown",
+          "date": null
+        },
+        {
+          "signer": "Unknown",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6540_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6539,
+      "driver_name": "AMD",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 23:43:38.247596",
+      "date_modified": "2026-10-20 23:43:38.247596",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Unknown",
+          "date": null
+        },
+        {
+          "signer": "Kevin Harvick",
+          "date": null
+        },
+        {
+          "signer": "Carl Edwards",
+          "date": null
+        },
+        {
+          "signer": "Boris Said",
+          "date": null
+        },
+        {
+          "signer": "Matt Kenseth",
+          "date": null
+        },
+        {
+          "signer": "Denny Hamlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6539_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6538,
       "driver_name": "Michael Waltrip",
       "year": null,
@@ -146489,14 +146577,14 @@
     }
   },
   "stats": {
-    "total_cards": 6518,
-    "signed_cards": 6443,
+    "total_cards": 6520,
+    "signed_cards": 6445,
     "unsigned_cards": 75,
-    "unique_signers": 2419,
+    "unique_signers": 2420,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-20T23:18:36.864195",
+  "export_date": "2026-10-21T00:03:52.182556",
   "version": "3.0"
 }
