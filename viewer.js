@@ -2,6 +2,72 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6523,
+      "driver_name": "Jack Sprague",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 21:35:01.671124",
+      "date_modified": "2026-10-20 21:35:01.671124",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jack Sprague",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6523_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6522,
+      "driver_name": "Jeff Gordon",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "11",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 21:33:44.664238",
+      "date_modified": "2026-10-20 21:33:44.664238",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeff Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6522_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6521,
+      "driver_name": "Dale Jarrett",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-20 21:33:16.651843",
+      "date_modified": "2026-10-20 21:33:16.651843",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Jarrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6521_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6520,
       "driver_name": "Dale Earnhardt Jr",
       "year": null,
@@ -25,7 +91,7 @@ const collectionData = {
     },
     {
       "id": 6519,
-      "driver_name": "Bob Livingston",
+      "driver_name": "Ed Livingston",
       "year": null,
       "manufacturer": "",
       "series": "",
@@ -34,11 +100,11 @@ const collectionData = {
       "item_type": "Photo",
       "notes": "",
       "date_added": "2026-10-19 14:20:20.702953",
-      "date_modified": "2026-10-19 14:20:20.702953",
+      "date_modified": "2026-10-20 21:30:03.165617",
       "authenticated": false,
       "signatures_list": [
         {
-          "signer": "Bob Livingston",
+          "signer": "Ed Livingston",
           "date": null
         }
       ],
@@ -144032,6 +144098,15 @@ const collectionData = {
       "birthDate": "1960-09-08",
       "deathDate": null
     },
+    "Akihi Nakaya": {
+      "name": "Akihi Nakaya",
+      "biography": "Akihiko Nakaya  is a successful racing driver in the Japanese Touring Car Championship and F3000, as well as regular presenter on the Japanese motoring show Best Motoring. Nakaya offered a distinctively analytical approach to reviewing cars on the show, providing detailed analyses of various vehicle components and explaining certain driving styles that were best suited to their characteristics. He was a regular driver of Mitsubishi Lancer Evolutions during Best Motoring races involving the I, II, III, IV, V, VI, VII, and VIII of the car, often recording lap times significantly quicker than other drivers of the same vehicle.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akihiko_Nakaya",
+      "photoUrl": null,
+      "birthDate": "1957-11-03",
+      "deathDate": null
+    },
     "Al Jefferson": {
       "name": "Al Jefferson",
       "biography": "Al Ricardo Jefferson is an American former professional basketball player. A center/power forward, he was a high school All-American for Prentiss High School in Mississippi before skipping college to enter the 2004 NBA draft, where he was drafted 15th overall by the Boston Celtics. He played 14 seasons in the National Basketball Association (NBA) for the Celtics, Minnesota Timberwolves, Utah Jazz, Charlotte Hornets and Indiana Pacers, earning third-team All-NBA honors in 2014 with the Hornets.",
@@ -144265,6 +144340,15 @@ const collectionData = {
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Buck_Owens.jpg/330px-Buck_Owens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1929-08-12",
       "deathDate": "2006-03-25"
+    },
+    "Buzz Aldrin": {
+      "name": "Buzz Aldrin",
+      "biography": "Buzz Aldrin is an American former astronaut, aeronautical engineer, and fighter pilot. He was the second person to walk on the Moon after mission commander Neil Armstrong. He made three spacewalks as pilot of NASA\u2019s 1966 Gemini 12 mission, and was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission. Following the deaths of Armstrong in 2012 and pilot Michael Collins in 2021, Aldrin is the last surviving Apollo 11 crew member, and the oldest living astronaut.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Buzz_Aldrin",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/330px-Buzz_Aldrin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1930-01-20",
+      "deathDate": null
     },
     "Caitlyn Jenner": {
       "name": "Caitlyn Jenner",
@@ -145859,6 +145943,15 @@ const collectionData = {
       "birthDate": "1955-01-17",
       "deathDate": null
     },
+    "Ted Musgrave": {
+      "name": "Ted Musgrave",
+      "biography": "Theodore David Musgrave Sr. is an American former stock car racing driver.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ted_Musgrave",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ted_Musgrave_1998.jpg/330px-Ted_Musgrave_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1955-12-18",
+      "deathDate": null
+    },
     "Ted Turner": {
       "name": "Ted Turner",
       "biography": "Robert Edward Turner III was an American businessman, television producer, media proprietor, and philanthropist. He founded CNN, the first 24-hour cable news channel, and WTBS, which pioneered the superstation concept in cable television. Turner also founded the television networks TNT, TBS, The Cartoon Network, Inc., and Turner Classic Movies, and acquired professional wrestling company Jim Crockett Promotions, which became the basis of the promotion World Championship Wrestling (WCW).",
@@ -146059,15 +146152,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6500,
-    "signed_cards": 6425,
+    "total_cards": 6503,
+    "signed_cards": 6428,
     "unsigned_cards": 75,
     "unique_signers": 2415,
     "unique_disciplines": 17,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-19T14:22:33.252196",
+  "export_date": "2026-10-20T21:49:14.855619",
   "version": "3.0"
 };
 
