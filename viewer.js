@@ -2,6 +2,336 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6570,
+      "driver_name": "Joe Bessey",
+      "year": 1993,
+      "manufacturer": "Wheels",
+      "series": "",
+      "card_number": "41",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:30:10.078369",
+      "date_modified": "2026-10-22 22:30:10.078369",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Joe Bessey",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6570_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6569,
+      "driver_name": "Jeff Gordon",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Special Edition",
+      "card_number": "15",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:29:45.962036",
+      "date_modified": "2026-10-22 22:29:45.962036",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeff Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6569_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6568,
+      "driver_name": "D.K. Ulrich",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "120",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:28:30.579637",
+      "date_modified": "2026-10-22 22:28:44.643648",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "D.K. Ulrich",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6568_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6567,
+      "driver_name": "Tracy Leslie",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "72",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:27:48.847738",
+      "date_modified": "2026-10-22 22:27:48.847738",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tracy Leslie",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6567_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6566,
+      "driver_name": "Bill Sedgewick",
+      "year": 1992,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "56",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:26:45.709047",
+      "date_modified": "2026-10-22 22:26:45.709047",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bill Sedgewick",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6566_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6565,
+      "driver_name": "Wally Dallenbach Sr",
+      "year": 1992,
+      "manufacturer": "AW Sports",
+      "series": "",
+      "card_number": "57",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:25:49.221018",
+      "date_modified": "2026-10-22 22:25:49.221018",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Wally Dallenbach Sr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6565_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6564,
+      "driver_name": "Art Tappen",
+      "year": 1991,
+      "manufacturer": "Winner's Choice",
+      "series": "",
+      "card_number": "115",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:23:31.168391",
+      "date_modified": "2026-10-22 22:23:31.168391",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Art Tappen",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6564_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6563,
+      "driver_name": "Richard Yates",
+      "year": 1991,
+      "manufacturer": "Traks",
+      "series": "",
+      "card_number": "31",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:22:28.963328",
+      "date_modified": "2026-10-22 22:22:28.963328",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Richard Yates",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6563_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6562,
+      "driver_name": "Renee White",
+      "year": 1991,
+      "manufacturer": "Pro Set",
+      "series": "",
+      "card_number": "125",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:21:33.205294",
+      "date_modified": "2026-10-22 22:21:33.205294",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Renee White",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6562_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6561,
+      "driver_name": "Jimmy Horton",
+      "year": 1992,
+      "manufacturer": "Pro Set",
+      "series": "",
+      "card_number": "218",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:20:00.756632",
+      "date_modified": "2026-10-22 22:20:00.756632",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jimmy Horton",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6561_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6560,
+      "driver_name": "Race #1 daytona",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "170",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:18:21.596535",
+      "date_modified": "2026-10-22 22:18:21.596535",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Derrike Cope",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6560_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6559,
+      "driver_name": "Rusty Wallace",
+      "year": 1990,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "198",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:16:03.124451",
+      "date_modified": "2026-10-22 22:16:03.124451",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6559_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6558,
+      "driver_name": "J.D. McDuffie",
+      "year": 1988,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:14:30.081295",
+      "date_modified": "2026-10-22 22:14:30.081295",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "J.D. McDuffie",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6558_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6557,
+      "driver_name": "Fred Harb",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:13:37.574238",
+      "date_modified": "2026-10-22 22:13:37.574238",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Fred Harb",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6557_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6556,
+      "driver_name": "Ricky Case",
+      "year": 1994,
+      "manufacturer": "",
+      "series": "Alliance Racing Team",
+      "card_number": "3",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-22 22:12:38.546448",
+      "date_modified": "2026-10-22 22:12:38.546448",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Case",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6556_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6555,
       "driver_name": "Isack Hadjar",
       "year": null,
@@ -145260,6 +145590,15 @@ const collectionData = {
       "birthDate": null,
       "deathDate": null
     },
+    "D.K. Ulrich": {
+      "name": "D.K. Ulrich",
+      "biography": "Donald Keith Ulrich is an American former driver/owner in the NASCAR Winston Cup Series. As a driver, he had sixteen top-ten finishes in 273 starts. His last race came in 1992.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/D._K._Ulrich",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/DKUlrich6racecar1983.jpg/330px-DKUlrich6racecar1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1944-04-10",
+      "deathDate": null
+    },
     "Dale Earnhardt": {
       "name": "Dale Earnhardt",
       "biography": "Ralph Dale Earnhardt was an American professional stock car driver and racing team owner, who raced from 1975 to 2001 in the former NASCAR Winston Cup Series, most notably driving the No.\u00a03 Chevrolet for Richard Childress Racing. His aggressive driving style earned him the nicknames \"the Intimidator\", \"the Man in Black\" and \"Ironhead\"; after his son Dale Earnhardt Jr. joined the Cup Series circuit in 1999, Earnhardt was generally known by the retronyms Dale Earnhardt Sr. and Dale Sr. He is widely regarded as one of the greatest drivers in NASCAR history and was named as one of the NASCAR's 50 Greatest Drivers class in 1998.",
@@ -146871,6 +147210,15 @@ const collectionData = {
       "birthDate": "1961-02-08",
       "deathDate": null
     },
+    "Wally Dallenbach Sr": {
+      "name": "Wally Dallenbach Sr",
+      "biography": "Wallace Jacob Dallenbach was an American racing driver and official. He competed primarily in United States Auto Club (USAC) sanctioned Championship cars, and was the winner of the 1973 California 500. After retiring from driving, he served for more than 20 years as Chief Steward of Competition for Championship Auto Racing Teams (CART).",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wally_Dallenbach_Sr.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Wally_Dallenbach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "birthDate": "1936-12-12",
+      "deathDate": "2024-04-29"
+    },
     "Walter R\u00f6hrl": {
       "name": "Walter R\u00f6hrl",
       "biography": "Walter R\u00f6hrl is a German rally and auto racing driver, with victories for Fiat, Opel, Lancia and Audi as well as Porsche, Ford and BMW. R\u00f6hrl had 14 victories over his career, with his notable achievements including winning the World Rally Championship twice: in 1980 with a Fiat 131 Abarth and in 1982 while driving for Opel with the Ascona 400. He has also competed in other forms of motorsport, such as endurance racing, winning the GTP +3.0 class at the 24 Hours of Le Mans in 1981 with the Porsche System team. R\u00f6hrl also set the Pikes Peak International Hill Climb record in 1987, driving an Audi Sport Quattro S1 E2. He is often regarded as one of the greatest rally drivers of all time.",
@@ -146927,15 +147275,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6535,
-    "signed_cards": 6460,
+    "total_cards": 6550,
+    "signed_cards": 6475,
     "unsigned_cards": 75,
-    "unique_signers": 2426,
+    "unique_signers": 2429,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-22T21:51:40.251946",
+  "export_date": "2026-10-23T00:20:26.191703",
   "version": "3.0"
 };
 
