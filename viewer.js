@@ -2,6 +2,340 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6555,
+      "driver_name": "Isack Hadjar",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:50:24.107240",
+      "date_modified": "2026-10-22 21:50:24.107240",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Isack Hadjar",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6555_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6554,
+      "driver_name": "Isack Hadjar",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:50:13.131546",
+      "date_modified": "2026-10-22 21:50:13.131546",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Isack Hadjar",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6554_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6553,
+      "driver_name": "Mike Ditka",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "4",
+      "discipline": "Football",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:49:24.811283",
+      "date_modified": "2026-10-22 21:49:24.811283",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Ditka",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6553_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6552,
+      "driver_name": "Mike Ditka",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "3",
+      "discipline": "Football",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:49:15.495546",
+      "date_modified": "2026-10-22 21:49:15.495546",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Ditka",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6552_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6551,
+      "driver_name": "Mike Ditka",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Football",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:49:04.136806",
+      "date_modified": "2026-10-22 21:49:04.136806",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Ditka",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6551_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6550,
+      "driver_name": "Mike Ditka",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Football",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:48:52.751115",
+      "date_modified": "2026-10-22 21:48:52.751115",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mike Ditka",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6550_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6549,
+      "driver_name": "Alex Zanardi",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:48:24.646403",
+      "date_modified": "2026-10-22 21:48:24.646403",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Alex Zanardi",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6549_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6548,
+      "driver_name": "Dale Earnhardt / Bobby Labonte",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Magazine cutout",
+      "notes": "",
+      "date_added": "2026-10-22 21:47:46.842345",
+      "date_modified": "2026-10-22 21:47:46.842345",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        },
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6548_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6547,
+      "driver_name": "Larry Hankin",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Actor",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:46:48.724751",
+      "date_modified": "2026-10-22 21:46:48.724751",
+      "authenticated": true,
+      "signatures_list": [
+        {
+          "signer": "Larry Hankin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6547_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6546,
+      "driver_name": "Chris Hadfield",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Astronaut",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:45:35.533145",
+      "date_modified": "2026-10-22 21:45:35.533145",
+      "authenticated": true,
+      "signatures_list": [
+        {
+          "signer": "Chris Hadfield",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6546_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6545,
+      "driver_name": "Romain Grosjean",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:43:37.570604",
+      "date_modified": "2026-10-22 21:43:37.570604",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Romain Grosjean",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6545_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6544,
+      "driver_name": "Romain Grosjean",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:43:23.139959",
+      "date_modified": "2026-10-22 21:43:23.139959",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Romain Grosjean",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6544_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6543,
+      "driver_name": "Sabine Schmitz",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Formula 1",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:42:46.932310",
+      "date_modified": "2026-10-22 21:42:46.932310",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Sabine Schmitz",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6543_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6542,
+      "driver_name": "Erling Haaland",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "2",
+      "discipline": "Soccer",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:41:54.202760",
+      "date_modified": "2026-10-22 21:41:54.202760",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Erling Haaland",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6542_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6541,
+      "driver_name": "Erling Haaland",
+      "year": null,
+      "manufacturer": "",
+      "series": "",
+      "card_number": "1",
+      "discipline": "Soccer",
+      "item_type": "Photo",
+      "notes": "",
+      "date_added": "2026-10-22 21:41:29.072637",
+      "date_modified": "2026-10-22 21:41:29.072637",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Erling Haaland",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6541_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6540,
       "driver_name": "Busch",
       "year": null,
@@ -144417,6 +144751,12 @@ const collectionData = {
       "name": "Astronaut",
       "sort_order": 16,
       "date_added": "2026-06-25 21:02:39.003365"
+    },
+    {
+      "id": 18,
+      "name": "Soccer",
+      "sort_order": 17,
+      "date_added": "2026-10-22 21:41:10.234091"
     }
   ],
   "item_types": [
@@ -145224,6 +145564,15 @@ const collectionData = {
       "sourceUrl": "https://en.wikipedia.org/wiki/Erin_Crocker",
       "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ErinCrockerDaytona2008.jpg/330px-ErinCrockerDaytona2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "birthDate": "1981-03-23",
+      "deathDate": null
+    },
+    "Erling Haaland": {
+      "name": "Erling Haaland",
+      "biography": "Erling Braut Haaland is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Widely regarded as one of the best players in the world and the greatest Norwegian player of all time, he is known for his speed, strength, positioning, and finishing ability, especially from inside the penalty area.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Erling_Haaland",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/330px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "2000-07-21",
       "deathDate": null
     },
     "Fernando Alonso": {
@@ -146578,15 +146927,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6520,
-    "signed_cards": 6445,
+    "total_cards": 6535,
+    "signed_cards": 6460,
     "unsigned_cards": 75,
-    "unique_signers": 2420,
-    "unique_disciplines": 17,
+    "unique_signers": 2426,
+    "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-21T00:03:52.182556",
+  "export_date": "2026-10-22T21:51:40.251946",
   "version": "3.0"
 };
 
