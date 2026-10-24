@@ -4,10 +4,10 @@ A clean, optimized view-only interface for your card collection.
 
 ## 📊 Collection Information
 
-- **Export Date**: 2026-10-23T00:20:26.191703
-- **Total Cards**: 6550
-- **Signed Cards**: 6475
-- **Unique Signers**: 2429
+- **Export Date**: 2026-10-24T10:58:31.626677
+- **Total Cards**: 6575
+- **Signed Cards**: 6499
+- **Unique Signers**: 2430
 - **Disciplines**: 18
 
 ## 🚀 How to Use
