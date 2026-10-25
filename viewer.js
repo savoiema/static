@@ -2,6 +2,556 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6620,
+      "driver_name": "Bobby Hamilton",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "17",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:26:27.479896",
+      "date_modified": "2026-10-25 10:26:27.479896",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Hamilton",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6620_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6619,
+      "driver_name": "Mark Martin",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "16",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:25:56.921613",
+      "date_modified": "2026-10-25 10:25:56.921613",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6619_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6618,
+      "driver_name": "Terry Labonte",
+      "year": 1997,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "5",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:25:12.381793",
+      "date_modified": "2026-10-25 10:25:12.381793",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Terry Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6618_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6617,
+      "driver_name": "Lake Speed",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "83",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:24:25.670541",
+      "date_modified": "2026-10-25 10:24:25.670541",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Lake Speed",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6617_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6616,
+      "driver_name": "Bobby Hillin Jr",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "82",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:23:13.698933",
+      "date_modified": "2026-10-25 10:23:46.382413",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Hillin Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6616_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6615,
+      "driver_name": "Wally Dallenbach Jr",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "80",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:22:37.437890",
+      "date_modified": "2026-10-25 10:22:37.437890",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Wally Dallenbach Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6615_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6614,
+      "driver_name": "Brett Bodine",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "76",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:21:59.194214",
+      "date_modified": "2026-10-25 10:21:59.194214",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brett Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6614_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6613,
+      "driver_name": "Bobby Labonte",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "74",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:20:39.824264",
+      "date_modified": "2026-10-25 10:20:39.824264",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6613_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6612,
+      "driver_name": "Brett Bodine",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "73",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:18:05.530539",
+      "date_modified": "2026-10-25 10:18:05.530539",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brett Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6612_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6611,
+      "driver_name": "Geoff Bodine",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "67",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:17:27.470986",
+      "date_modified": "2026-10-25 10:17:27.470986",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Geoff Bodine",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6611_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6610,
+      "driver_name": "Jeff Burton",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "66",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:16:17.392791",
+      "date_modified": "2026-10-25 10:16:17.392791",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeff Burton",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6610_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6609,
+      "driver_name": "Harry Gant",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "60",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:14:51.235288",
+      "date_modified": "2026-10-25 10:14:51.235288",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Harry Gant",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6609_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6608,
+      "driver_name": "Ricky Rudd",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "59",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:12:58.489094",
+      "date_modified": "2026-10-25 10:12:58.489094",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6608_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6607,
+      "driver_name": "Mark Martin",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "35",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:12:10.951118",
+      "date_modified": "2026-10-25 10:12:10.951118",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6607_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6606,
+      "driver_name": "Dale Earnhardt",
+      "year": 1994,
+      "manufacturer": "maxx",
+      "series": "Premier Plus",
+      "card_number": "23",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:10:54.225236",
+      "date_modified": "2026-10-25 10:10:54.225236",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6606_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6605,
+      "driver_name": "Kenny Wallace",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "177",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:09:01.263791",
+      "date_modified": "2026-10-25 10:09:01.263791",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Kenny Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6605_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6604,
+      "driver_name": "Jeff Gordon",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "168",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:08:18.212932",
+      "date_modified": "2026-10-25 10:08:18.212932",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeff Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6604_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6603,
+      "driver_name": "Ricky Rudd",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "150",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:07:18.845765",
+      "date_modified": "2026-10-25 10:07:18.845765",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6603_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6602,
+      "driver_name": "Davey Allison",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "121",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:05:37.637413",
+      "date_modified": "2026-10-25 10:05:59.223732",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Robert Yates",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6602_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6601,
+      "driver_name": "Bobby Labonte",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "113",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:04:10.036745",
+      "date_modified": "2026-10-25 10:04:10.036745",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6601_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6600,
+      "driver_name": "Bobby Hamilton",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "97",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:02:34.328755",
+      "date_modified": "2026-10-25 10:03:01.109299",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Hamilton",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6600_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6599,
+      "driver_name": "Mark Martin",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "85",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:01:30.487399",
+      "date_modified": "2026-10-25 10:01:30.487399",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Mark Martin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6599_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6598,
+      "driver_name": "Dale Earnhardt",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "56",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 10:00:18.116628",
+      "date_modified": "2026-10-25 10:00:18.116628",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6598_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6597,
+      "driver_name": "Bill Elliott",
+      "year": 1993,
+      "manufacturer": "maxx",
+      "series": "Premier",
+      "card_number": "37",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 09:59:25.471773",
+      "date_modified": "2026-10-25 09:59:25.471773",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bill Elliott",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6597_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6596,
+      "driver_name": "Kyle Petty",
+      "year": 1999,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "NC5",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-25 09:55:23.250069",
+      "date_modified": "2026-10-25 09:55:23.250069",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Lynda Petty",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6596_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6595,
       "driver_name": "David Rogers",
       "year": 1998,
@@ -146459,6 +147009,15 @@ const collectionData = {
       "birthDate": "2000-07-21",
       "deathDate": null
     },
+    "Ernie Irvan": {
+      "name": "Ernie Irvan",
+      "biography": "Virgil Earnest Irvan, occasionally referred to as Swervin' Irvan, is an American former professional stock car racing driver. A retired NASCAR competitor, he is perhaps best remembered for his comeback after a serious head injury suffered from a crash during practice at Michigan International Speedway in 1994 that left him with only a 10% chance of survival. Irvan has been inducted into numerous halls of fame and was named one of NASCAR's 50 Greatest Drivers in 1998. After a series of injuries in the late 1990s, he retired from racing in 1999.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ernie_Irvan",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/ErnieIrvan1997.jpg/330px-ErnieIrvan1997.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1959-01-13",
+      "deathDate": null
+    },
     "Fernando Alonso": {
       "name": "Fernando Alonso",
       "biography": "Fernando Alonso D\u00edaz is a Spanish racing driver who competes in Formula One for Aston Martin. Alonso has won two Formula One World Drivers' Championship titles, which he won in 2005 and 2006 with Renault, and has won 32 Grands Prix across 23 seasons. In endurance racing, Alonso won the 2018\u201319 FIA World Endurance Championship and is a two-time winner of the 24 Hours of Le Mans with Toyota as well as a winner of the 24 Hours of Daytona in 2019 with WTR. He is the only driver to have won both the Formula One World Drivers' Championship and the World Sportscar/World Endurance Drivers' Championship.",
@@ -147368,6 +147927,15 @@ const collectionData = {
       "birthDate": "1975-06-30",
       "deathDate": null
     },
+    "Randy Lajoie": {
+      "name": "Randy Lajoie",
+      "biography": "Randall Joseph LaJoie is an American former stock car racing driver and businessman. He won the championship in 1996 and 1997. He is the father of NASCAR driver Corey LaJoie and owns The Joie of Seating.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Randy_LaJoie",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Randy_LaJoie.jpg/330px-Randy_LaJoie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1961-08-28",
+      "deathDate": null
+    },
     "Regi Jackson": {
       "name": "Regi Jackson",
       "biography": "Reginald Martinez Jackson is an American former professional baseball right fielder who played 21 seasons in Major League Baseball (MLB) for the Kansas City / Oakland Athletics, Baltimore Orioles, New York Yankees, and California Angels. Jackson was inducted into the National Baseball Hall of Fame in 1993 in his first year of eligibility.",
@@ -147755,6 +148323,15 @@ const collectionData = {
       "birthDate": "1961-02-08",
       "deathDate": null
     },
+    "Wally Dallenbach": {
+      "name": "Wally Dallenbach",
+      "biography": "Wallace Paul Dallenbach is an American former racing driver. He competed in the NASCAR Cup Series, and is known for his prowess as a road racer. In addition to NASCAR, Dallenbach has raced in SCCA Trans-Am, IMSA Camel GT, CART, and the Pikes Peak International Hill Climb.",
+      "bioSource": "wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wally_Dallenbach_Jr.",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nascarphx32.jpg/330px-Nascarphx32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "birthDate": "1963-05-23",
+      "deathDate": null
+    },
     "Wally Dallenbach Sr": {
       "name": "Wally Dallenbach Sr",
       "biography": "Wallace Jacob Dallenbach was an American racing driver and official. He competed primarily in United States Auto Club (USAC) sanctioned Championship cars, and was the winner of the 1973 California 500. After retiring from driving, he served for more than 20 years as Chief Steward of Competition for Championship Auto Racing Teams (CART).",
@@ -147820,15 +148397,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6575,
-    "signed_cards": 6499,
+    "total_cards": 6600,
+    "signed_cards": 6524,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-24T10:58:31.626677",
+  "export_date": "2026-10-25T10:27:17.613872",
   "version": "3.0"
 };
 
