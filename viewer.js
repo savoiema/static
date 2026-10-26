@@ -2,6 +2,226 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6630,
+      "driver_name": "Ricky Rudd",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "38",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:44:15.856987",
+      "date_modified": "2026-10-26 09:44:15.856987",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Rudd",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6630_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6629,
+      "driver_name": "Dale Jarrett",
+      "year": 2000,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "34",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:43:45.327326",
+      "date_modified": "2026-10-26 09:43:45.327326",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Jarrett",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6629_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6628,
+      "driver_name": "Elliott Sadler",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "11",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:42:11.010004",
+      "date_modified": "2026-10-26 09:42:11.010004",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Elliott Sadler",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6628_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6627,
+      "driver_name": "Ernie Irvan",
+      "year": 1999,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "74",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:40:40.954268",
+      "date_modified": "2026-10-26 09:40:40.954268",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ernie Irvan",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6627_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6626,
+      "driver_name": "Jeremy Mayfield",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "47",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:40:14.871294",
+      "date_modified": "2026-10-26 09:40:14.871294",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeremy Mayfield",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6626_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6625,
+      "driver_name": "Hermie Sadler",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "46",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:38:45.122126",
+      "date_modified": "2026-10-26 09:38:45.122126",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Hermie Sadler",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6625_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6624,
+      "driver_name": "Bobby Labonte",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "44",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:38:24.182135",
+      "date_modified": "2026-10-26 09:38:24.182135",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bobby Labonte",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6624_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6623,
+      "driver_name": "Randy Lajoie",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "34",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:37:25.139479",
+      "date_modified": "2026-10-26 09:37:25.139479",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Randy Lajoie",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6623_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6622,
+      "driver_name": "Sterling Marlin",
+      "year": 1999,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "24",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:36:09.603190",
+      "date_modified": "2026-10-26 09:36:09.603190",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Sterling Marlin",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6622_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6621,
+      "driver_name": "Johnny Benson",
+      "year": 1999,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "18",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-10-26 09:35:38.017915",
+      "date_modified": "2026-10-26 09:35:38.017915",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Johnny Benson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6621_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6620,
       "driver_name": "Bobby Hamilton",
       "year": 1999,
@@ -148397,15 +148617,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6600,
-    "signed_cards": 6524,
+    "total_cards": 6610,
+    "signed_cards": 6534,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-25T10:27:17.613872",
+  "export_date": "2026-10-26T09:45:18.901569",
   "version": "3.0"
 };
 
