@@ -2,6 +2,72 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6633,
+      "driver_name": "Jason Keller",
+      "year": 2000,
+      "manufacturer": "Upper Deck",
+      "series": "",
+      "card_number": "61",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-02 18:33:33.244472",
+      "date_modified": "2026-11-02 18:33:33.244472",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jason Keller",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6633_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6632,
+      "driver_name": "Matt Kenseth",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "Premium",
+      "card_number": "55",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-02 18:32:40.914379",
+      "date_modified": "2026-11-02 18:32:40.914379",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Matt Kenseth",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6632_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6631,
+      "driver_name": "Ken Schrader",
+      "year": 2000,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "50",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-02 18:31:42.700874",
+      "date_modified": "2026-11-02 18:31:42.700874",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ken Schrader",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6631_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6630,
       "driver_name": "Ricky Rudd",
       "year": 2000,
@@ -148617,15 +148683,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6610,
-    "signed_cards": 6534,
+    "total_cards": 6613,
+    "signed_cards": 6537,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-10-26T09:45:18.901569",
+  "export_date": "2026-11-02T20:04:34.145311",
   "version": "3.0"
 };
 
