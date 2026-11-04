@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6634,
+      "driver_name": "Michael Waltrip",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "VIP",
+      "card_number": "19",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-03 20:27:31.737183",
+      "date_modified": "2026-11-03 20:27:31.737183",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Michael Waltrip",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6634_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6633,
       "driver_name": "Jason Keller",
       "year": 2000,
@@ -148682,14 +148704,14 @@
     }
   },
   "stats": {
-    "total_cards": 6613,
-    "signed_cards": 6537,
+    "total_cards": 6614,
+    "signed_cards": 6538,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-02T20:04:34.145311",
+  "export_date": "2026-11-03T20:28:11.031222",
   "version": "3.0"
 }
