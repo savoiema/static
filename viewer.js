@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6635,
+      "driver_name": "Steve Park",
+      "year": 1988,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "90",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-04 22:03:45.095021",
+      "date_modified": "2026-11-04 22:03:45.095021",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Steve Park",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6635_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6634,
       "driver_name": "Michael Waltrip",
       "year": 2001,
@@ -148705,15 +148727,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6614,
-    "signed_cards": 6538,
+    "total_cards": 6615,
+    "signed_cards": 6539,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-03T20:28:11.031222",
+  "export_date": "2026-11-04T22:04:18.304484",
   "version": "3.0"
 };
 
