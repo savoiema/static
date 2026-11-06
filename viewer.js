@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6636,
+      "driver_name": "Rusty Wallace",
+      "year": 2001,
+      "manufacturer": "Press Pass",
+      "series": "Trackside",
+      "card_number": "RG 3",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-05 23:45:35.806953",
+      "date_modified": "2026-11-05 23:45:35.806953",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Rusty Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6636_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6635,
       "driver_name": "Steve Park",
       "year": 1988,
@@ -148727,15 +148749,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6615,
-    "signed_cards": 6539,
+    "total_cards": 6616,
+    "signed_cards": 6540,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-04T22:04:18.304484",
+  "export_date": "2026-11-05T23:46:23.460372",
   "version": "3.0"
 };
 
