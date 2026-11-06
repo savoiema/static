@@ -2,6 +2,28 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6637,
+      "driver_name": "David Stremme",
+      "year": 2005,
+      "manufacturer": "Press Pass",
+      "series": "Stealth",
+      "card_number": "66",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-06 13:12:39.773420",
+      "date_modified": "2026-11-06 13:12:39.773420",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "David Stremme",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6637_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6636,
       "driver_name": "Rusty Wallace",
       "year": 2001,
@@ -148749,15 +148771,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6616,
-    "signed_cards": 6540,
+    "total_cards": 6617,
+    "signed_cards": 6541,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-05T23:46:23.460372",
+  "export_date": "2026-11-06T13:19:21.314396",
   "version": "3.0"
 };
 
