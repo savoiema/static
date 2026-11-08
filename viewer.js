@@ -2,6 +2,358 @@
 const collectionData = {
   "cards": [
     {
+      "id": 6654,
+      "driver_name": "Dale Earnhardt Jr",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "195",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:52:05.613495",
+      "date_modified": "2026-11-07 22:52:05.613495",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Dale Earnhardt Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6654_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6653,
+      "driver_name": "Jimmy Johnson",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "149",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:51:42.627389",
+      "date_modified": "2026-11-07 22:51:42.627389",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jimmy Johnson",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6653_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6652,
+      "driver_name": "John Hunter Nemechek",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "96",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:51:09.296739",
+      "date_modified": "2026-11-07 22:51:09.296739",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "John Hunter Nemechek",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6652_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6651,
+      "driver_name": "Bubba Wallace",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "90",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:50:16.533689",
+      "date_modified": "2026-11-07 22:50:16.533689",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Bubba Wallace",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6651_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6650,
+      "driver_name": "Alex Bowman",
+      "year": 2022,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "42",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:49:10.108870",
+      "date_modified": "2026-11-07 22:49:10.108870",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Alex Bowman",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6650_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6649,
+      "driver_name": "Jeremy Clements",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "89",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:48:30.240396",
+      "date_modified": "2026-11-07 22:48:30.240396",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Jeremy Clements",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6649_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6648,
+      "driver_name": "Joe Graf Jr",
+      "year": 2021,
+      "manufacturer": "Panini - Donrus",
+      "series": "Optic",
+      "card_number": "61",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:47:59.307390",
+      "date_modified": "2026-11-07 22:47:59.307390",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Joe Graf Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6648_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6647,
+      "driver_name": "Landon Cassill",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "149",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:46:21.290858",
+      "date_modified": "2026-11-07 22:46:21.290858",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Landon Cassill",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6647_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6646,
+      "driver_name": "Matt Tifft",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "",
+      "card_number": "80",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:45:38.642770",
+      "date_modified": "2026-11-07 22:45:38.642770",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Matt Tifft",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6646_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6645,
+      "driver_name": "Tony Stewart",
+      "year": 2018,
+      "manufacturer": "Panini - Donrus",
+      "series": "Race Kings",
+      "card_number": "1",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:44:34.810185",
+      "date_modified": "2026-11-07 22:44:34.810185",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Tony Stewart",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6645_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6644,
+      "driver_name": "Ricky Stenhouse Jr",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "60",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:44:03.044421",
+      "date_modified": "2026-11-07 22:44:03.044421",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Ricky Stenhouse Jr",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6644_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6643,
+      "driver_name": "Robby Gordon",
+      "year": 2010,
+      "manufacturer": "Wheels",
+      "series": "Element",
+      "card_number": "35",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:43:10.735271",
+      "date_modified": "2026-11-07 22:43:10.735271",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Robby Gordon",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6643_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6642,
+      "driver_name": "Race #12 sears point",
+      "year": 1991,
+      "manufacturer": "maxx",
+      "series": "",
+      "card_number": "182",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:42:28.748406",
+      "date_modified": "2026-11-07 22:42:28.748406",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Race #12 sears point",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6642_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6641,
+      "driver_name": "Brendan Gaughan",
+      "year": 2009,
+      "manufacturer": "Wheels",
+      "series": "",
+      "card_number": "",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:41:10.623704",
+      "date_modified": "2026-11-07 22:41:10.623704",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Brendan Gaughan",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6641_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6640,
+      "driver_name": "Stephen Leicht",
+      "year": 2007,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "44",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:40:02.954272",
+      "date_modified": "2026-11-07 22:40:02.954272",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Stephen Leicht",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6640_front.jpg",
+      "image_back_file": null
+    },
+    {
+      "id": 6639,
+      "driver_name": "Rick Crawford",
+      "year": 2007,
+      "manufacturer": "Press Pass",
+      "series": "",
+      "card_number": "SS 34",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 22:39:13.220394",
+      "date_modified": "2026-11-07 22:39:13.220394",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Rick Crawford",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6639_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6638,
       "driver_name": "Scott Riggs",
       "year": 2006,
@@ -148793,15 +149145,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6618,
-    "signed_cards": 6542,
+    "total_cards": 6634,
+    "signed_cards": 6558,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-07T20:45:36.961083",
+  "export_date": "2026-11-08T00:43:24.375884",
   "version": "3.0"
 };
 
