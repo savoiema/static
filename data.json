@@ -1,6 +1,28 @@
 {
   "cards": [
     {
+      "id": 6638,
+      "driver_name": "Scott Riggs",
+      "year": 2006,
+      "manufacturer": "Press Pass",
+      "series": "Optima",
+      "card_number": "10",
+      "discipline": "NASCAR",
+      "item_type": "Card",
+      "notes": "",
+      "date_added": "2026-11-07 20:45:04.883011",
+      "date_modified": "2026-11-07 20:45:04.883011",
+      "authenticated": false,
+      "signatures_list": [
+        {
+          "signer": "Scott Riggs",
+          "date": null
+        }
+      ],
+      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6638_front.jpg",
+      "image_back_file": null
+    },
+    {
       "id": 6637,
       "driver_name": "David Stremme",
       "year": 2005,
@@ -148770,14 +148792,14 @@
     }
   },
   "stats": {
-    "total_cards": 6617,
-    "signed_cards": 6541,
+    "total_cards": 6618,
+    "signed_cards": 6542,
     "unsigned_cards": 76,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-06T13:19:21.314396",
+  "export_date": "2026-11-07T20:45:36.961083",
   "version": "3.0"
 }
