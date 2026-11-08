@@ -1564,23 +1564,6 @@ const collectionData = {
       "image_back_file": null
     },
     {
-      "id": 6584,
-      "driver_name": "Ricky Craven",
-      "year": 1995,
-      "manufacturer": "Upper Deck",
-      "series": "",
-      "card_number": "179",
-      "discipline": "NASCAR",
-      "item_type": "Card",
-      "notes": "",
-      "date_added": "2026-10-24 10:45:53.365463",
-      "date_modified": "2026-10-24 10:45:53.365463",
-      "authenticated": false,
-      "signatures_list": [],
-      "image_front_file": "https://pub-9df9a86a606a437ea8dffd25b1706530.r2.dev/images/0006/card_6584_front.jpg",
-      "image_back_file": null
-    },
-    {
       "id": 6583,
       "driver_name": "Ken Schrader",
       "year": 1994,
@@ -149167,15 +149150,15 @@ const collectionData = {
     }
   },
   "stats": {
-    "total_cards": 6635,
+    "total_cards": 6634,
     "signed_cards": 6559,
-    "unsigned_cards": 76,
+    "unsigned_cards": 75,
     "unique_signers": 2430,
     "unique_disciplines": 18,
     "unique_manufacturers": 80,
     "unique_series": 46
   },
-  "export_date": "2026-11-08T00:56:08.111625",
+  "export_date": "2026-11-08T00:58:04.933708",
   "version": "3.0"
 };
 
